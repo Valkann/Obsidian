@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-03
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Troisième tome et toujours sympa 
 Author:: [Jean Ray](Jean%20Ray)
 Source:: 
 Type:: #SN/Livre 
