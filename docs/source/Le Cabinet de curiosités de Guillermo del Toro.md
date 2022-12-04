@@ -8,12 +8,13 @@ Week :
 Rating : /
 Summary : J'avance.
 ---
+Type:: #SN/Série  
 Date : 2022-11-14-Mon
 Author :
 Source:: 
 - https://www.netflix.com/title/80209229
 - [Guillermo del Toro's Cabinet of Curiosities (TV Series 2022– ) - IMDb](https://www.imdb.com/title/tt8415836/episodes?season=1&ref_=tt_eps_sn_1)
-type:: #SN/Série  
+
 MOC :
 Projet : 
 Tags::
