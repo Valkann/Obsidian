@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-04
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Franchement très bon épisode
 Author::
 Source:: 
 Type:: #SN/Podcast 
@@ -21,3 +21,6 @@ Tags::
 ***
 
 ## Notes
+
+Enquête en 5 noeuds
+3 indices
