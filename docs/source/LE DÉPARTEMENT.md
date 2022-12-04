@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-02
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Découverte de la semaine. Une surper source d'inspiration pour le [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe)
 Author::
 source:: [INERNET](https://www.youtube.com/watch?v=mY8b_N0XLqo&list=PLbCjgJgMhXsGVFmb-NWup-e-qwf8G6H_f)
 Type:: #SN/Vidéo 
