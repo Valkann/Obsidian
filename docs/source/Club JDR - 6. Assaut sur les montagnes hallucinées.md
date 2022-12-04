@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-04
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Partie très sympa 
 Author::
 Source:: 
 Type:: #SN/Podcast 
