@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-03
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Mouais de supers conseils.
 Author:: [Christophe Houllier](Christophe%20Houllier.md)
 Source:: https://www.youtube.com/watch?v=d_8AYYL5vS4&list=WL&index=102&t=8s
 Type:: #SN/Vidéo 
