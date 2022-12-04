@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-04
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Episode court et percutant
 Author::
 source:: [Pourquoi l'erreur est-elle humaine ?](https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-29-novembre-2022-2262518)
 Type:: #SN/Podcast 

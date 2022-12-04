@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-03
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: De bonnes idées reste a voir comment les exploiter
 Author::
 Source:: 
 Type:: #SN/JDR #SN/Livre 

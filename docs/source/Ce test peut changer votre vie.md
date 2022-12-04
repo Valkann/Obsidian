@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-03
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Franchement dubitatif
 Author:: [Fabrice Midal](Fabrice%20Midal.md)
 Source:: 
 Type:: #SN/Vidéo 

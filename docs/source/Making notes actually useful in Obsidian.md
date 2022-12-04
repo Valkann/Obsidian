@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-01
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: De bonnes idées et de bonnes pratiques a mettre en oeuvre
 Author::
 Source::  [Making notes actually useful in Obsidian](https://www.youtube.com/watch?v=v7BbraqevMg&list=WL&index=14)
 Type:: #SN/Vidéo 
