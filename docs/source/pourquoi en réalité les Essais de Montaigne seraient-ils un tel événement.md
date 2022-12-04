@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-04
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Intéressant sur le pourquoi des essais.
 Author::
 Source:: 
 Type:: #SN/Podcast 
