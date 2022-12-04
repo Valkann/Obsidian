@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-03
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Fun et sympa, une série super inclusive.
 Author::
 source:: [Dead End: Paranormal Park (TV Series 2022– ) - IMDb](https://www.imdb.com/title/tt12642764/episodes?season=2&ref_=tt_eps_sn_2)
 Type:: #SN/Série 
