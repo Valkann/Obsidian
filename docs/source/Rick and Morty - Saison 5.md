@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-11-27
 Week:: 48
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Déjanté et plein de fun. De bonnes inspirations aussi.
 Author::
 source:: [Rick and Morty (TV Series 2013– ) - IMDb](https://www.imdb.com/title/tt2861424/episodes?season=5&ref_=tt_eps_sn_5)
 Type:: #SN/Série 
