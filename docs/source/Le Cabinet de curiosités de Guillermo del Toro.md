@@ -1,0 +1,60 @@
+---
+share: true 
+category: source
+Alias:
+Week : 
+- 46
+- 48
+Rating : /
+Summary : J'avance.
+---
+Date : 2022-11-14-Mon
+Author :
+Source:: 
+- https://www.netflix.com/title/80209229
+- [Guillermo del Toro's Cabinet of Curiosities (TV Series 2022– ) - IMDb](https://www.imdb.com/title/tt8415836/episodes?season=1&ref_=tt_eps_sn_1)
+type:: #SN/Série  
+MOC :
+Projet : 
+Tags::
+
+# Le Cabinet de curiosités de Guillermo del Toro
+
+
+***
+
+## Notes
+
+### Season 1
+
+**[Lot 36](https://www.imdb.com/title/tt15262246/?ref_=ttep_ep1 "Lot 36")** #finished 
+
+An ex-vet buys storage locker contents to pay off debts, but buys more than he bargained for when he purchases a lot owned by a strange old man.
+
+**[Graveyard Rats](https://www.imdb.com/title/tt15262276/?ref_=ttep_ep2 "Graveyard Rats")** #finished 
+
+A grave robber eyes the riches of a wealthy new arrival to the cemetery, but must survive a maze of tunnels -- and an army of rodents -- to secure them.
+
+**[The Autopsy](https://www.imdb.com/title/tt14920160/?ref_=ttep_ep3 "The Autopsy")** #finished 
+
+A seasoned sheriff investigates a dead body in the woods and calls on an old pal, a medical examiner, to help piece together a series of chilling events.
+
+**[The Outside](https://www.imdb.com/title/tt15262284/?ref_=ttep_ep4 "The Outside")** #finished 
+
+Longing to fit in at work, awkward Stacey begins to use a popular lotion that causes an alarming reaction, while an unnerving transformation takes shape.
+
+**[Pickman's Model](https://www.imdb.com/title/tt15262250/?ref_=ttep_ep5 "Pickman's Model")**
+
+Art student Will meets introvert Richard, whose terrifying works of art begin to have a deeply disturbing effect on Will's sense of reality.
+
+**[Dreams in the Witch House](https://www.imdb.com/title/tt15262264/?ref_=ttep_ep6 "Dreams in the Witch House")**
+
+Years after his twin sister's death, a researcher ventures Into a dark, mysterious realm with the aid of a special drug, determined to bring her back.
+
+**[The Viewing](https://www.imdb.com/title/tt15262254/?ref_=ttep_ep7 "The Viewing")**
+
+A wealthy recluse hosts four accomplished guests at his stylish mansion for a once-in-a-lifetime experience, but their intrigue soon turns into terror.
+
+**[The Murmuring](https://www.imdb.com/title/tt14404632/?ref_=ttep_ep8 "The Murmuring")**
+
+Mourning a major loss, ornithologists Nancy and Edgar flock to a secluded home to study birds, but the house's history reveals heartbreak and horror.
