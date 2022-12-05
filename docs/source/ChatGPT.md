@@ -25,55 +25,14 @@ Tags::
 ### J'aimerais que tu écrives un scénario de jeu de rôle pour l'appel de Cthulhu
 
 ![La Malédiction de la Cité Perdue](La%20Mal%C3%A9diction%20de%20la%20Cit%C3%A9%20Perdue.md)
+
 ### Je veux une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale
 
-Voici une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale :
-
-1.  Les personnages tombent sur un chien à trois têtes en train d'errer dans les rues de Nightvale.
-    
-2.  Ils rencontrent un habitant de la ville qui leur raconte l'histoire d'un amour impossible entre un humain et un ange.
-    
-3.  Les personnages tombent sur une porte secrète menant à une pièce remplie de livres interdits.
-    
-4.  Ils assistent à un rassemblement organisé par les adorateurs d'un dieu inconnu.
-    
-5.  Ils entendent des bruits étranges provenant de l'abri anti-atomique de la ville.
-    
-6.  Ils rencontrent un groupe de scientifiques travaillant sur un projet secret pour ouvrir un portail vers une autre dimension.
-    
-7.  Ils tombent sur une créature monstrueuse en train de rôder dans les bois en dehors de la ville.
-    
-8.  Ils reçoivent une invitation pour un dîner organisé par le maire de Nightvale, mais ils découvrent que les autres invités ont disparu mystérieusement.
-    
-9.  Ils tombent sur un groupe de fêtards célébrant le "Jour du Troisième Soleil", une fête locale inconnue des personnages.
-    
-10.  Ils sont témoins d'un phénomène étrange dans le ciel, comme des étoiles filantes qui ne bougent pas ou des nuages qui prennent des formes bizarres.
-    
-
-Ces évènements peuvent servir de point de départ pour des aventures passionnantes dans le monde étrange et inquiétant de Nightvale. Bonne chance dans vos explorations!
+![Table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale](Table%20d'%C3%A9v%C3%A8nements%20al%C3%A9atoires%20pour%20un%20jeu%20de%20r%C3%B4le%20inspir%C3%A9%20de%20Nightvale.md)
 
 ### Écris un scénario pour le jeu de rôle Kult
 
-Voici un scénario pour le jeu de rôle Kult :
-
-Titre : Les Portes de l'Enfer
-
-Contexte : Les personnages sont des agents secrets travaillant pour une organisation secrète connue sous le nom de "Division". Leur mission est d'empêcher la réalisation des plans de l'Entité, une force maléfique qui cherche à ouvrir les portes de l'Enfer et à libérer les démons sur Terre.
-
-Déroulement :
-
-1.  Les personnages reçoivent un appel d'urgence de leur supérieur leur demandant de se rendre immédiatement dans une ville du nord de la France. Une église a été dévastée par un incendie suspect et les autorités locales ont besoin d'aide pour enquêter.
-    
-2.  Arrivés sur place, les personnages découvrent que l'incendie a été causé par une explosion d'origine mystérieuse. Ils trouvent des indices suggérant que l'Entité est impliquée dans l'incident.
-    
-3.  En fouillant les restes de l'église, les personnages tombent sur une porte cachée menant à un tunnel secret. Ils décident de suivre le tunnel jusqu'à sa fin, espérant trouver des informations sur les plans de l'Entité.
-    
-4.  Le tunnel les mène à une vieille bibliothèque où ils trouvent un livre ancien contenant des incantations pour ouvrir les portes de l'Enfer. Ils doivent décider s'ils veulent utiliser les incantations pour arrêter l'Entité ou si ils préfèrent détruire le livre pour éviter tout risque.
-    
-5.  Quelle que soit leur décision, les personnages sont attaqués par des démons et doivent se battre pour leur vie. Ils parviennent finalement à échapper aux démons et à fermer les portes de l'Enfer, mais ils savent que l'Entité continuera à les traquer jusqu'à ce qu'ils l'arrêtent définitivement.
-    
-
-Ce scénario peut être adapté et développé pour créer une aventure passionnante dans le monde sombre et inquiétant de Kult. Bonne chance dans votre lutte contre l'Entité !
+![Les Portes de l'Enfer](Les%20Portes%20de%20l'Enfer.md)
 
 ### Imagine un contexte de jeu humoristique ou des gens ordinaires deviennent adeptes de Cthulhu pour des raisons mesquines et se retrouvent à essayer de répondre aux besoins de leur dieu, mais en étant incapable de réellement le faire.
 
