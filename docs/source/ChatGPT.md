@@ -32,26 +32,7 @@ Tags::
 
 ### Écris un scénario pour le jeu de rôle Kult
 
-Voici un scénario pour le jeu de rôle Kult :
-
-Titre : Les Portes de l'Enfer
-
-Contexte : Les personnages sont des agents secrets travaillant pour une organisation secrète connue sous le nom de "Division". Leur mission est d'empêcher la réalisation des plans de l'Entité, une force maléfique qui cherche à ouvrir les portes de l'Enfer et à libérer les démons sur Terre.
-
-Déroulement :
-
-1.  Les personnages reçoivent un appel d'urgence de leur supérieur leur demandant de se rendre immédiatement dans une ville du nord de la France. Une église a été dévastée par un incendie suspect et les autorités locales ont besoin d'aide pour enquêter.
-    
-2.  Arrivés sur place, les personnages découvrent que l'incendie a été causé par une explosion d'origine mystérieuse. Ils trouvent des indices suggérant que l'Entité est impliquée dans l'incident.
-    
-3.  En fouillant les restes de l'église, les personnages tombent sur une porte cachée menant à un tunnel secret. Ils décident de suivre le tunnel jusqu'à sa fin, espérant trouver des informations sur les plans de l'Entité.
-    
-4.  Le tunnel les mène à une vieille bibliothèque où ils trouvent un livre ancien contenant des incantations pour ouvrir les portes de l'Enfer. Ils doivent décider s'ils veulent utiliser les incantations pour arrêter l'Entité ou si ils préfèrent détruire le livre pour éviter tout risque.
-    
-5.  Quelle que soit leur décision, les personnages sont attaqués par des démons et doivent se battre pour leur vie. Ils parviennent finalement à échapper aux démons et à fermer les portes de l'Enfer, mais ils savent que l'Entité continuera à les traquer jusqu'à ce qu'ils l'arrêtent définitivement.
-    
-
-Ce scénario peut être adapté et développé pour créer une aventure passionnante dans le monde sombre et inquiétant de Kult. Bonne chance dans votre lutte contre l'Entité !
+![Les Portes de l'Enfer](Les%20Portes%20de%20l'Enfer.md)
 
 ### Imagine un contexte de jeu humoristique ou des gens ordinaires deviennent adeptes de Cthulhu pour des raisons mesquines et se retrouvent à essayer de répondre aux besoins de leur dieu, mais en étant incapable de réellement le faire.
 
