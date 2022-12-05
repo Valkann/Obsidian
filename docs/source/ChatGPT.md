@@ -24,25 +24,7 @@ Tags::
 
 ### J'aimerais que tu écrives un scénario de jeu de rôle pour l'appel de Cthulhu
 
-Titre : La Malédiction de la Cité Perdue
-
-Contexte : Les personnages sont des archéologues et des explorateurs en quête de la cité perdue de R'lyeh, célèbre pour être le lieu de repos du dieu cthulhien connu sous le nom de Cthulhu.
-
-Déroulement :
-
-1.  Les personnages partent en expédition en Egypte, à la recherche d'indices sur l'emplacement de la cité perdue de R'lyeh. Ils tombent sur une ancienne carte indiquant l'emplacement de la cité et décident de suivre les indications pour la trouver.
-    
-2.  Ils arrivent sur l'île où se trouve R'lyeh et commencent à explorer les ruines. Ils découvrent des inscriptions étranges sur les murs et des symboles qui les mettent mal à l'aise.
-    
-3.  Alors qu'ils explorent les ruines, ils sont attaqués par des cultistes cthulhiens qui veulent les empêcher de réveiller Cthulhu. Les personnages doivent se battre pour leur vie et échapper aux cultistes.
-    
-4.  Après avoir réussi à s'échapper, les personnages trouvent une salle cachée où se trouve une ancienne relique : le livre des morts de R'lyeh. Ils l'ouvrent et sont horrifiés par ce qu'ils y voient : des incantations pour réveiller Cthulhu.
-    
-5.  Les personnages doivent décider s'ils veulent utiliser les incantations pour réveiller Cthulhu et prendre le risque d'affronter la terrible créature, ou si ils préfèrent détruire le livre et empêcher son réveil. Quelle que soit leur décision, ils devront affronter les conséquences de leurs actes.
-    
-
-C'est un scénario simple mais qui peut facilement être adapté et développé pour créer une aventure palpitante pour les joueurs. Bonne chance dans votre quête pour trouver la cité perdue de R'lyeh!
-
+![La Malédiction de la Cité Perdue](La%20Mal%C3%A9diction%20de%20la%20Cit%C3%A9%20Perdue.md)
 ### Je veux une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale
 
 Voici une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale :
@@ -418,3 +400,15 @@ Le Diable de la Baie est un esprit maléfique qui hante les côtes bretonnes. Il
 Les personnages doivent affronter le Diable de la Baie et empêcher qu'il ne continue à causer du mal dans la ville. Ils doivent également affronter les marins et les pêcheurs qui ont été ensorcelés par le Diable de la Baie et qui sont devenus ses serviteurs maléfiques.
 
 Le Diable de la Baie est rapide et agile, et il utilise ses griffes et ses crocs pour attaquer ses ennemis. Il est également capable de contrôler les vagues et les marées pour créer des tempêtes mortelles. Les personnages devront utiliser toutes leurs compétences et leurs ressources pour vaincre le Diable de la Baie et mettre un terme à sa menace.
+
+### créer un nouveau grand ancien pour l'appel de cthulhu
+
+Voici une idée de grand ancien pour l'Appel de Cthulhu :
+
+Le Grand Ancien X'zorath est un dieu ancien et maléfique qui réside dans les profondeurs de l'espace. Il est l'un des plus puissants et des plus terrifiants des grands anciens, car il est capable de contrôler les forces de l'espace et de la gravité.
+
+X'zorath a été invoqué par des cultes secrets à travers l'histoire, mais il est resté en sommeil pendant des millénaires. Récemment, il a été réveillé par les explorations spatiales humaines et il a commencé à envoyer ses serviteurs pour préparer la Terre à sa venue.
+
+Les personnages doivent affronter les serviteurs de X'zorath et empêcher qu'il ne puisse venir sur Terre. Ils doivent également affronter les cultistes qui adorent X'zorath et qui veulent l'aider à conquérir la Terre.
+
+X'zorath est un être incroyablement puissant, capable de détruire des planètes entières avec ses pouvoirs. Les personnages devront utiliser toutes leurs compétences et leurs ressources pour vaincre X'zorath et mettre un terme à sa menace.
