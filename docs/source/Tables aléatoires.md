@@ -23,3 +23,5 @@ Tags::
 ## Notes
 
 ![Rencontres](Rencontres.md)
+
+![Lieux](Lieux.md)
