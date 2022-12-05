@@ -25,32 +25,10 @@ Tags::
 ### J'aimerais que tu écrives un scénario de jeu de rôle pour l'appel de Cthulhu
 
 ![La Malédiction de la Cité Perdue](La%20Mal%C3%A9diction%20de%20la%20Cit%C3%A9%20Perdue.md)
+
 ### Je veux une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale
 
-Voici une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale :
-
-1.  Les personnages tombent sur un chien à trois têtes en train d'errer dans les rues de Nightvale.
-    
-2.  Ils rencontrent un habitant de la ville qui leur raconte l'histoire d'un amour impossible entre un humain et un ange.
-    
-3.  Les personnages tombent sur une porte secrète menant à une pièce remplie de livres interdits.
-    
-4.  Ils assistent à un rassemblement organisé par les adorateurs d'un dieu inconnu.
-    
-5.  Ils entendent des bruits étranges provenant de l'abri anti-atomique de la ville.
-    
-6.  Ils rencontrent un groupe de scientifiques travaillant sur un projet secret pour ouvrir un portail vers une autre dimension.
-    
-7.  Ils tombent sur une créature monstrueuse en train de rôder dans les bois en dehors de la ville.
-    
-8.  Ils reçoivent une invitation pour un dîner organisé par le maire de Nightvale, mais ils découvrent que les autres invités ont disparu mystérieusement.
-    
-9.  Ils tombent sur un groupe de fêtards célébrant le "Jour du Troisième Soleil", une fête locale inconnue des personnages.
-    
-10.  Ils sont témoins d'un phénomène étrange dans le ciel, comme des étoiles filantes qui ne bougent pas ou des nuages qui prennent des formes bizarres.
-    
-
-Ces évènements peuvent servir de point de départ pour des aventures passionnantes dans le monde étrange et inquiétant de Nightvale. Bonne chance dans vos explorations!
+![Table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale](Table%20d'%C3%A9v%C3%A8nements%20al%C3%A9atoires%20pour%20un%20jeu%20de%20r%C3%B4le%20inspir%C3%A9%20de%20Nightvale.md)
 
 ### Écris un scénario pour le jeu de rôle Kult
 
