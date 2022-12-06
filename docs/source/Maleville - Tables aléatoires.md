@@ -15,7 +15,7 @@ MOC::
 Projet:: #CultistesEtCatastrophes 
 Tags:: #Maleville
 
-# Tables aléatoires
+# Maleville - Tables aléatoires
 
 
 ***
@@ -24,4 +24,4 @@ Tags:: #Maleville
 
 ![Maleville - Rencontres](Maleville%20-%20Rencontres)
 
-![Lieux](Lieux.md)
+![Maleville - Lieux](Maleville%20-%20Lieux.md)
