@@ -8,7 +8,7 @@ Week:: 49
 Rating::
 Summary:: 
 Author::
-Source : [Tables aléatoires](Tables%20al%C3%A9atoires.md)
+Source : [0020 Projects/Maleville/Maleville - Tables aléatoires](./Maleville%20-%20Tables%20al%C3%A9atoires.md)
 Type:: #SN/JDR #TableAléatoire
 Status:: 
 MOC::
