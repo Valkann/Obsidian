@@ -12,8 +12,8 @@ Source::
 Type:: #SN/JDR 
 Status:: #wip 
 MOC::
-Projet:: #cultistes_et_catastrophes 
-Tags:: 
+Projet:: #CultistesEtCatastrophes 
+Tags:: #Maleville
 
 # Tables aléatoires
 
@@ -22,6 +22,6 @@ Tags::
 
 ## Notes
 
-![Maleville - Rencontres](Maleville%20-%20Rencontres.md)
+![Maleville - Rencontres](Maleville%20-%20Rencontres)
 
 ![Lieux](Lieux.md)

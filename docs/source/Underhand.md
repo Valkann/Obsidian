@@ -13,7 +13,7 @@ Source::
 Type:: #SN/Livre #SN/JDR 
 MOC::
 Projet:: 
-Tags:: #cultistes_et_catastrophes, #jeu_vidéo, #to_discover
+Tags:: #CultistesEtCatastrophes, #jeu_vidéo, #to_discover
 
 # Underhand
 
