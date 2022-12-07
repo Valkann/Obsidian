@@ -169,9 +169,6 @@ Maintenant, les personnages doivent utiliser les pouvoirs et les ressources offe
 
 Si les personnages réussissent à mettre en œuvre leur plan, ils deviendront les maîtres du monde et seront adorés par des millions de fidèles. Cependant, si leurs ennemis réussissent à les arrêter, ils seront condamnés à l'échec et à la destruction. Il reviendra aux joueurs de décider de l'issue de cette histoire épique.
 
-### faire un monstre pour le jeu de rôle monster of the week
-
-
 ### faire un monstre pour le jeu de rôle monster of the week inspiré du folklore breton
 
 Voici une idée de monstre pour le jeu de rôle Monster of the Week inspiré du folklore breton :
