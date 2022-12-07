@@ -74,54 +74,6 @@ Voici une table aléatoire de noms de villes modernes imaginaires :
 Ces noms peuvent être utilisés pour des villes fictives dans un jeu de rôle ou dans toute autre histoire imaginaire. Ils peuvent évoquer des endroits idylliques et parfaits, ou des lieux futuristes et futuristes. Laissez libre cours à votre imagination pour décider comment ces villes sont conçues et comment elles s'intègrent dans votre univers imaginaire.
 
 
-
-###  Voici une table aléatoire d'évènements pour un jeu de rôle inspiré de Friends et Nightvale 
-
-
-4.  
-    
-5.  Ils sont témoins d'un évènement étrange et inexpliqué, comme un ciel qui s'assombrit subitement ou des lumières étranges dans les rues.
-    
-6.  Ils sont approchés par un individu qui leur offre un travail pour une organisation secrète, mais ils ne savent pas exactement de quoi il s'agit.
-    
-7.  Ils sont invités à une soirée organisée par un ami qui s'avère être un peu trop étrange pour être vrai.
-    
-8.  Ils découvrent que leur voisin est en réalité un extraterrestre en mission sur Terre.
-    
-9.  Ils tombent sur un groupe de citoyens qui se sont organisés pour enquêter sur les évènements étranges qui se produisent dans la ville.
-    
-10.  Ils sont témoins d'un évènement étrange et inexpliqué, comme des choses qui bougent toutes seuls
-    
-11.  Les personnages sont invités à une fête organisée par l'un d'entre eux, mais ils découvrent rapidement que les autres invités sont des créatures étranges venant d'un autre monde.
-    
-12.  Ils tombent sur un livre ancien contenant des informations sur les créatures occultes et doivent décider s'ils vont l'utiliser pour leur propre bénéfice ou s'ils vont le protéger des autres créatures.
-    
-13.  Ils assistent à un rassemblement de créatures occultes où un nouveau membre est initié dans leur groupe.
-    
-14.  Ils tombent sur un humain qui a découvert leur secret et qui les menace de les dénoncer si ils ne lui donnent pas ce qu'il veut.
-    
-15.  Ils sont invités à une fête organisée par un groupe rival de créatures occultes et doivent naviguer dans les tensions politiques entre les différents groupes pour ne pas se faire tuer.
-    
-16.  Ils découvrent un membre de leur groupe qui a été ensorcelé pour ne plus pouvoir sortir à la lumière du jour et doivent trouver un moyen de lever le sort avant qu'il ne soit trop tard.
-    
-17.  Ils tombent sur une créature qui a perdu tous ses pouvoirs et qui doit compter sur eux pour l'aider à retrouver sa force.
-    
-18.  Les personnages sont invités à une fête organisée par l'un d'entre eux, mais ils découvrent rapidement que les autres invités sont des créatures étranges venant d'un autre monde.
-    
-19.  Ils tombent sur un livre ancien contenant des informations sur les créatures occultes et doivent décider s'ils vont l'utiliser pour leur propre bénéfice ou s'ils vont le protéger des autres créatures.
-    
-20.  Ils assistent à un rassemblement de créatures occultes où un nouveau membre est initié dans leur groupe.
-    
-21.  Ils tombent sur un humain qui a découvert leur secret et qui les menace de les dénoncer si ils ne lui donnent pas ce qu'il veut.
-    
-22.  Ils sont invités à une fête organisée par un groupe rival de créatures occultes et doivent naviguer dans les tensions politiques entre les différents groupes pour ne pas se faire tuer.
-    
-23.  Ils découvrent un membre de leur groupe qui a été ensorcelé pour ne plus pouvoir sortir à la lumière du jour et doivent trouver un moyen de lever le sort avant qu'il ne soit trop tard.
-    
-24.  Ils tombent sur une créature qui a perdu tous ses pouvoirs et qui doit compter sur eux pour l'aider à retrouver sa force.
-    
-25.  Ils rencontrent un humain qui a été transformé en animal et doivent l'aider
-
 ### Écris un jeu de rôle sur Nightvale
 
 Night Vale est une petite ville située quelque part dans le désert du sud-ouest des États-Unis. C'est une ville étrange et inquiétante, où les lois naturelles ne semblent pas s'appliquer. Les gens rapportent régulièrement avoir vu des choses étranges dans les rues de Night Vale, comme des créatures à la peau de pierre, des hommes en costume avec des cravates de coton, et même des étoiles filantes qui chantent.
@@ -130,7 +82,7 @@ Le joueur incarne un habitant de Night Vale, qui doit naviguer dans cet environn
 
 Le jeu se déroule en utilisant des dés pour déterminer les actions du joueur et pour résoudre les conflits. Le joueur peut gagner ou perdre des points d'expérience en fonction de ses actions, et il peut utiliser ces points pour améliorer ses compétences et acquérir de nouvelles capacités.
 
-Le joueur doit également naviguer dans les relations conflictuelles entre les différents groupes qui habitent Night Vale, comme les membres du conseil municipal, les forces de l'ordre, et les mystérieux Strangers qui vivent dans les montagnes. Il devra également faire face aux événements étranges qui se produisent régulièrement dans la ville, comme les nuages ​​de sable qui enveloppent la ville, les émissions de radio cryptiques, et les événements étranges organisés par l'homme en costume de coton.
+Le joueur doit également naviguer dans les relations conflictuelles entre les différents groupes qui habitent Night Vale, comme les membres du conseil municipal, les forces de l'ordre, et les mystérieux Strangers qui vivent dans les montagnes. Il devra également faire face aux événements étranges qui se produisent régulièrement dans la ville, comme les nuages de sable qui enveloppent la ville, les émissions de radio cryptiques, et les événements étranges organisés par l'homme en costume de coton.
 
 Avec un peu de chance, le joueur parviendra à survivre à Night Vale et à percer ses secrets les plus sombres. Mais attention, car rien ne est jamais ce qu'il semble être dans cette ville étrange et inquiétante.
 
@@ -146,27 +98,6 @@ Le jeu met l'accent sur l'interaction entre les joueurs et encourage la coopéra
 
 Avec un peu de chance, les joueurs parviendront à réaliser leur plan maléfique et à régner en maîtres sur le monde. Mais attention, car il y a toujours une catastrophe qui guette au coin de la rue dans ce monde chaotique et dangereux.
 
-### imagine une table aléatoire de twist humoristique pour une partie de jeu de rôle
-
-1.  Tous les personnages sont des chats anthropomorphiques.
-    
-2.  Les sorts de magie ne fonctionnent que si le lanceur fait un "miam" satisfaisant.
-    
-3.  Les ennemis que les personnages rencontrent sont en fait des comédiens en costume mal faits.
-    
-4.  Toutes les armes sont en caoutchouc.
-    
-5.  Les personnages peuvent invoquer des choses en utilisant des emoticônes de texto.
-    
-6.  Les personnages peuvent se téléporter en marchant à reculons et en disant "oups".
-    
-7.  Toutes les récompenses en argent sont en jouets en plastique.
-    
-8.  Les personnages gagnent des points bonus s'ils font des blagues maladroites.
-    
-9.  Les personnages peuvent invoquer des clones de leur personnage en faisant des mouvements de danse ridicules.
-    
-10.  Les personnages peuvent utiliser des objets de la vie quotidienne, comme des sacs en papier ou des rouleaux de papier toilette, comme des armes mortelles.
 
 ### Imagine un quartier d'une ville appelée Maleville et qui est inspiré de NIghtvale
 
@@ -254,11 +185,7 @@ Dans le jeu de rôle Cultistes et Catastrophes, les personnages sont des cultist
 
 Les personnages sont membres d'un culte secret qui adore un dieu ancien et maléfique nommé N'gathla. Ils ont passé des années à étudier les textes anciens et à accomplir des rituels obscurs pour invoquer leur dieu et lui offrir des sacrifices humains.
 
-Un jour, les personnages découvrent que leur dieu N'gathla est en fait un grand fan de soupe. Il leur demande donc de lui préparer une soupe parfaite en échange de son aide pour mettre en œuvre leur plan diabolique.
 
-Les personnages se retrouvent donc à essayer de trouver les ingrédients parfaits pour la soupe de N'gathla, tout en faisant face à des obstacles comiques tels que des fournisseurs de légumes difficiles à convaincre, des animaux domestiques qui mangent leurs ingrédients, et même des membres de leur propre culte qui ne comprennent pas pourquoi ils ne se concentrent pas sur leur plan diabolique.
-
-Finalement, les personnages réussissent à préparer une soupe parfaite pour N'gathla, qui les récompense en leur offrant son aide pour mettre en œuvre leur plan. Cependant, ils doivent également faire face aux conséquences de leur succès, car leur soupe parfaite attire l'attention d'autres dieux jaloux et envieux. Les personnages doivent donc affronter de nouvelles challenges pour protéger leur soupe et accomplir leur plan diabolique.
 
 ### faire un monstre pour le jeu de rôle monster of the week
 
