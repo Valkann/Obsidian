@@ -33,6 +33,8 @@ Reste à voir quelles histoires seraient plus marrantes à jouer. Des cultistes 
 
 Ou des cultistes par erreur qui vont essayer de donner le change à leur confrère en essayant de faire ce qu'on leur demande
 
+***
+
 Pour rester dans la veine du jeu original dans un premier temps :
 - Vous êtes une cellule du culte dormante, vous êtes infiltrés dans le voisinage d'une charmante petite ville et avez bâti une solide réputation de personne normale voir ennuyeuse au fil du temps.
 - Votre cellule est activée et vous devez alors répondre aux exigences du culte.
@@ -51,6 +53,7 @@ Décidez conjointement :
 - des attributs étranges de votre divinité 
 
 **Idées de noms d'organisation**
+
 |     | Organisation   | Nom                | 
 | --- | -------------- | ------------------ |
 | 1   | Culte          | de l'agneau        |
@@ -61,6 +64,7 @@ Décidez conjointement :
 | 6   | Les chevaliers | du dernier siècle  |
 
 **Idées de Divinité**
+
 |     | Nom          | Qualificatif                  | Caractéristique   |
 | --- | ------------ | ----------------------------- | ----------------- |
 | 1   | Margoroth    | Le Destructeur                | Tentaculaire      |
@@ -78,6 +82,7 @@ Décidez conjointement :
 - Des relations de vos personnages tel qu'expliqué dans le livre "Non Merci"
 
 **idées de quartier**
+
 |     | Nom    | Caractéristiques                    |
 | --- | ------ | ----------------------------------- |
 | 1   | Fleurs | concours de la plus belle rose      |
