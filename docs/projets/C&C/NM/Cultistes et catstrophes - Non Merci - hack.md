@@ -3,6 +3,7 @@ Created : 2022-05-30-Mon
 Week : 
 - 44
 - 45
+- 49
 URL:
 Alias :
 Type : 
@@ -35,6 +36,8 @@ Ou des cultistes par erreur qui vont essayer de donner le change à leur confrè
 
 ***
 
+## Pitch
+
 Pour rester dans la veine du jeu original dans un premier temps :
 - Vous êtes une cellule du culte dormante, vous êtes infiltrés dans le voisinage d'une charmante petite ville et avez bâti une solide réputation de personne normale voir ennuyeuse au fil du temps.
 - Votre cellule est activée et vous devez alors répondre aux exigences du culte.
@@ -48,6 +51,7 @@ Comme le jeu de base, ce contexte se veut résolument non-violent. Des solutions
 #### Qui êtes-vous ?
 
 Vous êtes une cellule dormante d'un culte à une entité abominable et incompréhensible qui provient de dimensions inconnues de l'homme.
+
 Décidez conjointement : 
 - du nom de votre organisation et de votre divinité
 - des attributs étranges de votre divinité 
@@ -93,6 +97,8 @@ Décidez conjointement :
 | 6   | Mairie | Animations culturelles régulières   | 
 
 ### Accroches
+
+
 
 ### Incidents
 
