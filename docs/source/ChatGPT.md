@@ -169,22 +169,6 @@ Maintenant, les personnages doivent utiliser les pouvoirs et les ressources offe
 
 Si les personnages réussissent à mettre en œuvre leur plan, ils deviendront les maîtres du monde et seront adorés par des millions de fidèles. Cependant, si leurs ennemis réussissent à les arrêter, ils seront condamnés à l'échec et à la destruction. Il reviendra aux joueurs de décider de l'issue de cette histoire épique.
 
-
-### faire un monstre pour le jeu de rôle monster of the week
-
-
-### faire un monstre pour le jeu de rôle monster of the week
-
-Voici une idée de monstre pour le jeu de rôle Monster of the Week :
-
-Le Chuchoteur est un monstre qui se cache dans les rues sombres et les égouts de la ville. Il ressemble à un grand rat aux dents acérées et aux griffes tranchantes.
-
-Le Chuchoteur se nourrit de la peur et de l'angoisse des humains, et il adore se cacher dans les endroits sombres et terrifiants pour tendre des embuscades à ses victimes. Il est capable de communiquer avec les humains en chuchotant dans leur oreille, leur murmurant des choses terrifiantes pour les effrayer encore plus.
-
-Les personnages doivent affronter le Chuchoteur et empêcher qu'il ne continue à semer la terreur dans la ville. Ils doivent également affronter les humains qui sont devenus fous à cause des chuchotements du Chuchoteur et qui sont dangereux et imprévisibles.
-
-Le Chuchoteur est rapide et agile, et il utilise ses dents et ses griffes pour attaquer ses ennemis. Il est également capable de manipuler les peurs de ses victimes pour les rendre plus vulnérables
-
 ### faire un monstre pour le jeu de rôle monster of the week inspiré du folklore breton
 
 Voici une idée de monstre pour le jeu de rôle Monster of the Week inspiré du folklore breton :

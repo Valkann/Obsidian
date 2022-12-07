@@ -13,7 +13,7 @@ Type:: #SN/JDR #SN/Livre
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: 
+Tags:: #CultistesEtCatastrophes 
 
 # The Bad Time Game SRD
 
