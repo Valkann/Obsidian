@@ -30,7 +30,11 @@ Une lueur diabolique s’alluma dans ses yeux ternes.
 Harry Dickson se souvint du Lunatic-Asyleum de Willensden… Caryble était fou, mais il l’avait vu mourir !  
 — Professeur Caryble, je vous ai cru mort, dit-il.  
 — Mais je le suis, n’en doutez pas, sinon je n’aurais pu évoluer dans ce monde qui n’est pas celui des vivants. Non, non, ne me demandez plus rien, je n’ai pas le droit de trahir le secret de la création. Dieu me punirait… Venez, que je vous rende au monde des vivants auquel vous appartenez encore. Venez, avant que les terribles hommes-nuages n’apparaissent et ne vous gardent à jamais prisonniers dans la mort !  
+
+Isnpiration pour #AppelDeCthulhu 
   
 *****  
   
 Tenez, voici un dieu étrange, qui aurait été une sorte de Moloch en miniature de la fabuleuse Atlantide. Son nom est Ru-Uh-Ca, ce qui, en langage aztèque, paraît avoir signifié marmite. En effet, la monstrueuse déité possède une tête en forme de marmite, dont les oreilles évasées seraient les anses. La fable – je dis bien la fable, monsieur – veut que son image fût façonnée en ce métal précieux et mystérieux nommé orichalque.
+
+inspiration pour #MoTW 
