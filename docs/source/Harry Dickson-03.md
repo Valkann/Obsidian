@@ -37,4 +37,4 @@ Isnpiration pour #AppelDeCthulhu
   
 Tenez, voici un dieu étrange, qui aurait été une sorte de Moloch en miniature de la fabuleuse Atlantide. Son nom est Ru-Uh-Ca, ce qui, en langage aztèque, paraît avoir signifié marmite. En effet, la monstrueuse déité possède une tête en forme de marmite, dont les oreilles évasées seraient les anses. La fable – je dis bien la fable, monsieur – veut que son image fût façonnée en ce métal précieux et mystérieux nommé orichalque.
 
-inspiration pour #MoTW 
+inspiration pour #MotW 

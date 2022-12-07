@@ -12,7 +12,7 @@ Source::
 Type:: [Note Source](Note%20Source)
 MOC::
 Projet:: 
-Tags:: #idée #mdo #bretagne 
+Tags:: #idée #MdO #bretagne 
 
 # Fantôme de bretagne
 
