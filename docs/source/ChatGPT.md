@@ -22,18 +22,6 @@ Tags::
 
 ## Notes
 
-### J'aimerais que tu écrives un scénario de jeu de rôle pour l'appel de Cthulhu
-
-![La Malédiction de la Cité Perdue](La%20Mal%C3%A9diction%20de%20la%20Cit%C3%A9%20Perdue.md)
-
-### Je veux une table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale
-
-![Table d'évènements aléatoires pour un jeu de rôle inspiré de Nightvale](Table%20d'%C3%A9v%C3%A8nements%20al%C3%A9atoires%20pour%20un%20jeu%20de%20r%C3%B4le%20inspir%C3%A9%20de%20Nightvale.md)
-
-### Écris un scénario pour le jeu de rôle Kult
-
-![Les Portes de l'Enfer](Les%20Portes%20de%20l'Enfer.md)
-
 ### Imagine un contexte de jeu humoristique ou des gens ordinaires deviennent adeptes de Cthulhu pour des raisons mesquines et se retrouvent à essayer de répondre aux besoins de leur dieu, mais en étant incapable de réellement le faire.
 
 Voici un contexte de jeu humoristique dans lequel des gens ordinaires deviennent adeptes de Cthulhu pour des raisons mesquines :
@@ -73,64 +61,24 @@ Le ton humoristique du jeu vient du fait que les personnages sont des gens ordin
 Voici une table aléatoire de noms de villes modernes imaginaires :
 
 1.  Avalon
-    
 2.  Edenville
-    
 3.  Novacité
-    
 4.  Arcadie
-    
 5.  Horizonville
-    
 6.  Utopolis
-    
 7.  Blissville
-    
 8.  Dreamland
-    
 9.  Paradisia
-    
 10.  New Eden
-    
 
 Ces noms peuvent être utilisés pour des villes fictives dans un jeu de rôle ou dans toute autre histoire imaginaire. Ils peuvent évoquer des endroits idylliques et parfaits, ou des lieux futuristes et futuristes. Laissez libre cours à votre imagination pour décider comment ces villes sont conçues et comment elles s'intègrent dans votre univers imaginaire.
 
-### Fais une table aléatoire d'évènement pour un jeu de rôle inspiré de "What we do in the shadows"
 
-Voici une table aléatoire d'évènements pour un jeu de rôle inspiré de "What we do in the shadows" :
-
-1.  Les personnages tombent sur un groupe de vampires en train de se disputer à cause d'une erreur stupide commise par l'un d'entre eux.
-    
-2.  Ils assistent à un rassemblement de vampires où un nouveau membre est initié dans leur clan.
-    
-3.  Ils découvrent un livre ancien contenant des secrets sur les vampires et doivent décider s'ils vont l'utiliser pour leur propre bénéfice ou s'ils vont le protéger des autres vampires.
-    
-4.  Ils tombent sur un vampire qui a été enfermé dans un cercueil pendant des siècles et qui a oublié tout de son passé. Ils doivent l'aider à se souvenir de qui il est et de ce qu'il a fait pour arriver là.
-    
-5.  Ils rencontrent un humain qui a découvert leur secret et qui les menace de les dénoncer si ils ne lui donnent pas ce qu'il veut.
-    
-6.  Ils sont invités à une fête organisée par un clan rival et doivent naviguer dans les tensions politiques entre les différents groupes de vampires pour ne pas se faire tuer.
-    
-7.  Ils tombent sur un vampire qui a été ensorcelé pour ne plus pouvoir sortir à la lumière du jour et doivent trouver un moyen de lever le sort avant qu'il ne soit trop tard.
-    
-8.  Ils découvrent un vampire qui a perdu tous ses pouvoirs et qui doit compter sur eux pour l'aider à retrouver sa force.
-    
-9.  Ils tombent sur un vampire qui a été transformé en animal et doivent l'aider à retrouver sa forme humaine avant qu'il ne soit trop tard.
-    
-10.  Ils sont attaqués par un groupe de chasseurs de vampires et doivent se battre pour leur survie.
-    
-
-Ces évènements peuvent servir de point de départ pour des aventures passionnantes dans le monde sombre et intrigant des vampires de
 
 ###  Voici une table aléatoire d'évènements pour un jeu de rôle inspiré de Friends et Nightvale 
 
-1.  Les personnages assistent à une réunion de quartier bizarre où ils doivent voter pour une nouvelle loi étrange.
-    
-2.  Ils tombent sur un individu étrange qui semble avoir le pouvoir de prédire l'avenir, mais dont les prédictions sont toujours imprécises et alarmantes.
-    
-3.  Ils sont invités à une fête organisée par un ami qui habite dans une maison hantée.
-    
-4.  Ils découvrent un groupe de citoyens qui se sont organisés pour résister à l'autorité mystérieuse qui gouverne la ville.
+
+4.  
     
 5.  Ils sont témoins d'un évènement étrange et inexpliqué, comme un ciel qui s'assombrit subitement ou des lumières étranges dans les rues.
     
