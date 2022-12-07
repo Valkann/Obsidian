@@ -21,4 +21,4 @@ Tags:: #idée #MdO #bretagne
 
 ## Notes
 
-Reprendre les histoires de château hanté et de fantômes de Bretagne pour #mystère_de_l_ouest 
+Reprendre les histoires de château hanté et de fantômes de Bretagne pour #MdO 
