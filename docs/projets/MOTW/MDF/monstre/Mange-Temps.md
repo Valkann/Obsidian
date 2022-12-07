@@ -18,7 +18,7 @@ Alias :
 - Mange-Temps
 ---
 
-Tags : #JDR/Création #JDR/Scénario 
+Tags : #JDR/Création #JDR/Scénario #MotW 
 
 ***
 
