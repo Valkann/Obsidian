@@ -12,7 +12,7 @@ Source :
 Type:: #SN/Livre
 MOC :
 Projet : 
-Tags :  #to_discover 
+Tags :  #to_discover #MdO
 
 # Le foyer breton
 

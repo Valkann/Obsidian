@@ -22,5 +22,5 @@ Tags::
 
 ## Notes
 
-Enquête en 5 noeuds
-3 indices
+- Enquête en 5 noeuds
+- 3 indices
