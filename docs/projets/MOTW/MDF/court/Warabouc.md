@@ -14,7 +14,7 @@ Tags:
   - writing
 Created: 2021-09-08-Wed
 Alias:
-published: false
+published: true
 ---
 
 Tags : #JDR/Création #JDR/Scénario 
