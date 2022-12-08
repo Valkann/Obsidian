@@ -21,7 +21,9 @@ Type: projet
 # Cultistes & Catstrophes - Hack PbtA
 
 ***
+#CultistesEtCatastrophes 
 
+Une bonne source d'inspiration est [Global Corp](Global%20Corp.md) de [Gulix](Gulix)
 ## Notes
 
 - Ne faire un jet que quand on est incompétent  ou que l'on veut obtenir de l'ascendant sur les autres joueurs.
