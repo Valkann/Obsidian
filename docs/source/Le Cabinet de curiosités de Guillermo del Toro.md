@@ -5,6 +5,7 @@ Alias:
 Week : 
 - 46
 - 48
+- 49
 Rating : /
 Summary : J'avance.
 ---
@@ -44,7 +45,7 @@ A seasoned sheriff investigates a dead body in the woods and calls on an old pal
 
 Longing to fit in at work, awkward Stacey begins to use a popular lotion that causes an alarming reaction, while an unnerving transformation takes shape.
 
-**[Pickman's Model](https://www.imdb.com/title/tt15262250/?ref_=ttep_ep5 "Pickman's Model")**
+**[Pickman's Model](https://www.imdb.com/title/tt15262250/?ref_=ttep_ep5 "Pickman's Model")** #finished 
 
 Art student Will meets introvert Richard, whose terrifying works of art begin to have a deeply disturbing effect on Will's sense of reality.
 
