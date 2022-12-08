@@ -19,6 +19,8 @@ Tags : #wip #scénario #jdr #projet
 
 # À la poursuite des nains de jardin
 
+#scénario #CultistesEtCatastrophes 
+
 ## Problème initial
 
 C'est la saison annuelle du concours de Nain de Jardin du quartier. 
