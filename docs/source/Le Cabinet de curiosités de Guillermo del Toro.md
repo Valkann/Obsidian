@@ -58,7 +58,7 @@ Bonne histoire, mais qui ne résonne pas trop pour moi. Le côté aussi très d�
 
 Art student Will meets introvert Richard, whose terrifying works of art begin to have a deeply disturbing effect on Will's sense of reality.
 
-Une très bonne reprise de la nouvelle de Lovecraft, j'aurais préféré rester encore plus dans la suggestion sur les créatures mais ttrsè bon.
+Une très bonne reprise de la nouvelle de Lovecraft, j'aurais préféré rester encore plus dans la suggestion sur les créatures, mais très bon.
 
 **[Dreams in the Witch House](https://www.imdb.com/title/tt15262264/?ref_=ttep_ep6 "Dreams in the Witch House")**
 
