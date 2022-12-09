@@ -31,23 +31,34 @@ Tags::
 
 **[Lot 36](https://www.imdb.com/title/tt15262246/?ref_=ttep_ep1 "Lot 36")** #finished 
 
-An ex-vet buys storage locker contents to pay off debts, but buys more than he bargained for when he purchases a lot owned by a strange old man.
+>An ex-vet buys storage locker contents to pay off debts, but buys more than he bargained for 
+ when he purchases a lot owned by a strange old man.
+
+Épisode très intéressant dans l'horreur, d'abord suggéré puis  dans l'entrepôt. 
 
 **[Graveyard Rats](https://www.imdb.com/title/tt15262276/?ref_=ttep_ep2 "Graveyard Rats")** #finished 
 
-A grave robber eyes the riches of a wealthy new arrival to the cemetery, but must survive a maze of tunnels -- and an army of rodents -- to secure them.
+>A grave robber eyes the riches of a wealthy new arrival to the cemetery, but must survive a maze of tunnels -- and an army of rodents -- to secure them.
+
+Un épisode pour  lequel il ne faut pas être claustrophobe, l'ambiance est bien rendue, mais ça manque un poil d'explication ou de contexte.
 
 **[The Autopsy](https://www.imdb.com/title/tt14920160/?ref_=ttep_ep3 "The Autopsy")** #finished 
 
-A seasoned sheriff investigates a dead body in the woods and calls on an old pal, a medical examiner, to help piece together a series of chilling events.
+>A seasoned sheriff investigates a dead body in the woods and calls on an old pal, a medical examiner, to help piece together a series of chilling events.
+
+Franchement très bon, je ne sais pas pourquoi, mais je lui aie trouvé un côté vraiment X-Files.
 
 **[The Outside](https://www.imdb.com/title/tt15262284/?ref_=ttep_ep4 "The Outside")** #finished 
 
 Longing to fit in at work, awkward Stacey begins to use a popular lotion that causes an alarming reaction, while an unnerving transformation takes shape.
 
+Bonne histoire, mais qui ne résonne pas trop pour moi. Le côté aussi très découpé en deux parties m'a moins plu. On perd en fluidité.
+
 **[Pickman's Model](https://www.imdb.com/title/tt15262250/?ref_=ttep_ep5 "Pickman's Model")** #finished 
 
 Art student Will meets introvert Richard, whose terrifying works of art begin to have a deeply disturbing effect on Will's sense of reality.
+
+Une très bonne reprise de la nouvelle de Lovecraft, j'aurais préféré rester encore plus dans la suggestion sur les créatures mais ttrsè bon.
 
 **[Dreams in the Witch House](https://www.imdb.com/title/tt15262264/?ref_=ttep_ep6 "Dreams in the Witch House")**
 
