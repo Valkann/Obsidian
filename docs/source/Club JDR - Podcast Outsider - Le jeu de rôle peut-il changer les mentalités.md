@@ -5,12 +5,12 @@ Alias:
 ---
 Date:: 2022-11-27
 Week:: 47
-Rating:: -
-Summary:: En cours
+Rating:: 5
+Summary:: Bon épisode, donne envie de relancer un frankencast
 Author::
 Source:: 
 Type:: #SN/Podcast 
-Status:: #listening 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 

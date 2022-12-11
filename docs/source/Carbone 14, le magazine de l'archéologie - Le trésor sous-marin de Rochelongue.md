@@ -8,7 +8,7 @@ Week:: 49
 Rating:: /
 Summary:: /
 Author::
-Source:: 
+Source:: https://podcastaddict.com/episode/149063769
 Type:: #SN/Podcast 
 Status:: #listening 
 MOC::
