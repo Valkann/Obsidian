@@ -3,8 +3,8 @@ share: true
 category: source
 Alias:
 ---
-Date:: {{date:YYYY-MM-DD}}
-Week:: {{date:WW}}
+Date:: <% tp.date.now("YYYY-MM-DD") %>
+Week:: <% tp.date.now("WW") %>
 Rating::
 Summary:: 
 Author::
@@ -15,7 +15,7 @@ MOC::
 Projet:: 
 Tags:: 
 
-# {{title}}
+# <% tp.file.title %>
 
 
 ***
