@@ -5,12 +5,12 @@ Alias:
 ---
 Date:: 2022-12-14
 Week:: 50
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Yet another TV Cooking show...
 Author::
 Source:: [Le Choc des snacks (Série télévisée 2022– ) - IMDb](https://www.imdb.com/title/tt21840894/)
 Type:: #SN/Série 
-Status:: #watching 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 
