@@ -1,17 +1,17 @@
 ---
 raindrop_id: 486284196
-raindrop_last_update: 2022-12-18T10:30:58.849Z
+raindrop_last_update: 2022-12-18T14:44:56.066Z
 share: true
 category: source
+Week: 50
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Vidéo intéressante mais j'aurais aimé un truc plus concis sur les conseils et les bonnes pratiques
 Author::
-Source:: 
 Source:: https://www.youtube.com/watch?v=psmjLS25-_A&list=WL&index=25
-Type:: #SN/
-Status:: 
+Type:: #SN/Vidéo 
+Status:: #finished 
 MOC::
 Projet:: 
 
@@ -22,3 +22,7 @@ Projet::
 bienvenu dans ce nouvel épisode de sous la couette avec mon partenaire @wopilo_sleep Pour découvrir leurs gammes d'oreiller haut de gamme et personnalisables...
 
 ## Highlights
+
+L'intensité lumineuse diminue avec la distance
+- Un écran a 30 cm qui envoie 300 LUX n'enverra plus que 30 LUX à 2 ou 3 mètre et donc l'impact sur la gestion du sommeil sera presque nulle.
+
