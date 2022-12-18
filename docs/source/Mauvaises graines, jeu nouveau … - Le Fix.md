@@ -1,17 +1,18 @@
 ---
 raindrop_id: 486457212
-raindrop_last_update: 2022-12-17T06:37:16.101Z
+raindrop_last_update: 2022-12-18T10:29:35.152Z
 share: true
 category: source
+Week: 50
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Sans doute des choses intéressantes mais je ne sais pas si je suis assez accroché pour le prendre.
 Author::
 Source:: 
 Source:: http://lefix.di6dent.fr/archives/19852
-Type:: #SN/
-Status:: 
+Type:: #SN/Article #SN/Newsletter 
+Status:: #finished 
 MOC::
 Projet:: 
 
@@ -43,4 +44,4 @@ Partager cet article En bien ou en mal, l’éditeur LETO (nouveau nom des Édit
 >
 > LIEN(S) : 
 >
->La page de la souscription
+>[La page de la souscription](https://www.letogames.com/yuigahama)

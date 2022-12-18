@@ -3,6 +3,7 @@ raindrop_id: 297263446
 raindrop_last_update: 2022-12-17T06:03:57.057Z
 share: true
 category: source
+Week: 50
 ---
 
 Rating::
@@ -10,8 +11,8 @@ Summary::
 Author::
 Source:: 
 Source:: http://www.huffingtonpost.fr/2016/09/22/au-dela-des-murs-arte-serie-horreur-poesie-critique-video_n_12128646.html
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #to_discover 
 MOC::
 Projet:: 
 

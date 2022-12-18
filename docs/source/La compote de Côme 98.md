@@ -6,8 +6,8 @@ category: source
 Week: 50
 ---
 
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Pas mal de conseils de lecture qu'il faut que j'intègre 
 Author::
 Source:: 
 Source:: https://comemartin.substack.com/p/la-compote-de-come-98

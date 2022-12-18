@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2022-12-12
 Week:: 50
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Court, simple avec des conseils facile à mettre en oeuvre.
 Author::
 Source:: https://www.youtube.com/watch?v=F8_ME4VwTiw&list=WL&index=1
 Type:: #SN/Vidéo 
