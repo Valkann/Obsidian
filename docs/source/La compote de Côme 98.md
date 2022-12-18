@@ -1,8 +1,9 @@
 ---
 raindrop_id: 486459559
-raindrop_last_update: 2022-12-17T08:05:49.524Z
+raindrop_last_update: 2022-12-18T10:29:35.253Z
 share: true
 category: source
+Week: 50
 ---
 
 Rating::
@@ -10,8 +11,8 @@ Summary::
 Author::
 Source:: 
 Source:: https://comemartin.substack.com/p/la-compote-de-come-98
-Type:: #SN/
-Status:: 
+Type:: #SN/Article #SN/Newsletter
+Status:: #finished 
 MOC::
 Projet:: 
 
