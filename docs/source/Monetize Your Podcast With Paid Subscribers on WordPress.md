@@ -3,6 +3,7 @@ raindrop_id: 486228976
 raindrop_last_update: 2022-12-18T10:29:35.063Z
 share: true
 category: source
+Week: 51
 ---
 
 Rating::
@@ -10,8 +11,8 @@ Summary::
 Author::
 Source:: 
 Source:: https://memberpress.com/blog/monetize-podcast-with-wordpress/
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: finished, wordpress, podcast
