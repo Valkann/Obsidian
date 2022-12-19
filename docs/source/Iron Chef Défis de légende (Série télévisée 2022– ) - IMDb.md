@@ -5,12 +5,12 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Très marrant ce show culinairre avec les codes des arènes E-sport :) 
 Author::
 Source:: https://www.imdb.com/title/tt17216636/?ref_=nv_sr_srsg_1
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: SN/Série, finished
