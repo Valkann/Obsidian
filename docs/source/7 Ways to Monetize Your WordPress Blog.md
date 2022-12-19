@@ -3,6 +3,7 @@ raindrop_id: 486224420
 raindrop_last_update: 2022-12-18T10:29:34.938Z
 share: true
 category: source
+Week: 51
 ---
 
 Rating::
@@ -10,8 +11,8 @@ Summary::
 Author::
 Source:: 
 Source:: https://blog.hubspot.com/website/how-to-monetize-wordpress
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: SN/Article, finished
