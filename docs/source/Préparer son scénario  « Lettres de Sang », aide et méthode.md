@@ -9,17 +9,20 @@ Rating::
 Summary:: 
 Author::
 Source:: http://40arkhamavenue.blogspot.com/2016/09/preparer-son-scenario-lettres-de-sang_24.html
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-Tags:: SN/Article, finished
+Tags:: #cthulhu #jdr #scénario 
 Week:: 51
 
 ***
 # Préparer son scénario : « Lettres de Sang », aide et méthode.
 
+## Notes
 
+Des idées pour mettre en place des PNJs intéressant lors d'une enquête. 
+Il peut servir de base à un épisode de [QMJDR](QMJDR)
 
 ## Highlights
 

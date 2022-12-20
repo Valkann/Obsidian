@@ -32,7 +32,7 @@ Tags::
 
 Les [Notes Sources](Note%20Source) ne sont pas généralement très bien construites, n'ont pas de phrases entières. Le but est de comprendre ce qui est dit.
 
-Utilisation de [9999 Inbox/Readwise](../../Readwise.md) pour importer les surlignages des livres
+Utilisation de [Readwise](Readwise.md) pour importer les surlignages des livres
 
 Cela permet d'avoir des notes de base pour commencer.
 
