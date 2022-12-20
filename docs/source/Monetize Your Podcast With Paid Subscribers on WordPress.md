@@ -15,7 +15,7 @@ Type:: #SN/Article
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: finished, wordpress, podcast
+Tags::  #wordpress, #podcast
 
 ---
 # Monetize Your Podcast With Paid Subscribers on WordPress

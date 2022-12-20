@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: https://roulemapoule.network/merci-pour-votre-soutien-au-podcast/
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-Tags:: podcast, dons, jdracademy, finished
+Tags:: #podcast, #dons, #jdracademy
 Week:: 51
 
 ***

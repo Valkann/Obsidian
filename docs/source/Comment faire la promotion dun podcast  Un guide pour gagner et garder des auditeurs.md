@@ -146,7 +146,7 @@ Rien qu'aux États-Unis, plus de 100 millions de personnes écoutent des podcast
 
 > [!quote]+ Updated on 2022/12/20 13:50:52
 >
-> Pour ajouter une bannière à votre site web, ajoutez la balise méta <meta name=" apple-itunes-app" content=" myAppStoreID> dans l’élément head des pages sur lesquelles vous souhaitez que la bannière apparaisse.
+> Pour ajouter une bannière à votre site web, ajoutez la balise méta ```<meta name=" apple-itunes-app" content=" myAppStoreID">``` dans l’élément head des pages sur lesquelles vous souhaitez que la bannière apparaisse.
 
 > [!quote]+ Updated on 2022/12/20 13:50:57
 >
