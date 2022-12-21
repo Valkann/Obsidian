@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: https://kinsta.com/fr/blog/comment-promouvoir-podcast/
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-
+Tags:: #podcast #dons #jdrAcademy 
 Week:: 51
 
 ***
