@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: https://www.arteradio.com/flux/fermez_les_yeux/1275
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #finished 
 MOC::
 Projet:: 
-Tags:: SN/podcast, finished
+Tags:: #ASMR
 Week:: 51
 
 ***
