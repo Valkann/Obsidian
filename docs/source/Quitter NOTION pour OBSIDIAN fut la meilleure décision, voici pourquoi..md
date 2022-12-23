@@ -8,9 +8,9 @@ Summary : Vidéo bien réalisée, personnellement je n'ai pas appris beaucoup de
 Type : 
 ---
 Date : 2022-11-12-Sat
-Author :
+Author : [Nico Saypharath](Nico%20Saypharath.md)
 Source : https://www.youtube.com/watch?v=OsquLiNOGuw
-Type : [Note Source](Note%20Source)
+Type : #SN/Vidéo 
 MOC :
 Projet : 
 Tags : #youtube #organisation #obsidian #méthodologie #finished 
