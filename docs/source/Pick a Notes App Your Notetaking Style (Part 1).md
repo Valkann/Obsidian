@@ -7,7 +7,7 @@ Date:: 2022-12-07
 Week:: 49
 Rating:: 5
 Summary:: Intéressant si on ne connait pas la théorie. Voir l'article en lien de [Anne-Laure Le Cunff](Anne-Laure%20Le%20Cunff.md)
-Author::
+Author:: [Tiago Forte](Tiago%20Forte)
 source:: [Pick a Notes App: Your Notetaking Style (Part 1)](https://www.youtube.com/watch?v=f3dDVtJ2sec&list=WL&index=77)
 Type:: #SN/Vidéo 
 Status:: #finished 
