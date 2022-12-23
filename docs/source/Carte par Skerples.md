@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author:: [Skerples](Skerples)
 Source:: 
-Type:: #SN/Carte
+Type:: #SN/Carte, #SN/JDR 
 Status:: #finished 
 MOC::
 Projet:: 

@@ -7,17 +7,16 @@ share: true
 category: projets/MOTW/MDF/long
 Summary: 
 Tags:
-- JDR/Création 
-- JDR/Scénario
-- MDF
-- long
-- writing
+- #JDR/Création 
+- #JDR/Scénario
+- #MDF
+- #long
+- #writing
 Type: projet
 Created :  2021-09-08-Wed
 Alias :
 ---
 
-Tags : #JDR/Création #JDR/Scénario 
 
 ***
 
@@ -254,5 +253,3 @@ _38 ans, douce, compatissante, bonne personne_
 -   Et si le fait de jeter sa bague de fiançailles dans le creuset de la cloche de la cathédrale n’était qu’une métaphore pour décrire les agissements d’**Anne Turmelle** à la mort de son fiancé ?
     
 -   Est-ce la silhouette de **Saint Nicolas** que l’on croise la nuit en décembre près des abattoirs ? Ou celle du boucher qu’il a puni ?
-    
-~~-   **Le lièvre de pâques** est très connu à Metz, mais si la petite créature que l’on observe de temps en temps n’était pas un lièvre de pâques ? Ou pire, serait-ce Patapon (_Bestiaire page 34_)~~

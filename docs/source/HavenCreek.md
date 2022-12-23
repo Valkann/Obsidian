@@ -5,15 +5,14 @@ Alias:
 Week : 45
 Rating : 5
 Summary : Une super source d'inspiration, je ne me lasse pas de relire ce contexte de jeu.
-Type : 
 ---
-Date : 2022-11-08-Tue
+Date:: 2022-11-08-Tue
 Author :
 Source : 
-Type : #SN/Livre 
+Type:: #SN/Livre 
 MOC :
 Projet : 
-Tags :  #finished #inspiration #jdr 
+Tags::  #finished #inspiration #jdr 
 
 # HavenCreek
 

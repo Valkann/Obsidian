@@ -6,8 +6,7 @@ URL:
 - https://podcastaddict.com/episode/147293923
 Alias:
 - 
-Type: 
-- [Note Source](Note%20Source.md)
+Type: #SN/Podcast 
 MOC:
 - 
 PROJETS:
@@ -19,9 +18,7 @@ Author:
 Rating: 5
 Week: 43
 Summary: Ce final !
-Tags:
-- SN/
-- finished
+Tags: #finished 
 Type: podcast
 ---
 

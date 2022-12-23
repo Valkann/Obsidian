@@ -10,16 +10,13 @@ Source:
 Author:
 Date:
 Summary: Épisode de 2017, intéressant de voir à quel point tout est devenu plus restrictif
-Tags:
-- SN/
-- finished
 Type: podcast
 Week: 42
 share: true 
 category: source
 rating: 4
 ---
-
+Tags:: #SN/podcast #finished
 # Crée ta vie - 69. Où trouver des sons pour ses podcasts et vidéos YouTube
 
 

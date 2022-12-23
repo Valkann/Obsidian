@@ -1,5 +1,5 @@
 ---
-Type : [Note Source](Note%20Source.md)
+Type : #SN/Article 
 MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 share: true 
 category: source
@@ -10,7 +10,7 @@ Tags : #SN/Article
 Created : 2021-09-01-Wed
 Alias :
 ---
-Tags : #SN/Article 
+Tags : #finished 
 
 ***
 
@@ -19,7 +19,7 @@ Tags : #SN/Article
 
 # Notes
 
-[How to choose the right note-taking app: the ultimate guide - Ness Labs](https://nesslabs.com/how-to-choose-the-right-note-taking-app) [Obsidian-Highlights](Obsidian-Highlights.md)
+[How to choose the right note-taking app: the ultimate guide - Ness Labs](https://nesslabs.com/how-to-choose-the-right-note-taking-app) 
 
 It is likely your use case is at the intersection of several apps, and that you may need to use two or more of them in combination to achieve your goals
 

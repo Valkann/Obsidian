@@ -9,7 +9,7 @@ Summary : En cours d'écoute
 Date:: 2022-11-19-Sat
 Author::
 Source:: ["Je suis les ténèbres" : rencontre avec Joseph Denize aux confins de l'horreur](https://www.radiofrance.fr/franceculture/podcasts/mauvais-genres/je-suis-les-tenebres-rencontre-avec-joseph-denize-8735398)
-clipped:: [0010 Bullet Journal/_Dailies/2022/11/2022-11-19](../../2022-11-19.md)
+clipped:: [2022-11-19](2022-11-19.md)
 Type:: #SN/Podcast 
 MOC::
 Projet:: 

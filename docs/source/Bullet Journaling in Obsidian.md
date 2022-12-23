@@ -10,7 +10,7 @@ Type : youtube
 Date : 2022-10-29-Sat
 Author :
 Source : https://youtu.be/c7NwHmHUYO0
-Type : [Note Source](Note%20Source)
+Type : #SN/Vidéo 
 MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie)
 Projet : 
 Tags : #finished  #youtube #obsidian #BuJo

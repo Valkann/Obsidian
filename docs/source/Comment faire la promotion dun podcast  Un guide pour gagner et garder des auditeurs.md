@@ -95,20 +95,20 @@ Rien qu'aux États-Unis, plus de 100 millions de personnes écoutent des podcast
 >
 > Pour constituer le public le plus large possible, vous devriez publier votre contenu sur ces quatre plateformes, ainsi que sur des plateformes plus petites comme :
 >
->Audible
->NPR One
->TuneIn
->Deezer
->Podcast Addict
->RadioPublic
->Stitcher
->Overcast
->Pocket Casts
->CastBox
->iHeartRadio
->Podtail
->Podbay
->SoundCloud
+>Audible ✔
+>NPR One ❓ : Site inaccessible
+>TuneIn 🔃 : Mauvais RSS mail envoyé
+>Deezer ✔
+>Podcast Addict ✔
+>RadioPublic ✔
+>Stitcher ✔
+>Overcast ❓ appli a DL pour voir
+>Pocket Casts ❓ appli a DL pour voir
+>CastBox 🔃 : Plusieurs versions du podcast mail envoyé
+>iHeartRadio 🟥 réservé aux personnes aux Amériques : VPN
+>Podtail ✔
+>Podbay  🔃 : Plusieurs versions du podcast mail envoyé
+>SoundCloud 🟥 Pas présent necessite un compte payant
 
 > [!quote]+ Updated on 2022/12/20 13:49:25
 >

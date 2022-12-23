@@ -10,7 +10,7 @@ Type :
 Date : 2022-10-31-Mon
 Author :
 Source : https://gwyllgi.itch.io/ask-a-diceless-oracle
-Type : [Note Source](Note%20Source)
+Type : #SN/JDR, #SN/Article 
 MOC :
 Projet : 
 Tags : 

@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: https://d3ctxlq1ktw2nl.cloudfront.net/staging/2022-10-11/43e4d088-6414-144f-d26a-6dc84c27d569.mp3
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #to_discover
 MOC::
 Projet:: 
-Tags:: #SN/podcast, #to_discover
+Tags:: 
 Week:: 51
 
 ***
