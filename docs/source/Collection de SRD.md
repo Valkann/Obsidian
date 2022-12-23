@@ -9,8 +9,8 @@ Rating::
 Summary:: 
 Author::
 Source:: https://itch.io/c/1791663/srds 
-Type:: #SN/
-Status:: 
+Type:: #SN/Livre 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: #jdr #inspiration 
