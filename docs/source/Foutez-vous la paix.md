@@ -5,7 +5,7 @@ Alias:
 Week : 43
 Rating : 4
 Summary : Ouvrage intéressant, de bons concepts et de bons conseils qui font écho
-Type : Book
+Type : #SN/Livre 
 ---
 Date : 2022-10-19-Wed
 Author : [Fabrice Midal](Fabrice%20Midal.md)
