@@ -5,19 +5,15 @@ category: source
 URL:
 - https://www.youtube.com/watch?v=byVZV_VEGto
 Alias :
-Type : 
-- [Note Source](Note%20Source.md)
+Type : #SN/Vidéo 
 MOC : 
 PROJETS :
 Source :
 Author :
 Date :
 Summary : Intéressant, c’est une évidence énoncée qui permet d’en prendre conscience, cela donne envie de lire le livre. Manque un peu de conseil pratique peut-être.
-Tags : 
-- #SN/
-- Finished
+Tags : #finished 
 Week : 42
-Type : TV_Series 
 rating : 4
 ---
 
