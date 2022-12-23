@@ -11,7 +11,7 @@ Type : podcast
 Date : 2022-10-29-Sat
 Author :
 Source : 
-Type : [Note Source](Note%20Source)
+Type : #SN/Podcast 
 MOC :
 Projet : 
 Tags :  #finished 
