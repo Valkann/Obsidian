@@ -7,8 +7,7 @@ URL:
 - https://podcastaddict.com/episode/137382267
 Alias:
 - 
-Type: 
-- [Note Source](Note%20Source.md)
+Type: #SN/Podcast 
 MOC:
 - 
 PROJETS:
@@ -20,8 +19,7 @@ Author:
 Rating:
 Week: 42
 Summary: 
-Tags:
-Type: podcast
+
 ---
 #finished 
 # Game of Roles - Magic Mission Lune - JDR x CNES
