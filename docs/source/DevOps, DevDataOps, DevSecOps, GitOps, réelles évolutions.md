@@ -10,7 +10,7 @@ Type : podcast
 Date : 2022-11-04-Fri
 Author :
 Source : https://podcastaddict.com/episode/146478148 
-Type : [Note Source](Note%20Source)
+Type : #SN/Podcast 
 MOC :
 Projet : 
 Tags : #finished #podcast 
