@@ -10,7 +10,7 @@ Rating:: 4
 Summary:: ça marchouille un peu
 Author::
 Source:: https://www.youtube.com/watch?v=kDQ0fZ7RWjc
-Type:: #SN/
+Type:: #SN/Vidéo 
 Status:: 
 MOC::
 Projet:: 
