@@ -7,8 +7,7 @@ URL:
 - https://podcastaddict.com/episode/136752608
 Alias:
 - 
-Type: 
-- [Note Source](Note%20Source.md)
+Type: #SN/Podcast 
 MOC:
 - 
 PROJETS:
@@ -20,12 +19,9 @@ Author:
 Rating: 4
 Week: 42
 Summary: Vraiment fun a écouter, mais de temps en temps c'est un peu compliqué de tout suivre vu que tout le monde parle en même temps.
-Tags:
-- SN/
-- finished
-Type: podcast
----
 
+---
+#finished 
 # Game of Roles - Les Deux Tours - Episode 2
 
 
