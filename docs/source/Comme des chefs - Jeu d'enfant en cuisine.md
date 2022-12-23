@@ -22,7 +22,7 @@ Week: 42
 Type: TV_Series 
 rating: 4
 ---
-
+#SN/Série, #finished 
 # Comme des chefs - Jeu d'enfant en cuisine
 
 
