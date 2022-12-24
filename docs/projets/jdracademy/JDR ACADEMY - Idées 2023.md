@@ -28,6 +28,9 @@ Projet:: [JDR Academy](JDR%20Academy.md)
 - Voir pour la monétisation 
 - Relancer une partie blog 
 - Proposer un cadre de campagne motw
-- 
+- Chaine Twitch et live avec caméra
+- Live en irl avec caméra
+
+
 
 
