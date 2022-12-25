@@ -1,12 +1,12 @@
 ---
 raindrop_id: 488030981
-raindrop_last_update: 2022-12-20T13:00:36.700Z
+raindrop_last_update: 2022-12-24T07:37:03.812Z
 share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: Pour le coup assez intéressant avec une série d'étapes et de choses à ne pas oublier.
 Author::
 Source:: https://kinsta.com/fr/blog/comment-promouvoir-podcast/
 Type:: #SN/Article 
