@@ -5,15 +5,15 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: De bons conseils pour de l'appel aux dons.
 Author::
 Source:: https://www.gofundme.com/fr-fr/c/blog/fundraising-email-templates
 Type:: #SN/Article 
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #podcast, #dons, #jdracademy
+Tags:: #podcast/jdracademy/dons 
 Week:: 51
 
 ***
