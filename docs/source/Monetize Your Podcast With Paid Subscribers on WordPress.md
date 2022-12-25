@@ -1,13 +1,13 @@
 ---
 raindrop_id: 486228976
-raindrop_last_update: 2022-12-18T10:29:35.063Z
+raindrop_last_update: 2022-12-24T07:37:03.721Z
 share: true
 category: source
 Week: 51
 ---
 
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Pas d'idées ou de conseils renversant mais les bases.
 Author::
 Source:: 
 Source:: https://memberpress.com/blog/monetize-podcast-with-wordpress/
@@ -15,7 +15,7 @@ Type:: #SN/Article
 Status:: #finished 
 MOC::
 Projet:: 
-Tags::  #wordpress, #podcast
+Tags::  #podcast/jdracademy/dons #wordpress/dons
 
 ---
 # Monetize Your Podcast With Paid Subscribers on WordPress
