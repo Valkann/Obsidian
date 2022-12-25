@@ -5,15 +5,15 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Des bonnes idées et de bonnes pratiques peut être à généraliser dans un épisode de [QMJDR](QMJDR)
 Author::
 Source:: http://40arkhamavenue.blogspot.com/2016/09/preparer-son-scenario-lettres-de-sang_24.html
 Type:: #SN/Article 
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #cthulhu #jdr #scénario 
+Tags:: #Lovecraft/jeu/jdr/scénario
 Week:: 51
 
 ***
