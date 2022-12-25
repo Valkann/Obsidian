@@ -6,8 +6,8 @@ category: source
 Week: 51
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Des idées intéressantes, voir si cela peut s'appliquer à la #jdrAcademy 
 Author::
 Source:: 
 Source:: https://blog.hubspot.com/website/how-to-monetize-wordpress
