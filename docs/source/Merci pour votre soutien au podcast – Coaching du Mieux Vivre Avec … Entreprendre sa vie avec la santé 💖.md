@@ -5,15 +5,15 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Un exemple d'appel dà don pour un podcast, des choses à récupérer.
 Author::
 Source:: https://roulemapoule.network/merci-pour-votre-soutien-au-podcast/
 Type:: #SN/Article 
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #podcast, #dons, #jdracademy
+Tags:: #podcast/jdracademy/dons
 Week:: 51
 
 ***
