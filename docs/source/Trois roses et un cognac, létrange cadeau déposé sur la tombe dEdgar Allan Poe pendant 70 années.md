@@ -1,19 +1,19 @@
 ---
 raindrop_id: 297263445
-raindrop_last_update: 2022-12-21T07:58:46.519Z
+raindrop_last_update: 2022-12-24T07:37:03.567Z
 share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: Assez intéressant et sympa, une source d'inspiration pour des scénarios de #jdr
 Author::
 Source:: http://www.slate.fr/story/124037/etrange-silhouette-tombe-edgar-allan-poe
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-
+Tags:: #jdr/inspiration/mystère 
 Week:: 51
 
 ***
