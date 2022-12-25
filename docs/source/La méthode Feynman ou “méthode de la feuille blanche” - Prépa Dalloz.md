@@ -5,8 +5,8 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary::  J'aime regarder et tenter d'améliorer mes prises de notes, créations de contenu et autre. Une méthode assez basique, mais qui fonctionne. À coupler avec [Zettelkasten](M%C3%A9thode%20Zettelkasten) et  [P.A.R.A.](P.A.R.A.) par exemple
 Author::
 Source:: https://www.prepa-dalloz.fr/conseils/methodologie/la-methode-feynman-ou-methode-de-la-feuille-blanche
 Type:: #SN/
@@ -47,6 +47,17 @@ Week:: 51
 > [!quote]+ Updated on 2022/12/24 08:40:24
 >
 > Commencez par choisir un sujet / un concept / une partie de votre cours et délimitez-le ;
+> 
 >Rédigez sur une feuille blanche (et en faisant des phrases) tout ce que vous connaissez du sujet en l’expliquant avec des mots simples. Vous devez alors utiliser un vocabulaire et une manière de parler qui seront compris par des moldus du droit (par des non-connaisseurs du droit) ;
+>
 >Vous allez alors vous rendre compte que certaines parties de votre sujet seront difficiles à expliquer et que certains termes seront très peu clairs. Dans ce cas-là, il faudra alors vous arrêter et reprendre cette partie et/ou ces termes afin de les clarifier ;
+>
 >À la fin de cette clarification, il sera nécessaire de recommencer à expliquer le sujet choisi sur une feuille blanche afin d’évaluer votre progression.
+
+## Liens 
+
+- [Méthode Feynman](M%C3%A9thode%20Feynman)
+- [PKM](PKM)
+- [Création de contenu](Cr%C3%A9ation%20de%20contenu.md)
+- [Apprentissage](Apprentissage.md)
+- [Second cerveau](Second%20cerveau)

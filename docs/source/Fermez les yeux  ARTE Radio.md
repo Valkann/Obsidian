@@ -5,8 +5,8 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 4
+Summary:: étrange, intéressant, déroutant...
 Author::
 Source:: https://www.arteradio.com/flux/fermez_les_yeux/1275
 Type:: #SN/Podcast 

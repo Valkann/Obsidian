@@ -5,8 +5,8 @@ share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 3
+Summary:: Juste un regroupement de ressources.
 Author::
 Source:: http://www.presse-citron.net/5-sites-gratuits-pour-pimper-vos-montages-video
 Type:: #SN/

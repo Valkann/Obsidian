@@ -1,19 +1,19 @@
 ---
 raindrop_id: 486060081
-raindrop_last_update: 2022-12-24T07:37:03.228Z
+raindrop_last_update: 2022-12-24T07:45:00.886Z
 share: true
 category: source
 ---
 
-Rating::
-Summary:: 
+Rating:: 5
+Summary:: De très bons conseils pour la rédaction d'un jeu FtQ. Il faut que je m'y remette, j'ai des projets comme ça en cours.
 Author::
 Source:: https://www.cestpasdujdr.fr/une-methode-pour-ecrire-un-jeu-comme-for-the-queen
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #SN/Article, #finished
+Tags:: #SN/JDR #jdr/FtQ
 Week:: 51
 
 ***
