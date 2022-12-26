@@ -104,7 +104,7 @@ Un émissaire de votre culte vous apporte le message qui active votre cellule.
 
 ### Idées de scénario
 
-- [A la poursuite des nains de jardin](A%20la%20poursuite%20des%20nains%20de%20jardin)
-- [Cultistes et Catastrophes - L'invocation](Cultistes%20et%20Catastrophes%20-%20L'invocation)
-- [Fête des voisins et sacrifice de minuit](F%C3%AAte%20des%20voisins%20et%20sacrifice%20de%20minuit) 
-- [La soupe aux choux](La%20soupe%20aux%20choux)
+- ![A la poursuite des nains de jardin](A%20la%20poursuite%20des%20nains%20de%20jardin)
+- ![Cultistes et Catastrophes - L'invocation](Cultistes%20et%20Catastrophes%20-%20L'invocation)
+- ![Fête des voisins et sacrifice de minuit](F%C3%AAte%20des%20voisins%20et%20sacrifice%20de%20minuit) 
+- ![La soupe aux choux](La%20soupe%20aux%20choux)
