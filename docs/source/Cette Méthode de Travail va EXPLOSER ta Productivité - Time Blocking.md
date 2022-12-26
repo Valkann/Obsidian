@@ -82,7 +82,7 @@ Créer les blocs ensuite a pour but de rester sur des tâches similaires pour di
 Mettre une limite de temps au bloc. 
 Terminer l'activité choisie pendant la période définie pour le bloc.
 
-- Voir [Loi de parkinson](./Loi%20de%20Parkinson.md)
+- Voir [Loi de Parkinson](Loi%20de%20Parkinson)
 - [Ratio de Fudge](Ratio%20de%20Fudge) : Temps réellement passé / temps estimé → [Get your fudge ratio](Get%20your%20fudge%20ratio)
 
 ### Timing
