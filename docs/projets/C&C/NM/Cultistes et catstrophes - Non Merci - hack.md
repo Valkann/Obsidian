@@ -21,25 +21,24 @@ Summary:
 ---
 Tags : #writing #projet #CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
 
-# Cultistes et catastrophes - Non Merci - hack / Contexte
-
-***
-
-![Notes & idées](Notes%20&%20id%C3%A9es)
-
-***
+# Cultistes et catastrophes - Non Merci - hack
 
 ## Pitch
 
-Pour rester dans la veine du jeu original dans un premier temps :
-- Vous êtes une cellule du culte dormante, vous êtes infiltrés dans le voisinage d'une charmante petite ville et avez bâti une solide réputation de personne normale voir ennuyeuse au fil du temps.
-- Votre cellule est activée et vous devez alors répondre aux exigences du culte.
-- Vous devez le faire dans le plus grand des secrets vis-à-vis du voisinage, car le culte a encore besoin de vous sous couverture. Et que personne ne veut que les plans innommable et cyclopéen de votre divinité extra dimensionnelle ne soit révélé. Cela risquerait d'attirer l'attention des voisins, de la police, d'investigateur fou furieux ou pire des contrôleurs des impôts pour non-règlements des taxes sur les religions.
+Voici le contexte de Cultistes et Catastrophes pour le jeu : Non Merci.
+
+- Vous êtes une cellule du culte dormante et êtes infiltrés dans une charmante petite ville. Vous vous êtes bâti une solide réputation de personne normale voir ennuyeuse au fil du temps.
+- Vous venez de recevoir un message codé : votre cellule est activée et vous devez alors répondre aux missions du culte qui vont vous être confiées.
+- Vous devez le faire dans le plus grand des secrets vis-à-vis car le culte a encore besoin de vous sous couverture. Et personne ne veut que les plans innommable et cyclopéen de votre divinité extra dimensionnelle ne soit révélé. Cela risquerait d'attirer l'attention des voisins, de la police, d'investigateur fou furieux ou pire des contrôleurs des impôts pour non-règlements des taxes sur les religions.
 
 ***
 ## Cultistes et Catastrophes - Contexte
 
-Comme le jeu de base, ce contexte se veut résolument non-violent. Des solutions impliquant la violence peuvent être prises pour régler certains problèmes, mais elles ne seront que temporaire, les personnes portées disparues ou laisser pour morte finiront toujours par revenir témoigner de vos actes.
+### Point d'attention - Violence
+
+> [!warning] Comme le jeu de base, ce contexte se veut résolument non-violent. Des solutions impliquant la violence peuvent être prises pour régler certains problèmes, mais elles ne seront que temporaire, les personnes portées disparues ou laisser pour morte finiront toujours par revenir témoigner de vos actes.
+
+### Le jeu
 
 #### Qui êtes-vous ?
 
@@ -71,12 +70,16 @@ Décidez conjointement :
 | 5   | Oloc'htraaal | L'insatiable                  | Mystérieux        |
 | 6   | Syslet'hari  | Le serpent de l'univers       | Silencieux        | 
 
-Mais pour le moment, vous êtes une cellule dormante, vivant dans le même quartier tranquille et paisible. Développant vos liens avec le voisinage et ayant enfin réussi à vous intégrer et à devenir vous-même un respectable habitant de ce merveilleux coin de bonheur.
+Vous vivez dans le même quartier tranquille et paisible. Développant vos liens avec le voisinage et ayant enfin réussi à vous intégrer et à devenir vous-même un respectable habitant de ce merveilleux coin de bonheur.
 
 Décidez conjointement :
 - Du nom du quartier et de ces particularités
-- De vos personnages tel qu'expliqué dans le livre "Non Merci"
-- Des relations de vos personnages tel qu'expliqué dans le livre "Non Merci"
+- De vos personnages tel qu'expliqué dans le livre *"Non Merci"*
+	- Choix du nom et de l'occupation  
+	- Choix des caractéristiques  
+	- Choix d'une bizarrerie  
+- Des relations de vos personnages tel qu'expliqué dans le livre *"Non Merci"*
+	- Création de deux personnages non-joueurs  
 
 **idées de quartier**
 
@@ -91,6 +94,7 @@ Décidez conjointement :
 
 ### Accroches
 
+Un émissaire de votre culte vous apporte le message quia ctive votre cellule. 
 
 
 ### Incidents
