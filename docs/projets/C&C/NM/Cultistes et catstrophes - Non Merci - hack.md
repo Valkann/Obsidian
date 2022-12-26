@@ -4,6 +4,7 @@ Week :
 - 44
 - 45
 - 49
+- 51
 URL:
 Alias :
 Type : 
@@ -18,7 +19,7 @@ share: true
 category: projets/C&C/NM
 Summary: 
 ---
-Tags : #writing #projet #CultistesEtCatastrophes 
+Tags : #writing #projet #CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
 
 # Cultistes et catastrophes - Non Merci - hack / Contexte
 
@@ -26,13 +27,7 @@ Tags : #writing #projet #CultistesEtCatastrophes
 
 ## Notes & idées
 
-J'avais déjà imaginé remplacer normalité par couverture pour avoir des cultistes qui doivent éviter de faire des bourdes pour ne pas se faire démasquer.
-
-Mais on peut prendre le truc à l'envers. Ne pas se faire découvrir par les autres "vrais" cultistes comme un tiré au flanc
-
-Reste à voir quelles histoires seraient plus marrantes à jouer. Des cultistes qui se cachent et qui doivent éviter d'attirer l'attention malgré les choses bizarres qui semble les suivre.
-
-Ou des cultistes par erreur qui vont essayer de donner le change à leur confrère en essayant de faire ce qu'on leur demande
+![J'avais déjà imaginé remplacer normalité par couverture pour avoir des cultistes qui doivent éviter de faire des bourdes pour ne pas se faire démasquer.](J'avais%20d%C3%A9j%C3%A0%20imagin%C3%A9%20remplacer%20normalit%C3%A9%20par%20couverture%20pour%20avoir%20des%20cultistes%20qui%20doivent%20%C3%A9viter%20de%20faire%20des%20bourdes%20pour%20ne%20pas%20se%20faire%20d%C3%A9masquer.)
 
 ***
 
