@@ -94,7 +94,11 @@ Décidez conjointement :
 
 ### Accroches
 
-Un émissaire de votre culte vous apporte le message quia ctive votre cellule. 
+Un émissaire de votre culte vous apporte le message qui active votre cellule. 
+- Scène : L'émissaire doit passer inaperçu et son message secret
+- Scène : Vous allez devoir nettoyer et remettre d'aplomb votre temple / lieu de culte dans le plus grand secret
+- Scène : vous devez mener un rituel pour invoqquer votre divinité sans que vo
+
 
 
 ### Incidents
