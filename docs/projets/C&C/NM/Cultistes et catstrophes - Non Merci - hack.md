@@ -11,8 +11,8 @@ Type:
 MOC: [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le.md)
 PROJET: [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
 Source:
-Author :
-Date :
+Author:
+Date:
 share: true 
 category: projets/C&C/NM
 Summary: 
