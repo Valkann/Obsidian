@@ -1,6 +1,6 @@
 ---
-Created : 2022-05-30-Mon
-Week : 
+Created: 2022-05-30-Mon
+Week: 
 - 44
 - 45
 - 49
@@ -22,12 +22,6 @@ Summary:
 Tags : #writing #projet #CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
 
 # Cultistes et catastrophes - Non Merci - hack / Contexte
-
-***
-
-## Notes & idées
-
-![J'avais déjà imaginé remplacer normalité par couverture pour avoir des cultistes qui doivent éviter de faire des bourdes pour ne pas se faire démasquer.](J'avais%20d%C3%A9j%C3%A0%20imagin%C3%A9%20remplacer%20normalit%C3%A9%20par%20couverture%20pour%20avoir%20des%20cultistes%20qui%20doivent%20%C3%A9viter%20de%20faire%20des%20bourdes%20pour%20ne%20pas%20se%20faire%20d%C3%A9masquer.)
 
 ***
 
