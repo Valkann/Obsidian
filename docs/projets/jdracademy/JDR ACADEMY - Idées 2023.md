@@ -14,22 +14,29 @@ Projet:: [JDR Academy](JDR%20Academy.md)
 ***
 
 ## Notes
+
+### Contenu 
 - Rétrospective 2022 et statistiques
-- Nouveau format [QMJDR](QMJDR)
-- mettre en place des dons
 - Proposer [Mystères 23](Myst%C3%A8res%2023.md) un mystère par mois sur l'année
 - Faire du livre dont vous êtes le héros a deux en Podcast
 - Faire de la fiction avec les JDR solo
+- Proposer un cadre de campagne #motw
+
+### Idées.
+- Nouveau format [QMJDR](QMJDR)
 - Améliorer la présence sur Instagram
 - Proposer un format Tik tok
 - Améliorer la présence Facebook
 - Avoir un thread sur les forums BBE pour le podcast 
 - Avoir la transcription texte des épisodes
-- Voir pour la monétisation 
 - Relancer une partie blog 
-- Proposer un cadre de campagne motw
 - Chaine Twitch et live avec caméra
 - Live en irl avec caméra
+
+### Monétisation 
+- mettre en place des dons
+- Voir pour la monétisation 
+- Mettre des liens affiliés (philibert, amazon etc...)
 
 
 
