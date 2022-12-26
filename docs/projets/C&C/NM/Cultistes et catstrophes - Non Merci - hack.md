@@ -92,40 +92,15 @@ Décidez conjointement :
 | 5   | Centre | Brocante aux objets insolite        |
 | 6   | Mairie | Animations culturelles régulières   | 
 
-### Accroches
+### Accroches pour un premier scénario
 
 Un émissaire de votre culte vous apporte le message qui active votre cellule. 
 - Scène : L'émissaire doit passer inaperçu et son message secret
 - Scène : Vous allez devoir nettoyer et remettre d'aplomb votre temple / lieu de culte dans le plus grand secret
-- Scène : vous devez mener un rituel pour invoqquer votre divinité sans que vo
+- Scène : vous devez reprendre l'artefact sacré qui est caché à la vue de tous (Grimoire en bibliothèque, Objet au musée...)
+- Scène : vous devez mener un rituel pour invoquer votre divinité sans que vos voisins s'en aperçoivent
 
-
-
-### Incidents
-
-Les incidents sont des évènements qui vont pousser les joueurs à devoir trouver des solutions aux problèmes en cours.
-
-1. La radio est resté allumé sur France Cultiste, et l'émission parle justement du problème que vous rencontrez en citant votre nom. 
-2. Votre cousin, qui a commencé son hybridation pour ressembler à votre divinité, vient vous rendre visite.
-3. Les personnages tombent sur un chien à trois têtes en train d'errer dans les rues de la ville ([Maleville](Maleville) ?).
-4.  Ils rencontrent un habitant de la ville qui leur raconte l'histoire d'un amour impossible entre un humain et un ange.
-5.  Les personnages tombent sur une porte secrète menant à une pièce remplie de livres interdits.
-6.  Ils assistent à un rassemblement organisé par les adorateurs d'un dieu inconnu.
-7.  Ils entendent des bruits étranges provenant de l'abri anti-atomique de la ville.
-8.  Ils rencontrent un groupe de scientifiques travaillant sur un projet secret pour ouvrir un portail vers une autre dimension.
-9.  Ils tombent sur une créature monstrueuse en train de rôder dans les bois en dehors de la ville.
-10.  Ils reçoivent une invitation pour un dîner organisé par le maire de la ville, mais ils découvrent que les autres invités ont disparu mystérieusement.
-11.  Ils tombent sur un groupe de fêtards célébrant le "Jour du Troisième Soleil", une fête locale inconnue des personnages.
-12.  Ils sont témoins d'un phénomène étrange dans le ciel, comme des étoiles filantes qui ne bougent pas ou des nuages qui prennent des formes bizarres.
-13. Ils tombent sur un vampire qui a été enfermé dans un cercueil pendant des siècles et qui a oublié tout de son passé. Ils doivent l'aider à se souvenir de qui il est et de ce qu'il a fait pour arriver là.
-14. Ils rencontrent un humain qui a découvert leur secret et qui les menace de les dénoncer si ils ne lui donnent pas ce qu'il veut.
-15. Les personnages assistent à une réunion de quartier bizarre où ils doivent voter pour une nouvelle loi étrange.
-16. Ils tombent sur un individu étrange qui semble avoir le pouvoir de prédire l'avenir, mais dont les prédictions sont toujours imprécises et alarmantes.
-17.  Ils sont invités à une fête organisée par un ami qui habite dans une maison hantée.
-18. Ils découvrent un groupe de citoyens qui se sont organisés pour résister à l'autorité mystérieuse qui gouverne la ville.
-19. Ils sont témoins d'un évènement étrange et inexpliqué, comme un ciel qui s'assombrit subitement ou des lumières étranges dans les rues.
-20. Ils sont approchés par un individu qui leur offre un travail pour une organisation secrète, mais ils ne savent pas exactement de quoi il s'agit.
-21. Ils découvrent que leur voisin est en réalité un extraterrestre en mission sur Terre.
+![Incidents Génériques  Garniture](Incidents%20G%C3%A9n%C3%A9riques%20%20Garniture)
 
 ### Idées de scénario
 
