@@ -32,6 +32,7 @@ Projet:: [JDR Academy](JDR%20Academy.md)
 - Relancer une partie blog 
 - Chaine Twitch et live avec caméra
 - Live en irl avec caméra
+- Goodies JDR academy (mugs, t-shirt...)
 
 ### Monétisation 
 - mettre en place des dons
