@@ -51,7 +51,7 @@ On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomi
 
 ### S'imposer une discipline et des objectifs
 
-![Comment lutter contre la procrastination](Comment%20lutter%20contre%20la%20procrastination)
+![Routine contre la procrastination](Routine%20contre%20la%20procrastination)
 
 ### Rester réaliste
 
