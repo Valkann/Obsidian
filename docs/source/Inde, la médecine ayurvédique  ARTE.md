@@ -1,6 +1,6 @@
 ---
 raindrop_id: 490845489
-raindrop_last_update: 2022-12-28T08:23:40.770Z
+raindrop_last_update: 2022-12-30T13:36:10.603Z
 share: true
 category: source
 ---
@@ -9,8 +9,8 @@ Rating::
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=g87wddnAjkM
-Type:: #SN/
-Status:: 
+Type:: #SN/Vidéo 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: #finished
