@@ -92,3 +92,5 @@ Sous la douche, il existe des carnets imperméables
 ```timestamp 
  08:02
  ```
+
+![La création de contenu par bloc](../seeds/La%20cr%C3%A9ation%20de%20contenu%20par%20bloc.md)
