@@ -70,13 +70,7 @@ D'où l'importance de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9e
  02:14
  ```
 
-### Les habitudes de capture / récolte d'information
-
-L'idée est que notre cerveau est bon pour avoir des idées, mais moins bon pour les stocker, d'où l'utilité du [Second cerveau](Second%20cerveau)
-
-Le principe est de capturer l'idée que nous avons le plus rapidement possible pour ne pas l'oublier et pouvoir la réutiliser. Comme le fait de noter ses [rêves](r%C3%AAves.md).
-
-On peut utiliser différentes façons de le faire, l'idéal étant que tout s'intègre dans un [workflow](workflow.md) fluide et sans irritant pour venir alimenter le [Second cerveau](Second%20cerveau)
+![Les habitudes de capture  récolte d'information](Les%20habitudes%20de%20capture%20%20r%C3%A9colte%20d'information)
 
 ```timestamp 
  02:48
@@ -84,8 +78,23 @@ On peut utiliser différentes façons de le faire, l'idéal étant que tout s'in
 
 Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre en transport.
 
-Sur un ebook on peut utiliser les surligange et commentaire des application pour les exporter ensuite
+Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
 
-Sur livre la prise de note peut etre faite comme dans cette vidéo
-- [How I Take Literature Notes in Obsidian - Effective Remote Work](How%20I%20Take%20Literature%20Notes%20in%20Obsidian%20-%20Effective%20Remote%20Work)
+Sur livre, la prise de note peut être faite comme dans cette vidéo
+- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start))
 
+Sous la douche, il existe des carnets imperméables
+
+```timestamp 
+ 03:18
+ ```
+
+![Recycler et réutiliser les idées](Recycler%20et%20r%C3%A9utiliser%20les%20id%C3%A9es)
+
+```timestamp 
+ 04:24
+ ```
+
+### Organisation en projet plutôt qu'en sujet
+
+Il faut réfléchir en termes de but et d'objectif plutôt que de classer ses notes par sujet, afin de les relier directement à des choses en cours et de permettre une première utilisation de ces notes.
