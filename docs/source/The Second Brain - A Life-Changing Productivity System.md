@@ -42,13 +42,13 @@ Il y a 10 principes fondamentaux au [Second cerveau](Second%20cerveau)
  01:21
  ```
 
-![S'inspirer  voler aux autres](S'inspirer%20%20voler%20aux%20autres)
+![S'inspirer et voler aux autres](S'inspirer%20et%20voler%20aux%20autres)
 
 ```timestamp 
  02:14
  ```
 
-![Les habitudes de capture  récolte d'information](Les%20habitudes%20de%20capture%20%20r%C3%A9colte%20d'information)
+![Les habitudes de capture et récolte d'information](Les%20habitudes%20de%20capture%20et%20r%C3%A9colte%20d'information)
 
 ```timestamp 
  02:48
@@ -73,6 +73,4 @@ Sous la douche, il existe des carnets imperméables
  04:24
  ```
 
-### Organisation en projet plutôt qu'en sujet
-
-Il faut réfléchir en termes de but et d'objectif plutôt que de classer ses notes par sujet, afin de les relier directement à des choses en cours et de permettre une première utilisation de ces notes.
+![Organisation du PKM en projet plutôt qu'en sujet](Organisation%20du%20PKM%20en%20projet%20plut%C3%B4t%20qu'en%20sujet)
