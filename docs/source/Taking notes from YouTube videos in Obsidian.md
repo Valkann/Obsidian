@@ -7,17 +7,18 @@ category: source
 
 Rating::
 Summary:: 
-Author::
+Author:: [Nicole van der Hoeven](Nicole%20van%20der%20Hoeven)
 Source:: https://youtu.be/qjWq4ck2-0o
-Type:: #SN/
-Status:: 
+Type:: #SN/Vidéo 
+Status:: #finished 
 MOC::
 Projet:: 
-
+Tags:: #obsidian #PKM 
+Date:: [2022-12-31](2022-12-31.md)
 Week:: 52
 
 ***
-# Regardez "Taking notes from YouTube videos in Obsidian" sur YouTube
+# "Taking notes from YouTube videos in Obsidian"
 
 In this video, I talk about five different ways to take notes on YouTube videos in Obsidian, for those (like me) who love learning things on YouTube and want a way to capture new thoughts in Obsidian. I mention a few community plugins, a browser extension, and a separate service as well as my workflow for just using vanilla Obsidian, so you can take your pick!
 
@@ -37,27 +38,10 @@ Readwise: https://readwise.io/nicole
 Shortform: https://shortform.com/nicole
 My video on Readwise Reader: https://www.youtube.com/watch?v=uNH1JDOmGJw
 
----
-// ABOUT ME
-Site: https://nicolevanderhoeven.com
-Mastodon: https://pkm.social/@nicole
-My travel YouTube channel: https://youtube.com/c/luckydippers
-k6 YouTube channel: https://www.youtube.com/c/k6test
+```timestamp-url 
+ https://youtu.be/qjWq4ck2-0o
+ ```
 
-// APPS I USE
-- Obsidian: https://obsidian.md
-- Readwise: https://readwise.io/nicole
-- Shortform: https://shortform.com/nicole
-- Reclaim: https://reclaim.ai/r/s/yYOqK  
-
-// GEAR
-https://nicolevanderhoeven.com/gear/
-
-// WANT TO SUPPORT ME?
-❤️ Join my Patreon and get my sample vault with templates: https://patreon.com/nicolevdh
-☕ Buy me a coffee: https://ko-fi.com/nicolevdh
-
-Note: Some of the links above are affiliate links, which means I may get a small percentage when you sign up using those links. To see how I decide what to promote in this way, check out my Ethics Statement: https://nicolevanderhoeven.com/ethics/
 
 ## Highlights
 

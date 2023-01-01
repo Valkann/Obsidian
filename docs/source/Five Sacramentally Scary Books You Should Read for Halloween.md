@@ -1,6 +1,6 @@
 ---
 raindrop_id: 297263493
-raindrop_last_update: 2022-12-27T11:04:24.746Z
+raindrop_last_update: 2022-12-30T13:36:09.924Z
 share: true
 category: source
 ---
@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: http://www.patheos.com/blogs/sickpilgrim/2016/10/five-sacramentally-scary-books-you-should-read-for-halloween
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #SN/Article, #finished
+Tags:: 
 Week:: 52
 
 ***
