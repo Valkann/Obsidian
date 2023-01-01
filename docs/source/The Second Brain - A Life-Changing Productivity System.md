@@ -41,19 +41,16 @@ Il y a 10 principes fondamentaux au [Second cerveau](../seeds/Second%20cerveau.m
 ```timestamp 
  01:21
  ```
-
 ![S'inspirer et voler aux autres](../seeds/S'inspirer%20et%20voler%20aux%20autres.md)
 
 ```timestamp 
  02:14
  ```
-
 ![Les habitudes de capture et récolte d'information](Les%20habitudes%20de%20capture%20et%20r%C3%A9colte%20d'information)
 
 ```timestamp 
  02:48
  ```
-
 Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre en transport.
 
 Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
@@ -66,19 +63,16 @@ Sous la douche, il existe des carnets imperméables
 ```timestamp 
  03:18
  ```
-
 ![Recycler ou réutiliser les idées](../seeds/Recycler%20ou%20r%C3%A9utiliser%20les%20id%C3%A9es.md)
 
 ```timestamp 
  04:24
  ```
-
 ![Organisation du PKM en projet plutôt qu'en sujet](../seeds/Organisation%20du%20PKM%20en%20projet%20plut%C3%B4t%20qu'en%20sujet.md)
 
 ```timestamp 
  05:05
  ```
-
 ### Slow burns
 
 ![Slow Burn](../seeds/Slow%20Burn%20&%20Heavy%20Lift.md)
@@ -86,46 +80,37 @@ Sous la douche, il existe des carnets imperméables
 ```timestamp 
  06:52
  ```
-
 ![Vous ne créez pas à partir de rien](../seeds/Vous%20ne%20cr%C3%A9ez%20pas%20%C3%A0%20partir%20de%20rien.md)
 
 ```timestamp 
  08:02
  ```
-
 ![La création de contenu par bloc](../seeds/La%20cr%C3%A9ation%20de%20contenu%20par%20bloc.md)
 
+```timestamp 
+ 10:05
+ ```
 ### Vous ne connaissez que ce que vous faites.
 
 ![L'importance de la reformulation](../seeds/L'importance%20de%20la%20reformulation.md)
 
 > si tu veux maitriser un sujet écris une doc dessus
-=======
-![Les habitudes de capture  récolte d'information](Les%20habitudes%20de%20capture%20%20r%C3%A9colte%20d'information)
 
 ```timestamp 
- 02:48
+ 11:54
  ```
 
-Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre en transport.
-
-Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
-
-Sur livre, la prise de note peut être faite comme dans cette vidéo
-- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start))
-
-Sous la douche, il existe des carnets imperméables
+![Rendre les notes simples pour le futur](../seeds/Rendre%20les%20notes%20simples%20pour%20le%20futur.md)
 
 ```timestamp 
- 03:18
+ 13:20
  ```
 
-![Recycler et réutiliser les idées](Recycler%20et%20r%C3%A9utiliser%20les%20id%C3%A9es)
+### Vos idées sont vivantes.
 
-```timestamp 
- 04:24
- ```
+Rien n'est parfait et tout peu être modifié plus tard, mais vos idées doivent vivre.
+La chose la plus importante est que vos idées doivent servir vos créations, et la création ou le projet doit être l'objectif ultime.
 
-### Organisation en projet plutôt qu'en sujet
+Si vous ne faites rien des informations que vous récoltez, alors la récolte est inutile.
 
-Il faut réfléchir en termes de but et d'objectif plutôt que de classer ses notes par sujet, afin de les relier directement à des choses en cours et de permettre une première utilisation de ces notes.
+Votre système de notation n'est pas parfait et le ne le sera jamais, il faut avoir un système qui garde vos idées vivantes et continue d'exister même de manière imparfaite.
