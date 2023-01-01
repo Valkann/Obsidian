@@ -87,6 +87,8 @@ Sous la douche, il existe des carnets imperméables
  06:52
  ```
 
-### Vous ne créez pas à partir de rien
+![Vous ne créez pas à partir de rien](Vous%20ne%20cr%C3%A9ez%20pas%20%C3%A0%20partir%20de%20rien)
 
-En se basant sur toutes les idées collecter dans le [Second cerveau](../seeds/Second%20cerveau.md) vous allez pouvoir construire c
+```timestamp 
+ 08:02
+ ```
