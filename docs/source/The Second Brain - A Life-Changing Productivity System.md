@@ -31,18 +31,18 @@ Week:: 52
  ```
 Sujets :
 
-- [PKM](PKM)
-- [Second cerveau](Second%20cerveau)
+- [PKM](../seeds/PKM.md)
+- [Second cerveau](../seeds/Second%20cerveau.md)
 
 L'utilisation du second cerveau permet d'alimenter une base de connaissance générale pour alimenter le processus de [Création de contenu](Cr%C3%A9ation%20de%20contenu.md)
 
-Il y a 10 principes fondamentaux au [Second cerveau](Second%20cerveau)
+Il y a 10 principes fondamentaux au [Second cerveau](../seeds/Second%20cerveau.md)
 
 ```timestamp 
  01:21
  ```
 
-![S'inspirer et voler aux autres](S'inspirer%20et%20voler%20aux%20autres)
+![S'inspirer et voler aux autres](../seeds/S'inspirer%20et%20voler%20aux%20autres.md)
 
 ```timestamp 
  02:14
@@ -67,10 +67,26 @@ Sous la douche, il existe des carnets imperméables
  03:18
  ```
 
-![Recycler ou réutiliser les idées](Recycler%20ou%20r%C3%A9utiliser%20les%20id%C3%A9es)
+![Recycler ou réutiliser les idées](../seeds/Recycler%20ou%20r%C3%A9utiliser%20les%20id%C3%A9es.md)
 
 ```timestamp 
  04:24
  ```
 
-![Organisation du PKM en projet plutôt qu'en sujet](Organisation%20du%20PKM%20en%20projet%20plut%C3%B4t%20qu'en%20sujet)
+![Organisation du PKM en projet plutôt qu'en sujet](../seeds/Organisation%20du%20PKM%20en%20projet%20plut%C3%B4t%20qu'en%20sujet.md)
+
+```timestamp 
+ 05:05
+ ```
+
+### Slow burns
+
+![Slow Burn](../seeds/Slow%20Burn%20&%20Heavy%20Lift.md)
+
+```timestamp 
+ 06:52
+ ```
+
+### Vous ne créez pas à partir de rien
+
+En se basant sur toutes les idées collecter dans le [Second cerveau](../seeds/Second%20cerveau.md) vous allez pouvoir construire c
