@@ -1,6 +1,6 @@
 ---
 raindrop_id: 297263425
-raindrop_last_update: 2022-12-27T11:04:24.411Z
+raindrop_last_update: 2022-12-30T13:36:09.515Z
 share: true
 category: source
 ---
@@ -9,11 +9,11 @@ Rating::
 Summary:: 
 Author::
 Source:: https://litreactor.com/columns/writers-why-you-should-and-should-not-start-a-patreon
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #finished
 MOC::
 Projet:: 
-Tags:: #SN/Article, #finished
+Tags:: 
 Week:: 52
 
 ***
