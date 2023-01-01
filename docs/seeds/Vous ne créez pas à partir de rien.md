@@ -21,7 +21,11 @@ En se basant sur toutes les idées collecter dans le [Second cerveau](Second%20c
 En recherchant les termes de votre sujet, vous allez récupérer les idées et les agencer comme vous le souhaiter. 
 
 Vous ne partez pas d'une page blanche.
----
+
+
+
+
+---
 Created :  2023-01-01
 Alias :
 Type : [Note Permanente](Note%20Permanente)
