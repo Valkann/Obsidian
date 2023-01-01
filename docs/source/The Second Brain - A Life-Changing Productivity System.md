@@ -100,4 +100,32 @@ Sous la douche, il existe des carnets imperméables
 ![L'importance de la reformulation](../seeds/L'importance%20de%20la%20reformulation.md)
 
 > si tu veux maitriser un sujet écris une doc dessus
+=======
+![Les habitudes de capture  récolte d'information](Les%20habitudes%20de%20capture%20%20r%C3%A9colte%20d'information)
 
+```timestamp 
+ 02:48
+ ```
+
+Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre en transport.
+
+Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
+
+Sur livre, la prise de note peut être faite comme dans cette vidéo
+- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start))
+
+Sous la douche, il existe des carnets imperméables
+
+```timestamp 
+ 03:18
+ ```
+
+![Recycler et réutiliser les idées](Recycler%20et%20r%C3%A9utiliser%20les%20id%C3%A9es)
+
+```timestamp 
+ 04:24
+ ```
+
+### Organisation en projet plutôt qu'en sujet
+
+Il faut réfléchir en termes de but et d'objectif plutôt que de classer ses notes par sujet, afin de les relier directement à des choses en cours et de permettre une première utilisation de ces notes.
