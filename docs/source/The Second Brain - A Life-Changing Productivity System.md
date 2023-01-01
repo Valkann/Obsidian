@@ -94,3 +94,10 @@ Sous la douche, il existe des carnets imperméables
  ```
 
 ![La création de contenu par bloc](../seeds/La%20cr%C3%A9ation%20de%20contenu%20par%20bloc.md)
+
+### Vous ne connaissez que ce que vous faites.
+
+![L'importance de la reformulation](../seeds/L'importance%20de%20la%20reformulation.md)
+
+> si tu veux maitriser un sujet écris une doc dessus
+
