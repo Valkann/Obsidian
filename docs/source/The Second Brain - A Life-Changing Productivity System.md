@@ -87,7 +87,7 @@ Sous la douche, il existe des carnets imperméables
  06:52
  ```
 
-![Vous ne créez pas à partir de rien](Vous%20ne%20cr%C3%A9ez%20pas%20%C3%A0%20partir%20de%20rien)
+![Vous ne créez pas à partir de rien](../seeds/Vous%20ne%20cr%C3%A9ez%20pas%20%C3%A0%20partir%20de%20rien.md)
 
 ```timestamp 
  08:02
