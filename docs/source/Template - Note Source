@@ -4,8 +4,9 @@ category: source
 Alias:
 ---
 Date:: <% tp.date.now("YYYY-MM-DD") %>
-Week:: <% tp.date.now("YYYYWW") %>
+Week:: "<% tp.date.now("YYYY-WW") %>"
 Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: 
