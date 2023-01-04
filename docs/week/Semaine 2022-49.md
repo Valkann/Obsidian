@@ -19,9 +19,9 @@ category: week
 
 ### 🍿 Cette semaine, j'ai vu :
 
-| Name                                                                                                                                                                                                                                       | type      | rating | summary                                                       | date              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------ | ------------------------------------------------------------- | ----------------- |
-| [Mind. Blown. This workflow I built with GPT-3, DALL-E, and Coda is going to save me HOURS a week.](../source/Mind.%20Blown.%20This%20workflow%20I%20built%20with%20GPT-3,%20DALL-E,%20and%20Coda%20is%20going%20to%20save%20me%20HOURS%20a%20week..md) | #SN/Vidéo | 5      | Une utilisation intéressante des IAs pour la gestion de note. | December 10, 2022 |
+| Name                                                                                                                                                                                                                                 | type      | rating | summary                                                       | date              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------ | ------------------------------------------------------------- | ----------------- |
+| [Mind Blown This workflow I built with GPT-3, DALL-E, and Coda is going to save me HOURS a week](../source/Mind%20Blown%20This%20workflow%20I%20built%20with%20GPT-3,%20DALL-E,%20and%20Coda%20is%20going%20to%20save%20me%20HOURS%20a%20week.md) | #SN/Vidéo | 5      | Une utilisation intéressante des IAs pour la gestion de note. | December 10, 2022 |
 
 
 ### 🎧 Cette semaine, j'ai écouté :
