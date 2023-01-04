@@ -106,4 +106,4 @@ Sous la douche, il existe des carnets imperméables
  13:20
  ```
 
-![Vos idées sont vivantes.](../seeds/Vos%20id%C3%A9es%20sont%20vivantes..md)
+![Vos idées sont vivantes](../seeds/Vos%20id%C3%A9es%20sont%20vivantes.md)
