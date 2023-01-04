@@ -1,6 +1,6 @@
 ```dataview
-table type, rating, summary, file.cday as date
-from (#finished  or #listening) and (#SN/Podcast )
-where contains(Week,2023_01)
+table type, rating, Review, file.cday as date
+from (#finished or #reading ) and (#SN/Article or #SN/Livre or #SN/Newsletter)
+--where contains(dateformat(file.day, "yyyy-WW"), this.file.name)
 sort file.cday
 ```
