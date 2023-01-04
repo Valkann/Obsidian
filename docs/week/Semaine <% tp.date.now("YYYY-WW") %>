@@ -1,6 +1,6 @@
 ```dataview
-table type, rating, summary, file.cday as date
+table type, rating, Review, file.cday as date
 from (#finished or #reading ) and (#SN/Article or #SN/Livre or #SN/Newsletter)
-where contains(Week,<% tp.date.now("YYYY-WW") %>)
+where contains(dateformat(file.day, "yyyy-WW"), dateformat(this.file.day,)
 sort file.cday
 ```
