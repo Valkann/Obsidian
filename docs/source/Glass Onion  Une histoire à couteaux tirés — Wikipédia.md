@@ -4,7 +4,7 @@ raindrop_last_update: 2023-01-02T13:40:50.277Z
 share: true
 category: source
 ---
-Date:: [2023-01-02](2023-01-02)
+Date:: 2023-01-02
 Rating::⭐⭐⭐
 Review:: Film sympa, mais j'ai préféré [À couteaux tirés (2019) - IMDb](%C3%80%20couteaux%20tir%C3%A9s%20(2019)%20-%20IMDb)
 Summary:: Film sympa, mais j'ai préféré [À couteaux tirés (2019) - IMDb](%C3%80%20couteaux%20tir%C3%A9s%20(2019)%20-%20IMDb)
