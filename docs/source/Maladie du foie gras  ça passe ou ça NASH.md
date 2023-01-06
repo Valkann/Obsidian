@@ -11,8 +11,8 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/maladie-du-foie-gras-ca-passe-ou-ca-nash-6423345
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #finished 
 MOC::
 Projet:: 
 
