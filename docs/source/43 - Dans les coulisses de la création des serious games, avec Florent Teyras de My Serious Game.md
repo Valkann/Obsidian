@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://podcasts.apple.com/fr/podcast/learn-enjoy/id1572982116?i=1000585285138
-Type:: #SN/
+Type:: #SN/Podcast 
 Status:: 
 MOC::
 Projet:: 
