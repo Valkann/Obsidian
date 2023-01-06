@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=4zrs_vVRwD4
-Type:: #SN/
+Type:: #SN/Vidéo 
 Status:: 
 MOC::
 Projet:: 
