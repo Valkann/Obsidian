@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://tv.apple.com/fr/show/la-vie-secrete-des-pharaons/umc.cmc.apuq8q6ovdhjyftus350dlq5
-Type:: #SN/
+Type:: #SN/Film 
 Status:: 
 MOC::
 Projet:: 

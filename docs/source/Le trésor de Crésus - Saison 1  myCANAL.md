@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.canalplus.com/decouverte/le-tresor-de-cresus/h/15635206_50160
-Type:: #SN/
+Type:: #SN/Film 
 Status:: 
 MOC::
 Projet:: 

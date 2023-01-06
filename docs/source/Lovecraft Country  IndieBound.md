@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author::
 Source:: http://www.indiebound.org/book/9780062292063?aff=bookpage
-Type:: #SN/
+Type:: #SN/Livre 
 Status:: 
 MOC::
 Projet:: 

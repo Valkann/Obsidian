@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=BULFG1EPV94
-Type:: #SN/
+Type:: #SN/Vidéo 
 Status:: 
 MOC::
 Projet:: 

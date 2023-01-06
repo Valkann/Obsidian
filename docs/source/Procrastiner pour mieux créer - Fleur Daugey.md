@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author::
 Source:: https://www.cultura.com/procrastiner-pour-mieux-creer-tea-9782330147525.html
-Type:: #SN/
+Type:: #SN/Livre 
 Status:: 
 MOC::
 Projet:: 

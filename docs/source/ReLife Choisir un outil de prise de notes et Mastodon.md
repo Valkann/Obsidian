@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443
-Type:: #SN/
+Type:: #SN/Podcast 
 Status:: 
 MOC::
 Projet:: 
