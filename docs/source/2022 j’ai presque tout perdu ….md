@@ -1,9 +1,6 @@
-
-
-
 ---
 raindrop_id: 494839611
-raindrop_last_update: 2023-01-03T21:09:02.342Z
+raindrop_last_update: 2023-01-07T08:40:43.769Z
 share: true
 category: source
 ---
@@ -22,13 +19,13 @@ Projet::
 Week:: 01
 
 ***
-# 2022 j’ai presque tout perdu …
+# 2022 j’ai presque tout perdu…
 
 Voilà l'année se termine et mes #objectifs2022 aussi. 
 Si tu veux savoir ce que j'en retiens et ce qui va changer dans ma vie, c'est par ici ;)
 
 bonne vidéo ;)
-greg
+Greg
 
 ## Highlights
 
@@ -108,8 +105,10 @@ Les ne sont pas plus heureux que nous, ils sont juste plus fort à raconter leur
 Le succès ne rend pas plus heureux, la réussite ne rend pas plus heureux.
 
 Les piques d'alternance bonheur/ malheur sont plus élevés.
+
 ```timestamp 
  10:29
  ```
 
 ![Sa définition du bonheur](../seeds/Sa%20d%C3%A9finition%20du%20bonheur.md)
+
