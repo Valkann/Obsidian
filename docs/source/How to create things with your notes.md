@@ -42,7 +42,33 @@ What do you do with all those notes? In this presentation, I talk about how to c
 ```timestamp 
  04:49
  ```
-#### Apprendre en public
+![Apprendre en public](../seeds/Apprendre%20en%20public.md)
 
-La valeur de travailler avec "la porte du garage ouverte"
-Permettre aux gens de consulter votre travail même non fini, même imparfait car il peut y avoir de bons échanges et de bons retours.
+> La valeur de travailler avec "la porte du garage ouverte"
+> [Andy Matuschak](Andy%20Matuschak.md)
+
+Permettre aux gens de voir le process de votre travail, même non fini, même imparfait, plutôt que de voir le produit fini.
+
+```timestamp 
+ 05:31
+ ```
+
+> "Documentez, ne créez pas"
+> [ Gary Vaynerchuk](Gary%20Vaynerchuk.md)
+
+Tout le monde a une histoire et il faut documenter sa vie plutôt que créer de quelque de complètement nouveau. Cela touchera plus de gens et aidera plus de gens.
+
+```timestamp 
+ 05:60
+ ```
+ 
+> [Montrez votre Travail](Montrez%20votre%20Travail.md)
+> [Austin Kleon](Austin%20Kleon)
+
+Publier et montrer des morceaux de vos travaux non finis est plus parlant et plus valoriser que quelques lignes sur votre CV.
+
+> "habitude de créer un épuisement d'apprentissage"
+>[Shawn Wang](Shawn%20Wang.md)
+
+Quel que soit votre truc, faites le truc que vous auriez aimé trouver quand vous appreniez.
+
