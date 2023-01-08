@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-01-03
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐⭐
+Review:: Toujours bon de reprendre les bases, j'ai extrait les idées qui résonnaient avec moi et je vais tenter de les appliquer.
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=36J8To0YcMY&list=WL&index=98
