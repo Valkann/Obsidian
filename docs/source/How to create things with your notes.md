@@ -67,8 +67,12 @@ Tout le monde a une histoire et il faut documenter sa vie plutôt que créer de 
 
 Publier et montrer des morceaux de vos travaux non finis est plus parlant et plus valoriser que quelques lignes sur votre CV.
 
-> "habitude de créer un épuisement d'apprentissage"
+> "Habitude de créer un épuisement d'apprentissage"
 >[Shawn Wang](Shawn%20Wang.md)
 
 Quel que soit votre truc, faites le truc que vous auriez aimé trouver quand vous appreniez.
 
+
+```timestamp 
+ 06:45
+ ```
