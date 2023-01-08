@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-01-06
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Beaucoup d'info intéressante et d'idée pour être mieux. Je regrette peut être un manque de quelques conseils diététiques.
 Summary:: 
 Author::
 Source:: https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/maladie-du-foie-gras-ca-passe-ou-ca-nash-6423345

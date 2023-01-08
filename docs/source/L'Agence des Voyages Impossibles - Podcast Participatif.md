@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2023-01-08
 Week:: "2023-01"
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Je débute l'écoute et le concept est intéressant mais peut etre de temps en temps un peu trop obscur.
 Summary:: 
 Author::
 Source:: 
