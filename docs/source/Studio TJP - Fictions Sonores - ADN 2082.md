@@ -84,3 +84,12 @@ https://podcastaddict.com/episode/150361174 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 20 [L'antiDOTE] #studioTjpFictionsSonores 
 https://podcastaddict.com/episode/150366858 via @PodcastAddict
+
+[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 21 [Le grand choix] #studioTjpFictionsSonores 
+https://podcastaddict.com/episode/150367038 via @PodcastAddict
+
+[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Epilogue [Oliver et compagnie] #studioTjpFictionsSonores 
+https://podcastaddict.com/episode/150367274 via @PodcastAddict
+
+[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > Bonus 01 - Noël 2086 [Dans la Peau de John Malkovitche] #studioTjpFictionsSonores 
+https://podcastaddict.com/episode/150372821 via @PodcastAddict
