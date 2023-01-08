@@ -6,8 +6,7 @@ URL:
 - https://podcastaddict.com/episode/147385688
 Alias:
 - 
-Type: 
-- [Note Source](Note%20Source.md)
+Type: [Note Source](Note%20Source.md)
 MOC:
 - 
 PROJETS:
