@@ -76,3 +76,6 @@ Quel que soit votre truc, faites le truc que vous auriez aimé trouver quand vou
 ```timestamp 
  06:45
  ```
+
+### Courte échelle du partage de connaissance
+![Il est toujours possible d'aider des gens à s'améliorer, de leur apprendre des choses sans être un expert, on peut les amener là où nous sommes déjà arrivés.](../seeds/Il%20est%20toujours%20possible%20d'aider%20des%20gens%20%C3%A0%20s'am%C3%A9liorer,%20de%20leur%20apprendre%20des%20choses%20sans%20%C3%AAtre%20un%20expert,%20on%20peut%20les%20amener%20l%C3%A0%20o%C3%B9%20nous%20sommes%20d%C3%A9j%C3%A0%20arriv%C3%A9s..md)
