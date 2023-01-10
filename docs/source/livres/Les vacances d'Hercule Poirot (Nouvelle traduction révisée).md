@@ -1,7 +1,6 @@
 ---
 share: true 
 category: source/livres
-tag: #SN/Livre 
 title: "Les vacances d'Hercule Poirot (Nouvelle traduction révisée)"
 Author: [Agatha Christie](Agatha%20Christie.md)
 publisher: Le Masque
@@ -9,10 +8,11 @@ publish: 2013-01-28
 total: 223
 isbn: 2702436625 9782702436622
 cover: http://books.google.com/books/content?id=fdl7CMGRAggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: #finished 
-date: 2023-01-10 06:31:43
+date: 2021-11-23
 updated: 2023-01-10 06:31:43
 ---
+Type:: #SN/Livre 
+Status:: #finished 
 
 ![cover|150](http://books.google.com/books/content?id=fdl7CMGRAggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
