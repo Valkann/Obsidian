@@ -1,7 +1,6 @@
 ---
 share: true 
 category: source/livres
-tag: SN/Livre 
 title: "Christmas Pudding (Nouvelle traduction révisée)"
 Author: [Agatha Christie](Agatha%20Christie.md)
 publisher: Le Masque
@@ -9,10 +8,11 @@ publish: 2012-12-18
 total: 230
 isbn: 2702438873 9782702438879
 cover: http://books.google.com/books/content?id=RMAtrun06O4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: finished 
-date: 2023-01-10
+date: 2021-09-02
 updated: 2023-01-10 06:26:57
 ---
+Type:: #SN/Livre 
+Status:: #finished 
 
 ![cover|150](http://books.google.com/books/content?id=RMAtrun06O4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
