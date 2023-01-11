@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-08-Tue
 Author :
 Source : 
-Type : [Note Source](Note%20Source)
+Type : #SN/Podcast 
 MOC :
 Projet : 
 Tags : #podcast #finished 

@@ -17,6 +17,6 @@ Tags : #Author
 
 ## Références
 
-| Name | Date |
-| ---- | ---- |
+| Name | Type | Status | date |
+| ---- | ---- | ------ | ---- |
 
