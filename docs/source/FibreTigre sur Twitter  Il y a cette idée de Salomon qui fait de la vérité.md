@@ -9,7 +9,7 @@ Date:: 2023-01-14
 Rating:: ⭐⭐⭐⭐⭐
 Review:: Idée intéressnate que je vais essayer de développer
 Summary:: 
-Author:: [FibreTibre](FibreTibre)
+Author:: [FibreTibre](FibreTibre.md)
 Source:: [https://twitter.com/FibreTigre/status/1446400377834856478?s=09&t=iyyS4DyhpH8fgefwJqhBtg](https://twitter.com/FibreTigre/status/1446400377834856478?s=09&t=iyyS4DyhpH8fgefwJqhBtg)
 Type:: #SN/Article 
 Status:: #TPROC 
