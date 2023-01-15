@@ -1,6 +1,6 @@
 ---
 raindrop_id: 494893583
-raindrop_last_update: 2023-01-03T21:09:02.364Z
+raindrop_last_update: 2023-01-14T08:41:19.356Z
 share: true
 category: source
 ---
@@ -10,9 +10,9 @@ Rating::
 Review:: 
 Summary:: 
 Author::
-Source:: https://www.youtube.com/watch?v=csA9YhzYvmk
+Source:: [The Happiness Expert That Made 51 Million People Happier: Mo Gawdat | E101 - YouTube](https://www.youtube.com/watch?v=csA9YhzYvmk)
 Type:: #SN/Vidéo 
-Status:: 
+Status:: #TPROC
 MOC::
 Projet:: 
 
