@@ -10,8 +10,8 @@ Review:: Entrainant et poétique, vraiment a écouter
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 

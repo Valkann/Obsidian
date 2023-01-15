@@ -13,7 +13,7 @@ Type:: #SN/Livre
 Status:: 
 MOC::
 Projet:: 
-Tags:: #création_de_contenu , #livre, #organisation, #to_discover, #SN/Livre
+Tags:: #création_de_contenu , #livre, #organisation, #to_discover, #SN/Livre #TPROC
 Week:: 52
 
 ***

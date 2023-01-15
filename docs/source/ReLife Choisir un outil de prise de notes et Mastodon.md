@@ -1,6 +1,6 @@
 ---
 raindrop_id: 497239163
-raindrop_last_update: 2023-01-06T10:29:53.742Z
+raindrop_last_update: 2023-01-14T08:41:19.376Z
 share: true
 category: source
 ---
@@ -10,9 +10,9 @@ Rating::
 Review:: 
 Summary:: 
 Author::
-Source:: https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443
+Source:: [‎Relife : amélioration du quotidien et développement personnel : Choisir un outil de prise de notes et Mastodon sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443)
 Type:: #SN/Podcast 
-Status:: 
+Status:: #TPROC
 MOC::
 Projet:: 
 
