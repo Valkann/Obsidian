@@ -12,7 +12,7 @@ Summary::
 Author::
 Source:: https://fr.wikipedia.org/wiki/Nous,_le_peuple
 Type:: #SN/Série 
-Status:: 
+Status:: #finished 
 MOC::
 Projet:: 
 
