@@ -1,6 +1,6 @@
 ---
 raindrop_id: 492543377
-raindrop_last_update: 2023-01-03T21:09:02.380Z
+raindrop_last_update: 2023-01-14T08:41:19.395Z
 share: true
 category: source
 ---
@@ -10,9 +10,9 @@ Rating::
 Review:: 
 Summary:: 
 Author::
-Source:: https://www.youtube.com/watch?v=BULFG1EPV94
+Source:: [MYTHOLOGICS #7 DARK SOULS - YouTube](https://www.youtube.com/watch?v=BULFG1EPV94)
 Type:: #SN/Vidéo 
-Status:: 
+Status:: #TPROC
 MOC::
 Projet:: 
 
