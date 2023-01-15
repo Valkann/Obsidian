@@ -6,13 +6,13 @@ category: source
 ---
 
 Date:: 2023-01-15
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Un étrange mélange de technologie, magie et de japon médiéval. J'ai eu un peu peur au début, mais franchement j'ai été conquis.
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt9310330/
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #finished 
 MOC::
 Projet:: 
 
