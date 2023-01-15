@@ -11,7 +11,7 @@ Date : 2022-05-31-Tue
 Author : [Alexis Lamiable](Alexis%20Lamiable.md)
 Source : 
 Type : #SN/JDR #SN/Livre 
-MOC : [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le)
+MOC : [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le.md)
 Projet : 
 Tags :  #finished 
 
