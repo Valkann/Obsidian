@@ -5,7 +5,7 @@ share: true
 category: source
 ---
 
-Date:: 2023-01-06
+Date:: 2023-01-16
 Rating::
 Review:: 
 Summary:: 
@@ -35,4 +35,13 @@ Un dossier sur Mastodon :
   Retrouvez votre communauté : twitodon.com…
 
 ## Highlights
+
+Nas Synology
+
+Service cloud : bien calculé le coût de sortie et des moyens de sortir.
+
+Société : non modernisée, mais l'augmentation du confort global. Ce qui nous laisse dans nos travers, car nous ne faisons plus d'efforts.
+
+Moderne : actuel, contemporain ou récent. La modernité n'est pas le progrès technologique.
+
 
