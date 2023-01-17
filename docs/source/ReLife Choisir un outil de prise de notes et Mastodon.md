@@ -44,4 +44,18 @@ Société : non modernisée, mais l'augmentation du confort global. Ce qui nous 
 
 Moderne : actuel, contemporain ou récent. La modernité n'est pas le progrès technologique.
 
+## Notes
+
+Idées de Chambre de résonance des contenus
+
+J'aime l'idée de communautés de village pour représenter Mastodon et son réseau social
+
+Réseaux sociaux remplacés par médias sociaux 
+
+Un outil c'est ce qu'on en fait 
+
+Ne faire une organisation Frankenstein avec 50 outils différents 
+
+Le plus simple est le mieux 
+
 
