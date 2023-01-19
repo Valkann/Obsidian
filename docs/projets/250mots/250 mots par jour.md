@@ -29,6 +29,8 @@ category: projets/250mots
 
 *Assistance - Professeur - Concert*
 
+![Une étrange annonce](../../seeds/Une%20%C3%A9trange%20annonce.md)
+
 ***
 
 [2023-01-19](2023-01-19.md)
