@@ -29,10 +29,12 @@ category: projets/250mots
 
 *Assistance - Professeur - Concert*
 
-![Une étrange annonce](../../seeds/Une%20%C3%A9trange%20annonce.md)
+![Une étrange annonce](./Une%20%C3%A9trange%20annonce.md)
 
 ***
 
 [2023-01-19](2023-01-19.md)
 
 *Engagement - Nerveux - Jupe* 
+
+![Les kannarezed noz ou lavandière de la nuit](./Les%20kannarezed%20noz%20ou%20lavandi%C3%A8re%20de%20la%20nuit.md)
