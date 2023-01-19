@@ -9,7 +9,7 @@ Rating:: ⭐⭐⭐⭐⭐
 Review:: 
 Summary:: 
 Author::
-Source:: 
+Source:: [Legacy of the Crown #2 : Entrepôt by night • JDR Academy - Podcast Addict](https://podcastaddict.com/episode/151570239)
 Type:: #SN/Podcast 
 Status:: #TPROC 
 MOC::
