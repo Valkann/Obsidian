@@ -4,11 +4,7 @@ Alias :
 Type : 
 - #projet/écriture
 - #projet/jdr/MotW/MdO 
-MOC : 
-PROJET :
 Source : [250 mots par jour](250%20mots%20par%20jour.md)
-Projets :
-Tags : 
 share: true
 category: projets/250mots
 ---
