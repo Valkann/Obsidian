@@ -36,4 +36,4 @@ Lancez 2d6+Weird.
 
 **Attaque** : Leur force et leur agilité en font des adversaires implacables si vous en venez au corps à corps. Leur vitesse surnaturelle leur permet de bondir sur leur proie. Elles ont assez de force pour casser les deux bras à la personne qui les aiderait à essorer leur linge.
 
-**Comment les vaincre** : Elles paraissent fuir les signes religieux qui les effraient et les met dans des colères noires. Il semble qu'une formule permettrait de se libérer de l'attention des Lavandières et de reprendre sa route : « _Diwasket ho poan ha me diwasko ma hini_ », « Essorez vos pleurs et moi, j'essorerai les miens. »
+**Comment les vaincre** : Elles paraissent fuir les signes religieux qui les effraient et les mettent dans des colères noires. Il semble qu'une formule permettrait de se libérer de l'attention des Lavandières et de reprendre sa route : « _Diwasket ho poan ha me diwasko ma hini_ », « Essorez vos pleurs et moi, j'essorerai les miens. »
