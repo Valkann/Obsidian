@@ -2,7 +2,7 @@
 Created :  2023-01-19
 Alias :
 Type : #projet/écriture
-Source : [250 mots par jour](250%20mots%20par%20jour.md)
+Source : 250 mots par jour
 Tags : 
 share: true
 category: projets/250mots
