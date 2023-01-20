@@ -4,7 +4,7 @@ Alias :
 Type : 
 - #projet/écriture
 - #projet/jdr/CultistesEtCatastrophes/NonMerci 
-Source : [250 mots par jour](250%20mots%20par%20jour.md)
+Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
