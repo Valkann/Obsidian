@@ -2,11 +2,7 @@
 Created :  2023-01-20
 Alias :
 Type : 
-MOC : 
-PROJET :
 Source : [250 mots par jour](250%20mots%20par%20jour.md)
-Projets :
-Tags : 
 share: true
 category: projets/250mots
 ---
