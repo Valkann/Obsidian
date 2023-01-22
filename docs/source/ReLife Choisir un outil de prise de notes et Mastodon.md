@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-01-16
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Pas mal, après ça cite des articles et des auteurs déjà lus pour moi et ça ne va pas assez dans le détail, mais bon, c'est parceque  je connais bien le sujet.
 Summary:: 
 Author::
 Source:: [‎Relife : amélioration du quotidien et développement personnel : Choisir un outil de prise de notes et Mastodon sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443)
