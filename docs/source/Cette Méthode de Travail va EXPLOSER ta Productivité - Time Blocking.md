@@ -14,7 +14,7 @@ Date : 2022-11-11-Fri
 Author : [Kaizen Lane](Kaizen%20Lane.md)
 Source : https://www.youtube.com/watch?v=fSn2ibGxWwQ&list=WL&index=58
 Type : #SN/Vidéo 
-MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie)
+MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 Projet : 
 Tags : #youtube #video #methodologie #finished 
 
@@ -27,9 +27,9 @@ Tags : #youtube #video #methodologie #finished
 
 Division de la journée en plusieurs blocs.
 
-L'idée est que lors d'un bloc, on atteigne un état de [Flow](Flow)
+L'idée est que lors d'un bloc, on atteigne un état de [Flow](Flow.md)
 
-![Flow](Flow)
+![Flow](Flow.md)
 
 Bloc : Plage horaire sur laquelle, on va travailler, avancer sur un sujet défini.
 
@@ -83,7 +83,7 @@ Mettre une limite de temps au bloc.
 Terminer l'activité choisie pendant la période définie pour le bloc.
 
 - Voir [Loi de Parkinson](Loi%20de%20Parkinson.md)
-- [Ratio de Fudge](Ratio%20de%20Fudge) : Temps réellement passé / temps estimé → [Get your fudge ratio](Get%20your%20fudge%20ratio.md)
+- [Ratio de Fudge](Ratio%20de%20Fudge.md) : Temps réellement passé / temps estimé → [Get your fudge ratio](Get%20your%20fudge%20ratio.md)
 
 ### Timing
 
@@ -101,7 +101,7 @@ Matin : on peut garder 30 à 60 min au tout début pour faire les choses urgente
 Être un peu égoïste et protéger son bloc à tout prix. 
 S'arranger pour décaler les réunions ou les appels si le bloc ne correspond pas.
 
-- Il faut protéger son [Flow](Flow).
+- Il faut protéger son [Flow](Flow.md).
 
 Il faut aussi savoir s'adapter, et avoir un plan d'action en cas de mouvement sur les blocs : est-ce qu'on décale le bloc, on le reporte à une autre période plus propice ? Découper le bloc ?
 
@@ -110,14 +110,14 @@ Il faut aussi savoir s'adapter, et avoir un plan d'action en cas de mouvement su
 ### Day Theming
 
 Le fait d'organiser les blocs par journée et donner un thème par journée. 
-Le but est d'avoir un [Flow](Flow) sur une journée 
+Le but est d'avoir un [Flow](Flow.md) sur une journée 
 
 - Livre : [Deep Work](Deep%20Work.md) de [Cal Newport](Cal%20Newport.md)
 
 ### Modification de la barre d'énergie
 
 - Le fait de réussir ses blocs du matin va pousser une meilleure motivation pour les blocs de l'après midi.
-- Décaler les pauses si on est dans le [Flow](Flow)
+- Décaler les pauses si on est dans le [Flow](Flow.md)
 - Sport : peut aider à consolider sa barre d'énergie.
 
 ### Pomodoro
@@ -133,7 +133,7 @@ Prendre 20 minutes la veille pour organiser tes blocs du lendemain.
 
 ## Outils
 
-- le plugin [Day planner](Day%20planner.md) d'[Obsidian](Obsidian)
+- le plugin [Day planner](Day%20planner.md) d'[Obsidian](Obsidian.md)
 
 
 
