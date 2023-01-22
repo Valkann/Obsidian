@@ -46,3 +46,10 @@ category: projets/250mots
 ![Mission Zadus](./Mission%20Zadus.md)
 
 ***
+[2023-01-21](2023-01-21.md)
+
+
+***
+[2023-01-22](2023-01-22.md)
+
+![QMJDR - La prise de note - Préparation pour MJ](QMJDR%20-%20La%20prise%20de%20note%20-%20Pr%C3%A9paration%20pour%20MJ.md)
