@@ -18,7 +18,7 @@ Alias:: Agent M13, Agent Malvers, MalAgent
 
 CLASSE DE DANGER 5 : MUTAGÉNICITÉ SUR CELLULES GERMINALES
 
- nommé ainsi en hommage à la première personne qui l'a découvert, le docteur Jean Malvers.
+Nommé ainsi en hommage à la première personne qui l'a découvert, le docteur Jean Malvers.
 
 L'agent M est une substante de couleur bleu sombre tirant sur le noir qui se présente à l'état naturel sous forme d'un liquide visqueux.
 
