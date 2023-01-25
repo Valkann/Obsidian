@@ -1,7 +1,7 @@
 
 ---
 Created :  2023-01-24
-Alias :
+Alias : Agent M13, Agent Malvers, MalAgent
 Type : 
 - #projet/écriture
 Source : 250 mots par jour
@@ -15,12 +15,14 @@ mots::
 ## Agent M13
 
 Alias:: Agent M13, Agent Malvers, MalAgent
+Numéro CAS : XXXXXXX-XX-X
+Numéro CE : 
 
 CLASSE DE DANGER 5 : MUTAGÉNICITÉ SUR CELLULES GERMINALES
 
 Nommé ainsi en hommage à la première personne qui l'a découvert, le docteur Jean Malvers.
 
-L'agent M est une substante de couleur bleu sombre tirant sur le noir qui se présente à l'état naturel sous forme d'un liquide visqueux.
+L'agent M est une substance de couleur bleu sombre tirant sur le noir qui se présente à l'état naturel sous forme d'un liquide visqueux.
 
 
 
