@@ -26,6 +26,8 @@ Nommé ainsi en hommage à la première personne qui l'a découvert, le docteur 
 ### Propriété physique 
 L'agent M est une substance de couleur bleu sombre tirant sur le noir qui se présente à l'état naturel sous forme d'un liquide visqueux.
 
+### INCENDIE – EXPLOSION
 
+### 
 
 
