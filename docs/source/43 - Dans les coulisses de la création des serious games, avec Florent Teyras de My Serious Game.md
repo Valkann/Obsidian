@@ -12,7 +12,7 @@ Summary::
 Author::
 Source:: [‎Learn & Enjoy : #43 - Dans les coulisses de la création des serious games, avec Florent Teyras de My Serious Game sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/learn-enjoy/id1572982116?i=1000585285138)
 Type:: #SN/Podcast 
-Status:: #TPROC
+Status:: #WiP
 MOC::
 Projet:: 
 
