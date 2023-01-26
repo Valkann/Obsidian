@@ -16,7 +16,7 @@ isbn:: 2361835126 9782361835125
 
 
 Type:: #SN/Livre 
-Status:: #TPROC 
+Status:: #WiP 
 
 ![cover|150](https://pictures.abebooks.com/isbn/9782361835125-us-300.jpg)
 
