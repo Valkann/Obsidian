@@ -12,7 +12,7 @@ Summary::
 Author::
 Source:: [MYTHOLOGICS #7 DARK SOULS - YouTube](https://www.youtube.com/watch?v=BULFG1EPV94)
 Type:: #SN/Vidéo 
-Status:: #TPROC
+Status:: #WiP
 MOC::
 Projet:: 
 
