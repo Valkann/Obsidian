@@ -10,7 +10,7 @@ Summary::
 Author::
 Source:: 
 Type:: #SN/
-Status:: #TPROC
+Status:: #WiP
 MOC::
 Projet:: 
 Tags:: #jdr/pbta
