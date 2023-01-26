@@ -1,18 +1,15 @@
----
-Type : [Note Permanente](Note%20Permanente.md)
-MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
-Created :  
-Alias :
-share: true 
-category: projets/MOTW
-Summary: 
-Tags:
-- JDR/Création 
-- JDR/Scénario
-- writing
-Type: projet
----
+```dataviewjs
+for (let group of dv.pages("#MotW").groupBy(p => p.type)) {
 
-| Name | type | rating | summary |
-| ---- | ---- | ------ | ------- |
+    dv.header(3, group.key);
 
+    dv.table(["Name", "Type"],
+
+        group.rows
+
+            .sort(k => k.type, 'type')
+
+            .map(k => [k.file.link, k["type"]]));
+
+}
+```
