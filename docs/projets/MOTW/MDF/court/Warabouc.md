@@ -1,5 +1,4 @@
 ---
-Type: projet
 MOC: [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source:
 Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -16,8 +15,9 @@ Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
-
-Tags : #JDR/Création #JDR/Scénario 
+type:: #SN/JDR/MotW/scenario 
+status:: #published 
+Tags : #JDR/Création #JDR/Scénario #MotW 
 
 ***  
 
