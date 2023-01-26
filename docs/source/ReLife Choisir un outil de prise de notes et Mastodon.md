@@ -12,7 +12,7 @@ Summary::
 Author::
 Source:: [‎Relife : amélioration du quotidien et développement personnel : Choisir un outil de prise de notes et Mastodon sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443)
 Type:: #SN/Podcast 
-Status:: #TPROC
+Status:: #finished 
 MOC::
 Projet:: 
 
