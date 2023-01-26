@@ -16,7 +16,7 @@ isbn:: {{isbn10}} {{isbn13}}
 
 
 Type:: #SN/Livre 
-Status:: #TPROC 
+Status:: #WiP 
 
 ![cover|150]({{coverUrl}})
 
