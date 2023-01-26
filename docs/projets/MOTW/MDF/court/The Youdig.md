@@ -1,5 +1,4 @@
 ---
-Type: projet
 MOC: [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source:
 Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -11,7 +10,9 @@ Alias:
 published: true
 ---
 Week:: 50
-Tags:: #JDR/Création, #JDR/Scénario, #MDF, #court, #writing
+type:: #SN/JDR 
+status:: #TPROC 
+Tags:: #JDR/Création, #JDR/Scénario, #MDF, #court, #writing#MotW 
 
 ***  
 
