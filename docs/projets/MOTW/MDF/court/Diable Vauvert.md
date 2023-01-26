@@ -1,5 +1,4 @@
 ---
-Type: projet
 MOC: [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source:
 Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -13,11 +12,13 @@ Tags:
   - #court
   - #writing
 Created: 2021-11-15-Mon
-published: false
+published: true
 Alias:
   - Diable Vauvert
 ---
-
+type:: #SN/JDR 
+status:: #TPROC 
+#MotW 
 
 
 ***  
