@@ -30,7 +30,7 @@ https://podcastaddict.com/episode/150309333 via @PodcastAddict
 [Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #02 #studioTjpFictionsSonores 
 https://podcastaddict.com/episode/150309344 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #a #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #studioTjpFictionsSonores 
 https://podcastaddict.com/episode/150309343 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #03 #studioTjpFictionsSonores 
@@ -42,7 +42,7 @@ https://podcastaddict.com/episode/150309341 via @PodcastAddict
 [Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #05 #studioTjpFictionsSonores 
 https://podcastaddict.com/episode/150309340 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #z #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #studioTjpFictionsSonores 
 https://podcastaddict.com/episode/150309339 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #06 #studioTjpFictionsSonores 
