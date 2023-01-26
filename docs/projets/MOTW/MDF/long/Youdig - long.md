@@ -1,5 +1,4 @@
 ---
-Type : [Note Permanente](Note%20Permanente.md)
 MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source :
 Projets : [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -12,12 +11,12 @@ Tags:
 - MDF
 - long
 - writing
-Type: projet
 Created :  2021-09-08-Wed
 Alias :
 ---
-
-Tags : #JDR/Création #JDR/Scénario 
+type:: #SN/JDR/MotW/scenario 
+status:: #WiP 
+Tags : #JDR/Création #JDR/Scénario #MotW 
 
 ***
 

@@ -13,7 +13,7 @@ Type:: #SN/Livre
 Status:: 
 MOC::
 Projet:: 
-Tags:: #to_discover, #SN/Livre, #TPROC
+Tags:: #to_discover, #SN/Livre, #WiP
 Week:: 52
 
 ***
