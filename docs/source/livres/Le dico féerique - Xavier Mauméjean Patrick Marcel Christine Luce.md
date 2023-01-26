@@ -16,10 +16,21 @@ isbn:: 2361835126 9782361835125
 
 
 Type:: #SN/Livre 
-Status:: #TPROC 
+Status:: #WiP 
 
 ![cover|150](https://pictures.abebooks.com/isbn/9782361835125-us-300.jpg)
 
 # Le dico féerique
 
 - Ajonc
+- Alerion 
+- Anjou
+- Arie
+- Armandjin
+- Babaou
+- Banshee
+- Basilic 
+- Bestio de Pignan
+- Beuffenie 
+- 
+
