@@ -1,5 +1,4 @@
 ---
-Type: projet
 MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source :
 Projets : [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -14,8 +13,12 @@ Tags:
 - MDF
 - court
 - writing
-published: false
+published: true
 ---
+type:: #SN/JDR 
+status:: #TPROC 
+#MotW 
+
 ---
 
 # La Groac’h de l’Île du Lok
