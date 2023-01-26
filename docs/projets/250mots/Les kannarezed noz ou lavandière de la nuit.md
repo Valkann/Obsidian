@@ -1,14 +1,14 @@
 ---
 Created :  2023-01-19
 Alias :
-Type : 
-- #projet/écriture
-- #projet/jdr/MotW/MdO
 Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
-
+Type:: #SN/JDR/MotW/Monstre 
+jour::  [2023-01-19](2023-01-19.md) 
+mots:: *Engagement - Nerveux - Jupe*   
+#250mots #MotW #projet/écriture #projet/jdr/MotW/MdO 
 
 ***
 
