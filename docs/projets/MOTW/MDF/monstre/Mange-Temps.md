@@ -12,13 +12,12 @@ Tags:
 - MDF
 - monstre
 - writing
-Type: projet
 Created :  2021-11-15-Mon
 Alias :
 - Mange-Temps
 ---
-
-Tags : #JDR/Création #JDR/Scénario #MotW 
+Type: #SN/JDR 
+Tags : #JDR/Création #JDR/Scénario #MotW #TPROC 
 
 ***
 
