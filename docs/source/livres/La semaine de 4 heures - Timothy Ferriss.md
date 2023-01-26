@@ -12,7 +12,7 @@ date: 2022-10-10
 updated: 2023-01-10 21:44:56
 ---
 Type:: #SN/Livre 
-Status:: #TPROC 
+Status:: #WiP 
 
 ![cover|150](http://books.google.com/books/content?id=pRYSCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
