@@ -1,13 +1,15 @@
 ---
 Created :  2023-01-19
 Alias :
-Type : 
-- #projet/écriture
-- #projet/jdr/MotW/MdO 
 Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
+type:: #SN/JDR/MotW/Monstre 
+status:: #TPROC 
+jour::  [2023-01-17](2023-01-17.md) 
+mots:: *Trèfle - Appareils - Domino* 
+#250mots #MotW #projet/écriture #projet/jdr/MotW/MdO 
 
 ***
 
