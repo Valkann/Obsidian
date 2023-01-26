@@ -11,7 +11,7 @@ Summary::
 Author::
 Source:: 
 Type:: #SN/JDR/MotW/Monstre 
-Status:: #TPROC 
+Status:: #WiP 
 MOC::
 Projet:: 
 Tags:: 
