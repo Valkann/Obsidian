@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-01-26 08:14:00
+quickshare-url: "https://noteshare.space/note/cldcrekwt2897101pjfjg3ivll#HarUaDnz4JH9fTDselJpAiuIf9sANFPiwr1WCNMDkp0"
 share: true 
 category: source
 Alias:
@@ -7,15 +9,14 @@ Week :
 - 46
 Rating :
 Summary : 
-Type : 
 ---
-Date : 2022-11-13-Sun
-Author :
-Source : 
-Type : [Note Source](Note%20Source)
-MOC : [MOC jdr](MOC%20jeu%20de%20r%C3%B4le)
-Projet : [Mystères de l'Ouest](Myst%C3%A8res%20de%20l'Ouest.md)
-Tags : #scénario #MdO #bretagne #MotW #jdr #projet #wip 
+Date:: 2022-11-13-Sun
+Author::
+Source:: 
+Type:: #SN/JDR/MotW/scenario
+MO: : [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
+Projet:: [Mystères de l'Ouest](Myst%C3%A8res%20de%20l'Ouest.md)
+Tags:: #scénario #MdO #bretagne #MotW #jdr #projet #wip 
 
 
 # Des pierres mystérieuses
