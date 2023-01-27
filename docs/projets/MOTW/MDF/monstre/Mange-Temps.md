@@ -1,10 +1,6 @@
 ---
-MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
-Source :
-Projets : [Mystères de France](Myst%C3%A8res%20de%20France.md)
 share: true 
 category: projets/MOTW/MDF/monstre
-Summary: 
 Created :  2021-11-15-Mon
 Alias :
 - Mange-Temps
