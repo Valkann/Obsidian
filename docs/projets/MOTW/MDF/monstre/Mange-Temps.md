@@ -1,24 +1,17 @@
 ---
-Type : [Note Permanente](Note%20Permanente.md)
 MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source :
 Projets : [Mystères de France](Myst%C3%A8res%20de%20France.md)
 share: true 
 category: projets/MOTW/MDF/monstre
 Summary: 
-Tags:
-- JDR/Création 
-- JDR/Scénario
-- MDF
-- monstre
-- writing
-Type: projet
 Created :  2021-11-15-Mon
 Alias :
 - Mange-Temps
 ---
-
-Tags : #JDR/Création #JDR/Scénario #MotW 
+Type:: #SN/JDR/MotW/Monstre 
+Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MDF #monstre #writing 
+status:: #WiP 
 
 ***
 
