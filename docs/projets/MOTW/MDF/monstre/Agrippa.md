@@ -6,6 +6,7 @@ Type:
 Source : 250 mots par jour
 share: true
 category: projets/250mots
+category: projets/MOTW/MDF/monstre
 ---
 jour::  [2023-01-24](2023-01-24.md)
 Week:: [2023-04](2023-04.md)
@@ -17,7 +18,7 @@ Status:: #WiP
 
 # Agrippa ou le livre des démons
 
-![0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg](../../notes/0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg)
+![0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg](../../../../notes/0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg)
 
 *L'agrippa est un livre qui contiendrait le nom de tous les démons de l'enfer. Bien sûr, ce sombre savoir fait de l'Agrippa un objet dangereux, littéralement. Le livre serait doué d'une vie propre et ne répondrait qu'à ses propres règles. Ouvrir l'Agrippa est une épreuve mentale pour résister à la puissance de cet artefact.*
 
