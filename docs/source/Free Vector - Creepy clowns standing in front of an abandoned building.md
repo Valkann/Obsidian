@@ -10,7 +10,7 @@ Review::
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/illustration
+Type::  #SN/illustration
 Status:: #WiP 
 MOC::
 Projet:: 
