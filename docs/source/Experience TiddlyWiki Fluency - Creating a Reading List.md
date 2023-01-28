@@ -25,7 +25,7 @@ Super intéressant de voir les possibilités de [TiddlyWiki](TiddlyWiki.md), Je 
 
 Il va dans la direction d'un [PKM](../seeds/PKM.md) avec [TiddlyWiki](TiddlyWiki.md) ce qui est davantage que ce que je recherchais à la base. 
 
-Je vais garder [Obsidian](Obsidian) pour mon [PKM](../seeds/PKM.md) en [Zettelkasten](M%C3%A9thode%20Zettelkasten) et [P.A.R.A.](P.A.R.A.) 
+Je vais garder [Obsidian](Obsidian.md) pour mon [PKM](../seeds/PKM.md) en [Zettelkasten](M%C3%A9thode%20Zettelkasten.md) et [P.A.R.A.](P.A.R.A..md) 
 
 Il faut que je trouve une façon de fonctionner avec un autre web clipper ou que j'améliore mon workflow avec [Pocket](Pocket.md)
 
