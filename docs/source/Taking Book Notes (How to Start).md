@@ -10,8 +10,8 @@ Type : YouTube
 Date : 2022-11-05-Sat
 Author : [Tiago Forte](../author/Tiago%20Forte.md)
 Source : https://www.youtube.com/watch?v=fES9ZrLXY9s
-Type : [Note Source](Note%20Source)
-MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie), [MOC PKM](MOC%20PKM)
+Type : [Note Source](Note%20Source.md)
+MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md), [MOC PKM](MOC%20PKM.md)
 Projet : 
 Tags : #finished #youtube 
 
