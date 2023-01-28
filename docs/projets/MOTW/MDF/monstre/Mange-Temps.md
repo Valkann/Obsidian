@@ -5,7 +5,7 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
-jour::  [2023-01-2](2023-01-2.md)
+jour::  [2023-01-26](2023-01-26.md)
 Week:: [2023-04](2023-04.md)
 mots:: 
 #250mots
