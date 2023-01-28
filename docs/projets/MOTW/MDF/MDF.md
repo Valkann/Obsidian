@@ -39,9 +39,9 @@ Tags : #JDR/Création #JDR/Scénario
 
 
 ## Créature
-| Name                                                                                          | type                 | rating | summary |
-| --------------------------------------------------------------------------------------------- | -------------------- | ------ | ------- |
-| [Mange-Temps](./monstre/Mange-Temps.md) | #SN/JDR/MotW/Monstre | \-     | \-      |
+| Name                                                                                          | type                                                            | rating | summary |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | ------- |
+| [Mange-Temps](./monstre/Mange-Temps.md) | <ul><li>#SN/JDR/MotW/Monstre</li><li>#projet/écriture</li></ul> | \-     | \-      |
 
 
 
