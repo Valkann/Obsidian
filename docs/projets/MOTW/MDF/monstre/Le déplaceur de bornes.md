@@ -12,7 +12,7 @@ mots::
 
 Projet:: #MotW 
 Type:: #SN/JDR/MotW/Monstre, #projet/écriture
-Status:: #WiP 
+Status:: #finished 
 
 # Le déplaceur de bornes ou Laer Douar
 
