@@ -4,7 +4,7 @@ MOC :
 - [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 - [MOC PKM](MOC%20PKM.md)
 Source : 
-- [How I Take Literature Notes in Obsidian - Effective Remote Work](How%20I%20Take%20Literature%20Notes%20in%20Obsidian%20-%20Effective%20Remote%20Work)
+- [How I Take Literature Notes in Obsidian - Effective Remote Work](How%20I%20Take%20Literature%20Notes%20in%20Obsidian%20-%20Effective%20Remote%20Work.md)
 Projets :
 Tags : 
 Created : 2021-09-21
@@ -14,7 +14,7 @@ share: true
 category: seeds
 ---
 
-Source : [How I Take Literature Notes in Obsidian - Effective Remote Work](How%20I%20Take%20Literature%20Notes%20in%20Obsidian%20-%20Effective%20Remote%20Work)
+Source : [How I Take Literature Notes in Obsidian - Effective Remote Work](How%20I%20Take%20Literature%20Notes%20in%20Obsidian%20-%20Effective%20Remote%20Work.md)
 
 ***
 

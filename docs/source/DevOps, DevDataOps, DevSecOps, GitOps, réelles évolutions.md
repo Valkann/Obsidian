@@ -22,7 +22,7 @@ Tags : #finished #podcast
 
 ## Notes
 
-[Radio DevOps] 📻 [DevOps, DevDataOps, DevSecOps, GitOps, réelles évolutions](DevOps,%20DevDataOps,%20DevSecOps,%20GitOps,%20r%C3%A9elles%20%C3%A9volutions) ? | Radio DevOps #27 #radioDevops 
+[Radio DevOps] 📻 [DevOps, DevDataOps, DevSecOps, GitOps, réelles évolutions](DevOps,%20DevDataOps,%20DevSecOps,%20GitOps,%20r%C3%A9elles%20%C3%A9volutions.md) ? | Radio DevOps #27 #radioDevops 
 https://podcastaddict.com/episode/146478148 via @PodcastAddict
 
 Se renseigner sur le 8 du devops.

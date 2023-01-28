@@ -333,9 +333,9 @@ Cela sera toujours considéré comme une situation **Désespérée**
 
 ## Livrets
 
-- [Artiste](./Livrets/Artiste)
-- [Dilettante](./Livrets/Dilettante)
-- [Soldat](./Livrets/Soldat)
+- [Artiste](./Livrets/Artiste.md)
+- [Dilettante](./Livrets/Dilettante.md)
+- [Soldat](./Livrets/Soldat.md)
 
 ***
 

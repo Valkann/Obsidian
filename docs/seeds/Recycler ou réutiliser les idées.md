@@ -16,8 +16,8 @@ category: seeds
 
 ### Recycler ou réutiliser les idées
 
-Tout le principe du [Second cerveau](Second%20cerveau) se base sur la réutilisation des idées et de pouvoir les reprendre et les réagencer de plusieurs façons possibles. Une idée va être utilisée dans plus projets.
+Tout le principe du [Second cerveau](./Second%20cerveau.md) se base sur la réutilisation des idées et de pouvoir les reprendre et les réagencer de plusieurs façons possibles. Une idée va être utilisée dans plus projets.
 
 On garde aussi la trace de tout ce qui a été créer pour aussi le réutiliser.
 
-On construit son contenu en réutilisant des blocs d'idée que l'on a déjà dans son [Second cerveau](Second%20cerveau)
+On construit son contenu en réutilisant des blocs d'idée que l'on a déjà dans son [Second cerveau](./Second%20cerveau.md)

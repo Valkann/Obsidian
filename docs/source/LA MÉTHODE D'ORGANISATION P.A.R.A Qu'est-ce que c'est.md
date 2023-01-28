@@ -22,7 +22,7 @@ Tags : #youtube #méthodologie #organisation #finished
 
 ## Notes
 
-Vidéo sur la méthode [P.A.R.A.](P.A.R.A.)
+Vidéo sur la méthode [P.A.R.A.](P.A.R.A..md)
 
 - Projects
 - Areas of responsability 
@@ -36,7 +36,7 @@ Organisation via des dossiers, chaque dossier à ses sous-dossiers et sont rang�
 - Une série de tâches associées à un objectif avec une date limite.
 *Exemple : préparer un voyage, organiser une conférence, etc.*
 
-On retrouve la définition du [projet](Projets) Une tâche avec une limite dans le temps.
+On retrouve la définition du [projet](Projets.md) Une tâche avec une limite dans le temps.
 
 ## Areas (Zones ou Sphères)
 
@@ -52,9 +52,9 @@ Une activité sans date butoir.
 En gros tout ce qu'on veut conserver quelque part pour s'y référer plus tard. 
 Idées, point intéressants, etc. 
 
-On y retrouve ici les [Note Permanente](Note%20Permanente) et les [Note Source](Note%20Source)
+On y retrouve ici les [Note Permanente](Note%20Permanente.md) et les [Note Source](Note%20Source.md)
 
-Je suppose que le premier niveau est le [MOC](Carte%20de%20contenu) dans cette organisation.
+Je suppose que le premier niveau est le [MOC](Carte%20de%20contenu.md) dans cette organisation.
 
 ## Archives 
 

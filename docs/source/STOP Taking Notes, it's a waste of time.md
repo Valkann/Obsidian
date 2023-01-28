@@ -22,7 +22,7 @@ Tags::
 
 ## Notes
 
-Une réflexion autour de la [Prise de notes](Prise%20de%20notes.md) qui peut s'inclure dans l'utilisation du [Zettelkasten](M%C3%A9thode%20Zettelkasten) ou de la méthode [P.A.R.A.](P.A.R.A.).
+Une réflexion autour de la [Prise de notes](Prise%20de%20notes.md) qui peut s'inclure dans l'utilisation du [Zettelkasten](M%C3%A9thode%20Zettelkasten.md) ou de la méthode [P.A.R.A.](P.A.R.A..md).
 
 Bien choisir ce que l'on prend en note.
 

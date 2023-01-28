@@ -80,7 +80,7 @@ Une bonne source d'inspiration est [Global Corp](Global%20Corp.md) de [Gulix](Gu
 
 ### Rumeurs
 
-- À chaque partie un certain nombre de rumeurs sont présentées par la gazette locale, les joueurs vont ensuite voter secrètement pour chaque rumeur afin e définir sa véracité. (->[Vote sur les Rumeurs](Vote%20sur%20les%20Rumeurs))
+- À chaque partie un certain nombre de rumeurs sont présentées par la gazette locale, les joueurs vont ensuite voter secrètement pour chaque rumeur afin e définir sa véracité. (->[Vote sur les Rumeurs](Vote%20sur%20les%20Rumeurs.md))
 
 ***
 
@@ -93,7 +93,7 @@ Un scénario est découpé en trois phases
 3. Résolution.
 
 Au début d'un scénario les cultistes effectue un rituel qui leur donne un aperçu de la mission.
-->[Flash forward et humour](Flash%20forward%20et%20humour)
+->[Flash forward et humour](Flash%20forward%20et%20humour.md)
 
 Cet aperçu indique ce qui doit se passe à la fin de la phase de Mission
 

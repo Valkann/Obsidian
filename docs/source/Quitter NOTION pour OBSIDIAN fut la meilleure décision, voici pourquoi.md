@@ -29,9 +29,9 @@ Paul LeCrone : Vidéaste pour créateur de contenu
 plugin de surlignage : highltr
 
 Différents types de preneur de note 
-- cette idée est la même que dans [How to choose the right note - taking app - the ultimate guide - Ness Labs](How%20to%20choose%20the%20right%20note%20-%20taking%20app%20-%20the%20ultimate%20guide%20-%20Ness%20Labs). On y retrouve d'ailleurs les mêmes termes.
+- cette idée est la même que dans [How to choose the right note - taking app - the ultimate guide - Ness Labs](./How%20to%20choose%20the%20right%20note%20-%20taking%20app%20-%20the%20ultimate%20guide%20-%20Ness%20Labs.md). On y retrouve d'ailleurs les mêmes termes.
 
-Méthode d'organisation [P.A.R.A.](P.A.R.A.) (Projects Areas Ressources Archives)
+Méthode d'organisation [P.A.R.A.](P.A.R.A..md) (Projects Areas Ressources Archives)
 Ordre de priorité de classement des notes
 
 Meilleure façon de créer : trouver du plaisir à créer

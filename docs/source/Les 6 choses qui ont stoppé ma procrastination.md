@@ -34,11 +34,11 @@ Mark Mason : faire un premier pas et commencer simplement
 
 Faire quelque chose de simple pour commencer, découper les tâches
 
-On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es)
+On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es.md)
 
 ### Trouver son flow
 
-![Flow](Flow)
+![Flow](Flow.md)
 
 Éviter les distractions autour de vous
 
@@ -51,17 +51,17 @@ On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomi
 
 ### S'imposer une discipline et des objectifs
 
-![Routine contre la procrastination](Routine%20contre%20la%20procrastination)
+![Routine contre la procrastination](Routine%20contre%20la%20procrastination.md)
 
 ### Rester réaliste
 
-Faire progresser ses exigences au fur et à mesure de la tâche en cours. Idées de [Décider vite, rester longtemps](D%C3%A9cider%20vite,%20rester%20longtemps) que l'on retrouve dans [Créez un podcast génial maintenant - Décider vite, rester longtemps](Cr%C3%A9ez%20un%20podcast%20g%C3%A9nial%20maintenant%20-%20D%C3%A9cider%20vite,%20rester%20longtemps)
+Faire progresser ses exigences au fur et à mesure de la tâche en cours. Idées de [Décider vite, rester longtemps](D%C3%A9cider%20vite,%20rester%20longtemps.md) que l'on retrouve dans [Créez un podcast génial maintenant - Décider vite, rester longtemps](./Cr%C3%A9ez%20un%20podcast%20g%C3%A9nial%20maintenant%20-%20D%C3%A9cider%20vite,%20rester%20longtemps.md)
 
-![Se lancer dun coup](Se%20lancer%20dun%20coup)
+![Se lancer dun coup](Se%20lancer%20dun%20coup.md)
 
 ## Liens
 
-![Procrastination](Procrastination)
+![Procrastination](Procrastination.md)
 
 
 

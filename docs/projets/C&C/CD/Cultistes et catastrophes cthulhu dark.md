@@ -26,7 +26,7 @@ Type: projet
 
 Façons cthulhu dark avec couverture au lieu de san.
 
-Raconter des histoires avec le [Flash forward et humour](Flash%20forward%20et%20humour)
+Raconter des histoires avec le [Flash forward et humour](Flash%20forward%20et%20humour.md)
 
 Les personnages ont des visions du futur ce qui annonce
 

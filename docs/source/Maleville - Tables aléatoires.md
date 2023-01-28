@@ -22,6 +22,6 @@ Tags:: #Maleville
 
 ## Notes
 
-![Maleville - Rencontres](Maleville%20-%20Rencontres)
+![Maleville - Rencontres](./Maleville%20-%20Rencontres.md)
 
-![Maleville - Lieux](Maleville%20-%20Lieux)
+![Maleville - Lieux](./Maleville%20-%20Lieux.md)

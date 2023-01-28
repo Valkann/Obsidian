@@ -16,7 +16,7 @@ category: seeds
 
 ### Vous ne créez pas à partir de rien
 
-En se basant sur toutes les idées collecter dans le [Second cerveau](Second%20cerveau) vous allez pouvoir construire votre contenu par bloc et avoir déjà des bases pour développer et créer.
+En se basant sur toutes les idées collecter dans le [Second cerveau](./Second%20cerveau.md) vous allez pouvoir construire votre contenu par bloc et avoir déjà des bases pour développer et créer.
 
 En recherchant les termes de votre sujet, vous allez récupérer les idées et les agencer comme vous le souhaiter. 
 

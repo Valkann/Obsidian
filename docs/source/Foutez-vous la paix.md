@@ -10,8 +10,8 @@ Type : #SN/Livre
 Date : 2022-10-19-Wed
 Author : [Fabrice Midal](Fabrice%20Midal.md)
 Source : 
-Type : [Note Source](Note%20Source)
-MOC : [MOC Psychologie](MOC%20Psychologie), [MOC Philosophie](MOC%20Philosophie)
+Type : [Note Source](Note%20Source.md)
+MOC : [MOC Psychologie](MOC%20Psychologie.md), [MOC Philosophie](MOC%20Philosophie.md)
 Projet : 
 Tags :  #finished 
 
