@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-08-Tue
 Author :
 Source : https://podcastaddict.com/episode/139862110
-Type : [Note Source](Note%20Source)
+Type : [Note Source](Note%20Source.md)
 MOC :
 Projet : 
 Tags : #podcast #jdr #finished 
