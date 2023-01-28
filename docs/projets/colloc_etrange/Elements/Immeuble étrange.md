@@ -32,7 +32,7 @@ Le voisin du rez-de-chaussée se vante de pratiquer le vaudou suédois, et c'est
 ### 1
 Au premier étage, vit un dieu oublié qui collectionne les horloges. Une rumeur dit que si l'on arrive à toutes les réglées sur la même heure, il accordera un vœu. Personne n'est jamais revenu après avoir essayé. Et la collection ne cesse de grandir.
 
-![Pasted image 20221024215027.png](Pasted%20image%2020221024215027.png)
+![Pasted image 20221024215027.png](../../../notes/Pasted image 20221024215027.png)
 
 ### 2
 Au second, vit une femme qui semble vieillir au fur et à mesure de la semaine pour arriver à un âge très avancé le dimanche. Mais le lundi suivant, elle paraît de nouveau avoir 20 ans.
