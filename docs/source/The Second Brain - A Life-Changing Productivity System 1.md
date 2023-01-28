@@ -46,7 +46,7 @@ Il y a 10 principes fondamentaux au [Second cerveau](../seeds/Second%20cerveau.m
 ```timestamp 
  02:14
  ```
-![Les habitudes de capture et récolte d'information](Les%20habitudes%20de%20capture%20et%20r%C3%A9colte%20d'information)
+![Les habitudes de capture et récolte d'information](Les%20habitudes%20de%20capture%20et%20r%C3%A9colte%20d'information.md)
 
 ```timestamp 
  02:48
@@ -56,7 +56,7 @@ Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre 
 Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
 
 Sur livre, la prise de note peut être faite comme dans cette vidéo
-- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start))
+- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start).md)
 
 Sous la douche, il existe des carnets imperméables
 
