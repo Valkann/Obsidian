@@ -12,7 +12,7 @@ mots::
 
 Projet:: #MotW 
 Type:: #SN/JDR/MotW/Monstre , #projet/écriture
-Status:: #WiP 
+Status:: #finished 
 # Iannic-ann-ôd
 
 ![daniel-jensen-NMk1Vggt2hg-unsplash.jpg](../../../../notes/daniel-jensen-NMk1Vggt2hg-unsplash.jpg)
