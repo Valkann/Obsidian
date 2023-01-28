@@ -15,19 +15,21 @@ mots:: *Trèfle - Appareils - Domino*
 
 # Le Leprechaun 
 
--  type : 
--  Nature :
--  Taille :
--  Poids :
--  Lieu de prédilection :
--  Autres infos : 
+![18d1b18d-cd6f-4a4e-ac71-d1f85b7ff04f.jpg](../../../../notes/18d1b18d-cd6f-4a4e-ac71-d1f85b7ff04f.jpg)
 
 Le leprechaun, membre du petit peuple et originaire d'Irlande. D'une taille variant de 40 à 60 centimètres, il est connu pour s'habiller de vert et avoir une tignasse d'un roux vif.
 
 Il dort souvent parmi les trèfles quand il ne joue pas de mauvais tours aux humains qui vivent à proximité. 
 
 La légende dit que si l'on attrape un leprechaun, celui doit vous récompenser en vous indiquant où se trouve le pot rempli de pièce d'or dont il a la garde. D'autres sources affirment qu'il serait en mesure d'exaucer trois vœux de celui qui l'attrape.
-  
+
+- **Type** : 
+- **Nature** :
+- **Taille** :
+- **Poids** :
+- **Lieu de prédilection** :
+- **Autres infos** : 
+
 ## Pouvoirs
 
 Le leprechaun est un membre du petit peuple, il peut disparaitre de la vue des humains afin de leur jouer de cruelles farces. Il est capable de porter des poids très lourd et peut se déplacer très rapidement. Il est presque impossible à attraper quand il est réveillé. De plus, il peut mettre en panne la plupart des appareils modernes comme son cousin le Gremlin. On soupçonne d'ailleurs ces derniers d'être un clan spécifique de Leprechaun.
