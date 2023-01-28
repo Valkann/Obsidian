@@ -6,7 +6,7 @@ category: source
 ---
 
 Rating:: 4
-Summary:: Des bonnes idées et de bonnes pratiques peut être à généraliser dans un épisode de [QMJDR](QMJDR)
+Summary:: Des bonnes idées et de bonnes pratiques peut être à généraliser dans un épisode de [QMJDR](QMJDR.md)
 Author::
 Source:: http://40arkhamavenue.blogspot.com/2016/09/preparer-son-scenario-lettres-de-sang_24.html
 Type:: #SN/Article 
@@ -22,7 +22,7 @@ Week:: 51
 ## Notes
 
 Des idées pour mettre en place des PNJs intéressant lors d'une enquête. 
-Il peut servir de base à un épisode de [QMJDR](QMJDR)
+Il peut servir de base à un épisode de [QMJDR](QMJDR.md)
 
 ## Highlights
 
