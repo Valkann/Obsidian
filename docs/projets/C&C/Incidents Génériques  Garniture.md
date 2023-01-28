@@ -21,7 +21,7 @@ Les incidents sont des évènements qui vont pousser les joueurs à devoir trouv
 
 La radio est resté allumé sur France Cultiste, et l'émission parle justement du problème que vous rencontrez en citant votre nom. 
 - Votre cousin, qui a commencé son hybridation pour ressembler à votre divinité, vient vous rendre visite.
-- Les personnages tombent sur un chien à trois têtes en train d'errer dans les rues de la ville ([Maleville](Maleville) ?).
+- Les personnages tombent sur un chien à trois têtes en train d'errer dans les rues de la ville ([Maleville](Maleville.md) ?).
 -  Ils rencontrent un habitant de la ville qui leur raconte l'histoire d'un amour impossible entre un humain et un ange.
 -  Les personnages tombent sur une porte secrète menant à une pièce remplie de livres interdits.
 -  Ils assistent à un rassemblement organisé par les adorateurs d'un dieu inconnu.
