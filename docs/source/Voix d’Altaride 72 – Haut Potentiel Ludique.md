@@ -26,9 +26,9 @@ Tags :  #finished
 
 ![image](https://www.cendrones.fr/wp-content/uploads/2018/10/va72-e1555768905687.png)
 
-[HPL](Potentiels%20ludiques) : n'écrire que des éléments d'intrigues qui sont importants à la partie
+[HPL](Potentiels%20ludiques.md) : n'écrire que des éléments d'intrigues qui sont importants à la partie
 
-Critères de [HPL](Potentiels%20ludiques) (coloc des 40 ans du jdr) 
+Critères de [HPL](Potentiels%20ludiques.md) (coloc des 40 ans du jdr) 
 - Indispensable a l'intrigue ou a l'espace diégétique de la partie
 - indispensable à une scène clef qu'on a envie d'amener 
 - un élément secondaire, mais lié à l'un des deux premiers points.
