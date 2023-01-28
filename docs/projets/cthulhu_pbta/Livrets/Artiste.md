@@ -36,7 +36,7 @@ Tu es un artiste accompli dans un domaine, une référence même d'après certai
 
 ## Classe Sociale
 
-De manière générale, beaucoup d'artiste des années 20 sont [#Indigent](#Indigent.md) ou [#Pauvre](#Pauvre.md)
+De manière générale, beaucoup d'artiste des années 20 sont [Indigent](Artiste.md#Indigent) ou [Pauvre](Artiste.md#Pauvre)
 
 Si tu bénéficies d'un mécène ou d'une renommée établie alors les autres classe sociale sont envisageables. (Voir la manœuvre Mécène)
 
@@ -103,7 +103,7 @@ Lancez 2d6 + Pouvoir
 
 ### Mécène
 
-Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut augmenter à [#Classe Moyenne](#Classe%20Moyenne.md) ou [#Classe aisée](#Classe%20ais%C3%A9e.md)
+Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut augmenter à [Classe Moyenne](Artiste.md#Classe%20Moyenne) ou [Classe aisée](Artiste.md#Classe%20aisée)
 
 ## Liens
 
