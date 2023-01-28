@@ -1,11 +1,14 @@
 ---
-share: true 
+Date: 2023-01-25
+Alias:
+Source : 250 mots par jour
+share: true
 category: projets/MOTW/MDF/monstre
-Created :  2021-11-15-Mon
-Alias :
-- Mange-Temps
 ---
-
+jour::  [2023-01-2](2023-01-2.md)
+Week:: [2023-04](2023-04.md)
+mots:: 
+#250mots
 Projet:: #MotW 
 Type:: #SN/JDR/MotW/Monstre 
 Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MDF #monstre #writing 
