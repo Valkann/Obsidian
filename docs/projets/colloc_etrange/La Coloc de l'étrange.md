@@ -10,7 +10,7 @@ Tags : #writing
 
 # La Coloc de l'étrange
 
-Se base sur l'idée de l'[Immeuble étrange](Immeuble%20étrange.md)
+Se base sur l'idée de l'[Immeuble étrange](./Elements/Immeuble%20étrange.md)
 
 ## Idées
 
@@ -32,7 +32,7 @@ J'essaye de faire une version test et je la mettrai sur le GitHub avec les autre
 
 Plusieurs éléments à [Haut Potentiel Ludique](Potentiels%20ludiques%7C%20Haut%20Potentiel%20Ludique.md) dans une séance.
 
-![Les intrigues](Étude%20de%20Friends.md#Intrigues)
+![Les intrigues](./Sources/Étude%20de%20Friends.md#Intrigues)
 
 ## Idées de jeu
 
@@ -57,7 +57,7 @@ Les personnages sont groupés, car ils suivent les mêmes high concept, importan
 
 Une figure adulte qui créer des moments communs
 
-![Adulthood](Étude%20de%20Friends.md#Adulthood)
+![Adulthood](./Sources/Étude%20de%20Friends.md#Adulthood)
 
 ## Lieux
 
@@ -70,15 +70,15 @@ Les lieux doivent être en étroites relations avec
 
 ## Inspiration
 
-- [Étude de Friends](Étude%20de%20Friends.md)
-- [Green Dawn Mall](Green%20Dawn%20Mall)
+- [Étude de Friends](./Sources/Étude%20de%20Friends.md)
+- [Green Dawn Mall](Green%20Dawn%20Mall.md)
 - The Bureau pour Liminal Horror
 - Jeu vidéo Control
 - la jam Artifacts of Horror [https://itch.io/jam/artifacts-of-horror-jam](https://itch.io/jam/artifacts-of-horror-jam "https://itch.io/jam/artifacts-of-horror-jam")
 - [Archive 81](9999%20Inbox/Archive%2081.md)
 - [Dans la chaleur de la nuit](Dans%20la%20chaleur%20de%20la%20nuit.md) : [https://hu-mu.blogspot.com/2011/03/scenario-unknown-armies-dans-la-chaleur.html](https://hu-mu.blogspot.com/2011/03/scenario-unknown-armies-dans-la-chaleur.html "https://hu-mu.blogspot.com/2011/03/scenario-unknown-armies-dans-la-chaleur.html")
 - La Maison des feuilles : [https://youtu.be/GkZOF9Wk3Zc](https://youtu.be/GkZOF9Wk3Zc "https://youtu.be/GkZOF9Wk3Zc")
-- [Escape from Dino Island - Livre de base](Escape%20from%20Dino%20Island%20-%20Livre%20de%20base)]
+- [Escape from Dino Island - Livre de base](Escape%20from%20Dino%20Island%20-%20Livre%20de%20base.md)]
 - Friends
 - How I Met your Mother
 - What we do in the Shadow
