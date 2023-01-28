@@ -132,7 +132,7 @@ Ce site utilise Akismet pour réduire les indésirables. [En savoir plus sur com
 
 #### Message audio
 
-[Enregistrer une bafouille](#)
+[Enregistrer une bafouille](Wapx082%20–%20l'inaudible.md#)
 
 #### Infos
 
