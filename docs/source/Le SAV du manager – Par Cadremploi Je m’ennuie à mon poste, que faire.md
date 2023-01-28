@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-12-Sat
 Author :
 Source : https://podcastaddict.com/episode/65376129 
-Type : [Note Source](Note%20Source)
+Type : [Note Source](Note%20Source.md)
 MOC :
 Projet : 
 Tags : #podcast #finished 
