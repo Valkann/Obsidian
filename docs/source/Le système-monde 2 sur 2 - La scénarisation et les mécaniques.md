@@ -203,4 +203,4 @@ _Pour aller plus loin:_
 
 Thomas Munier, [_Jeu et narration: ressources_](https://outsiderart.blog/2021/11/04/jeu-et-narration-ressources/), sur Outsider
 
-Cf [Le système-monde. Partie 1 sur 2   Créer un univers à vocation ludonarrative](Le%20syst%C3%A8me-monde.%20Partie%201%20sur%202%20%20%20Cr%C3%A9er%20un%20univers%20%C3%A0%20vocation%20ludonarrative)
+Cf [Le système-monde. Partie 1 sur 2   Créer un univers à vocation ludonarrative](Le%20syst%C3%A8me-monde.%20Partie%201%20sur%202%20%20%20Cr%C3%A9er%20un%20univers%20%C3%A0%20vocation%20ludonarrative.md)
