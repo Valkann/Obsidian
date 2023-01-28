@@ -7,7 +7,7 @@ Rating : 5
 Summary : Toujours super inspirant quoque un peu brouillon dans ses propos. En plus il parle de Melville donc content :)
 ---
 Date : 2022-11-16-Wed
-Author : [FibreTibre](FibreTibre)
+Author : [FibreTibre](FibreTibre.md)
 Source : 
 Type:: #SN/Podcast 
 MOC :
