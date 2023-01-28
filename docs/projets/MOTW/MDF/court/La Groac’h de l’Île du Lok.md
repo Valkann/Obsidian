@@ -36,7 +36,7 @@ Nos chasseurs vont devoir débusquer la vérité parmi tous ces gens et découvr
 
 ## Créature
 
-![La Groac'h](../../../../seeds/La%20Groac'h.md)
+![La Groac'h](../../../250mots/La%20Groac'h.md)
 ## Lieux
 
 1. Le puits
