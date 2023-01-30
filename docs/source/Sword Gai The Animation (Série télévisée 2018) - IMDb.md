@@ -6,13 +6,14 @@ category: source
 ---
 
 Date:: 2023-01-29
-Rating::
-Review:: 
+Week:: [2023-04](2023-04.md)
+Rating:: ⭐⭐⭐⭐
+Review:: Animé assez sympa et assez intéressant, mais qui se termine vraiment très abruptement.
 Summary:: 
 Author::
 Source:: https://m.imdb.com/title/tt7415066/
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #finished 
 MOC::
 Projet:: 
 

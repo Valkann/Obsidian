@@ -5,8 +5,8 @@ Alias:
 ---
 Date:: 2023-01-23
 Week:: [2023-04](2023-04.md)
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Franchement toujours sympa à lire comme fiction détente.
 Summary:: 
 Author:: [Jean Ray](Jean%20Ray.md)
 Source:: 

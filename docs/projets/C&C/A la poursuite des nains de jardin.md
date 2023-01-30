@@ -2,8 +2,6 @@
 Created :  2022-05-31-Tue
 Week : 44
 Alias :
-Type : 
--  [Note Permanente](Note%20Permanente.md)
 MOC :
 - [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le.md)
 Source : 
