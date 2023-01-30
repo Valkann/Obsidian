@@ -18,15 +18,13 @@ Status:: #WiP
 
 ![7797f150-a6e0-4896-bb7a-d9555bc77d3a.jpg](../../notes/7797f150-a6e0-4896-bb7a-d9555bc77d3a.jpg)
 
-_Une gwrac'h/groac'h (breton pour « fée », « sorcière » ou « vieille femme », pl. gwrac'hed) est une fée ou sorcière bretonne liée à l'eau._
-
 Une légende, _La Fée des îles_ (aussi appelée _La Groac’h de l’Île du Lok_) est rattachée à cette île : un certain Houlan Pogam, de Lannilis, ne pouvait se marier avec sa cousine Bella Postic, car il était trop pauvre. Il se rend alors dans l'île du Loc'h où il avait entendu dire que vivait dans un manoir une fée dotée de pouvoirs merveilleux. La fée était en fait une sorcière qui le transforme en grenouille verte, mais est sauvé par sa fiancée qui disposait de talismans. Tous deux délivrent les malheureux qui étaient retenus prisonniers dans les filets magiques de la sorcière, s'emparent de son trésor et reviennent à Lannilis où sont célébrées leurs noces.
 
 -  *Type* : Dévoreur (motivation : dévorer les gens)
 -  *Taille* : 1,67 m sous sa forme de jeune femme, 2,30 m sous sa forme de sorcière
 -  *Poids* : 200 kg
 -  *Lieu de prédilection* : Les grottes des bords de mer et les iles bretonnes.
--  *Autres infos* :
+-  *Autres infos* : Une gwrac'h/groac'h (breton pour « fée », « sorcière » ou « vieille femme », pl. gwrac'hed) est une fée ou sorcière bretonne liée à l'eau.
   
 ## Pouvoirs
 
@@ -56,7 +54,7 @@ Si une des victimes est dans le filet de la Groac'h, cette dernière peut la tra
 Lorsque vous êtes victime de la malédiction de la Groac'h, lancez 2d6+Weird
 - 10+ : Vous résistez et garder votre forme
 - 7-9 : Vous résistez partiellement et certain de vos membres ont entamé leur transformation, subissez -2 forward sur vos jets.
-- 6- : Vous devenez un animal, seul un puissant contresort ou le banissement de la sorcière peut vous sauvez.
+- 6- : Vous devenez un animal, seul un puissant contresort ou le bannissement de la sorcière peut vous sauver.
 
 ## Attaque(s)
 
