@@ -4,7 +4,7 @@ category: source
 Alias:
 ---
 Date:: 2023-01-29
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../week/2023-04.md)
 Rating:: ⭐⭐⭐⭐⭐
 Review:: franchement super qualité et histoire qui me parle.  Presque envie de faire rejouer ça avec le #jdr #MotW 
 Summary:: 

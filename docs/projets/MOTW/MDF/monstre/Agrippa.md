@@ -1,20 +1,17 @@
 ---
 Date: 2023-01-25
 Alias:
-Type: 
-- #projet/écriture
 Source : 250 mots par jour
 share: true
-category: projets/250mots
 category: projets/MOTW/MDF/monstre
 ---
 jour::  [2023-01-24](2023-01-24.md)
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
 Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre 
-Status:: #WiP 
+Type:: #SN/JDR/MotW/Monstre , #projet/écriture
+Status:: #finished 
 
 # Agrippa ou le livre des démons
 
@@ -39,11 +36,9 @@ De plus, la personne le possédant sent le soufre et la fumée, parce qu'il a co
 
 ### Question aux enfers
 L'Agrippa contient les noms de tous les diables et enseigne le moyen de les évoquer.
-On peut obtenir la réponse à des questions
-A l'appel de leurs noms, tous les démons accourent. La personne détenant l'Agripa les interroge un à un.
-Pour les congédier, on les appelle de nouveau par leurs noms, mais en commençant par le nom du diable qui est arrivé le dernier, et ainsi de suite.
+On peut obtenir la réponse à des questions. A l'appel de leurs noms, tous les démons accourent. La personne détenant l'Agripa les interroge un à un. Pour les congédier, on les appelle de nouveau par leurs noms, mais en commençant par le nom du diable qui est arrivé le dernier, et ainsi de suite.
 
-Lancez 2d6+Weird
+Lorsque vous posez une question à L'Agrippa, lancez 2d6+Weird
 - Sur 10+ : Choisissez 3
 - Sur 7-9 : Choisissez un.
 	- Vous obtenez les réponses à votre question.
