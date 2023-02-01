@@ -4,7 +4,7 @@ quickshare-url: "https://noteshare.space/note/cldm3u0f5948701pju6wqb1gk#LR1axE5C
 Date: 2023-02-01
 Alias:
 Type: 
-- #projet/écriture
+- #projet/écriture 
 Source : 250 mots par jour
 share: true
 category: projets/250mots
@@ -49,3 +49,4 @@ L'influence d'Ixion sur la ville attire et réveil d'anciennes bêtes. Ces derni
 Les joueurs et les livrets : 
 - Élue : relier la prophétie au réveil de Typhon
 - Divin : s'assurer d'une ascendance avec les divinités grecques.
+- Exilé : 
