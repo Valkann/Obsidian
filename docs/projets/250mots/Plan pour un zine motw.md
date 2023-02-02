@@ -4,14 +4,12 @@ quickshare-url: "https://noteshare.space/note/cldm3u0f5948701pju6wqb1gk#LR1axE5C
 Date: 2023-02-01
 Alias:
 Type: 
-- #projet/écriture
+- #projet/écriture 
 Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
-jour:: 
-- [2023-01-31](2023-01-31.md)
-- [2023-02-01](2023-02-01.md)
+jour:: [2023-01-31](2023-01-31.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
 #250mots
@@ -51,3 +49,20 @@ L'influence d'Ixion sur la ville attire et réveil d'anciennes bêtes. Ces derni
 Les joueurs et les livrets : 
 - Élue : relier la prophétie au réveil de Typhon
 - Divin : s'assurer d'une ascendance avec les divinités grecques.
+- Exilé : Un héros de la grèce antique
+
+
+# illustrations
+
+Prompt
+
+Mermaid monster  line and black and white character, water color background
+
+/imagine prompt:sirene horror comics style of mike mignola --ar 2:3
+
+/imagine prompt: washerwomen in traditional Breton costume at night  horror comics style of mike mignola --ar 2:3
+
+/imagine prompt: Korrigan in traditional Breton costume horror comics style of mike mignola --ar 2:3
+
+/imagine prompt: hunchbacked man carrying a heavy stone on his back in traditional Breton costume horror comics style of mike mignola --ar 2:3
+
