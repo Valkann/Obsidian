@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-02-05 20:32:26
+quickshare-url: "https://noteshare.space/note/cldrs6px31882001pj42e96c1e#O8qUNFFQEoVCv9UocLU3p0QZKAHsU18H8tsMx7O/n3I"
 share: true 
 title: Ceux qui luttaient dans les ténèbres
 category: projets/cthulhu_pbta
@@ -74,9 +76,7 @@ Le texte de la version française est mis à disposition selon les termes de la 
 
 Ce sont les attributs du personnage qui sont appliqués à la plupart des jets de dé.
 
-- Utilise **Vitalité** si l'action de ton personnage implique la force, la dextérité, l'endurance,
-l'athlétisme ou le physique brut.
-
+- Utilise **Vitalité** si l'action de ton personnage implique la force, la dextérité, l'endurance, l'athlétisme ou le physique brut.
 - Utilise **Calme** si l'action de ton personnage nécessite de garder la tete froide, de la discrétion ou une concentration intense, ou s'il fait face à ses peurs ou à l'innommable.
 - Utilise **Méthode** si ton Personnage est en train d'étudier des livres, de faire des recherches sur un problème, d'examiner une scène de crime ou de faire appel à sa matière grise.
 - Utilise **Présence** si ton Personnage essaie de charmer quelqu'un, d'intimider quelqu'un ou de capter l'attention ou l'imagination de quelqu'un.
@@ -251,7 +251,7 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
 
  Agir sous la pression est une manœuvre fourre-tout pour les actions qui ont lieu pendant la journée. Le Gardien a le dernier mot sur la capacité utilisée pour le jet.
 
-### **Enquêter**
+### Enquêter
 
  Quand tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
 
@@ -264,7 +264,7 @@ Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
  Ainsi, par exemple, si un personnage recueille des informations en parlant gentiment à un représentant de la loi locale, sa joueuse fera un jet de Présence. S'il recueille des informations en écoutant silencieusement une conversation qu'il n'est pas censée entendre, sa joueuse utilisera Calme. Dans le cas où elle fouille dans les livres de la bibliothèque locale, elle utilisera Méthode. Et ainsi de suite. Le Gardien a le dernier mot sur le choix de la capacité utilisée pour le jet.
 
-### **Souffler**
+### Souffler
 
  Quand tu as un moment d'intimité avec un autre personnage et que l'un d'entre vous est engagé dans une activité reposante.
  Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une.
@@ -280,7 +280,7 @@ Dis au Gardien de quoi il s'agit. L'indice ne peut pas résoudre le mystère à 
 
 Cette manœuvre sert plusieurs objectifs pratiques, tels que la récupération des conditions, mais elle est principalement conçue pour montrer la relation étroite entre les personnages, ainsi que pour donner un aperçu de leur vie en tant qu'investigateur.
 
-### **Utiliser le Mythe**
+### Utiliser le Mythe
 
 Quand tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir.
 
@@ -356,10 +356,10 @@ Voir si on garde les capacités ou si on part sur un système à la libreté :
 - On ajoute un certain nombre de points de stress à sa réserve et a son test avant de lancer les dés
 - Si 10+ on perd un point de stress
 - Le nombre de points de stress pris donne le ton de l'action
-  - 0 : Le ton est léger, presque humoristique
-  - 1 : Le ton est plus
-  - 2 :
-  - 3 : Le ton est sombre les actions sont réussies, maiss c'est sale, dur, sanglant. Les échecs
+	  - 0 : Le ton est léger, presque humoristique
+	  - 1 : Le ton est plus
+	  - 2 :
+	  - 3 : Le ton est sombre les actions sont réussies, maiss c'est sale, dur, sanglant. Les échecs
 
 Mettre une horloge en fonction des points de stress tirés qui va donner le ton ?
 
