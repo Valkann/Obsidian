@@ -12,7 +12,7 @@ category: projets/250mots
 jour::  [2023-01-30](2023-01-30.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
-#250mots 
+#250mots #WiP #projet 
 
 Les loges dirigent le monde en sous main. L'ombre des loges est derrières chaque acte politique, chaque royaume, chaque décision de conquête, chaque révolution. 
 Les loges façonnent le monde suivant leurs projets et leurs idées, se défient et se combattent à travers les armées des autres.

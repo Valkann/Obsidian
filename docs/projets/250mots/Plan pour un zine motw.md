@@ -12,7 +12,7 @@ category: projets/250mots
 jour:: [2023-01-31](2023-01-31.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
-#250mots
+#250mots #WiP #projet 
 
 # La vengeance d'Ixion
 
@@ -52,17 +52,5 @@ Les joueurs et les livrets :
 - Exilé : Un héros de la grèce antique
 
 
-# illustrations
 
-Prompt
-
-Mermaid monster  line and black and white character, water color background
-
-/imagine prompt:sirene horror comics style of mike mignola --ar 2:3
-
-/imagine prompt: washerwomen in traditional Breton costume at night  horror comics style of mike mignola --ar 2:3
-
-/imagine prompt: Korrigan in traditional Breton costume horror comics style of mike mignola --ar 2:3
-
-/imagine prompt: hunchbacked man carrying a heavy stone on his back in traditional Breton costume horror comics style of mike mignola --ar 2:3
 

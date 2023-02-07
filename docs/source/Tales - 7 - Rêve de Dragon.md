@@ -16,7 +16,7 @@ MOC::
 Projet:: 
 Tags:: 
 
-# [Tales - 7 - Rêve de Dragon
+# Tales - 7 - Rêve de Dragon
 
 
 ***

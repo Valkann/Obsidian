@@ -10,8 +10,8 @@ Review:: Découverte du jeu, les références Hollow Knight m'ont convaincu d'y 
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 

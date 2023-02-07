@@ -1,34 +1,22 @@
 ---
-Created: 2022-10-24-Mon
 share: true 
 category: source
-URL:
-- https://chartopia.d12dev.com/en/search/
 Alias:
-- 
-Type: 
-- [Note Source](Note%20Source.md)
-MOC:
-- 
-PROJETS:
-- 
-Source:
-- 
-Author:
-- 
-Rating:
-Week: 43
-Summary: Faire un générateur de monstre en ligne pour MOTW
-Tags:
-- SN/
-- wip
-Type: projet
 ---
+Date:: 2023-02-06
+Week:: [2023-06](2023-06.md)
+Rating::
+Review:: 
+Summary:: 
+Author::
+Source:: 
+Type:: #SN/JDR 
+Status:: #WiP 
+MOC::
+Projet:: #projet 
+Tags:: 
 
 # Générateur de monstre pour MOTW
-
-
-***
 
 ## Notes
 
