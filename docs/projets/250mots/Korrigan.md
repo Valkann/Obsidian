@@ -1,8 +1,6 @@
 ---
 Date: 2023-02-04
 Alias:
-Type: 
-- #projet/écriture
 Source : 250 mots par jour
 share: true
 category: projets/250mots
@@ -11,7 +9,6 @@ jour::  [2023-02-04](2023-02-04.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
 #250mots 
-
 Projet:: #MotW 
 Type:: #SN/JDR/MotW/Monstre 
 Status:: #WiP #projet 
