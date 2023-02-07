@@ -14,7 +14,7 @@ mots::
 
 Projet:: #MotW 
 Type:: #SN/JDR/MotW/Monstre 
-Status:: #WiP 
+Status:: #WiP #projet 
 # Korrigan
 
 Les korrigans font aussi partie du petit peuple, ce sont des esprits prenant l'apparence de nains dans la tradition celtique, et en particulier bretonne. Leur apparence est variée, ils peuvent être dotés d'une magnifique chevelure et d'yeux rouge lumineux, ou être décrits comme étant petits, noirs et velus, coiffés de chapeaux plats avec des rubans de velours. Les filles étant coiffées de bonnets violets.
