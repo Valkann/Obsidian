@@ -28,5 +28,5 @@ Peut-on imaginer ça en pbta : l'action est réussi, mais le résultat du dé do
 
 Voir sur [Ceux qui luttaient dans les ténèbres](../projets/cthulhu_pbta/Ceux%20qui%20luttaient%20dans%20les%20t%C3%A9n%C3%A8bres.md) ou [dryh](dryh.md) si cela peut s'appliquer.
 
-En coordination avec la bile de [libreté](libret%C3%A9.md) ? Plus on pioche de bile noire, plus le ton de l'action est lugubre ?
+En coordination avec la bile de [Libreté](Libret%C3%A9.md) ? Plus on pioche de bile noire, plus le ton de l'action est lugubre ?
 
