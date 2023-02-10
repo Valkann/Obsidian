@@ -162,10 +162,6 @@ Exemple :
 
 - ==todo==
 
-Move : encyclopedant 
-
-
-
 ### Avantage
 
 Lorsque tu as un avantage, lances trois dés, gardes les deux plus élevés, additionnes les, puis ajoute le modificateur de la capacité concernée.
@@ -210,15 +206,15 @@ Les **Folies** sont les conséquences de ta lutte contre l'innommable et les tra
 
 ### Plus de souvenirs ou de folies ?
 
-Si tous tes souvenirs sont cochés, ton investigateur ne peut plus continuer, les raisons pour lesquelles n'arrivent plus à le maintenir dans la lutte. Il baisse les bras et prend sa retraite...dans le meilleur des cas.
+Si tous tes souvenirs sont cochés, ton investigateur ne peut plus continuer, les raisons pour lesquelles n'arrivent plus à le maintenir dans la lutte. Il baisse les bras et prend sa retraite... dans le meilleur des cas.
 
-Si toutes tes folies sont cochées, ton investigateurs est définitivement trop atteint pour continuer. Il sera emmener dans une maison de repos... si il ne fait pas bétise avant.
+Si toutes tes folies sont cochées, ton investigateur est définitivement trop atteint pour continuer. Il sera emmener dans une maison de repos... s'il ne fait pas de bêtise avant.
 
 ## Souvenirs, Folies et jets de dé
 
 Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les **Souvenirs et Folies.**
 
-Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
+Après un jet de dé, et après qu'une conséquence ai été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
 
 Ainsi, un échec (6-) devient un 7-9, un 7-9 devient un 10-11, et un 10-11 devient un 12.
 
@@ -234,7 +230,7 @@ La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, d
 
 ## Manœuvres
 
-Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifique à leur personnage.
+Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifiques à leur personnage.
 
  Lorsque le texte d'une manœuvre de personnage contredit une manœuvre de base, la manœuvre de personnage est prioritaire.
  Les manœuvres de personnage se trouvent sur les différents livrets de personnage.
@@ -247,7 +243,7 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
 
 - Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
 - Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, puis tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble.
-- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits. Le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
+- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits. Le Gardien te révèlera quel bénéfice ou avantage supplémentaire, tu reçois. Décris ce à quoi cela ressemble.
 
  Agir sous la pression est une manœuvre fourre-tout pour les actions qui ont lieu pendant la journée. Le Gardien a le dernier mot sur la capacité utilisée pour le jet.
 
@@ -306,7 +302,7 @@ Vous vivez dans la rue, vous cherchez des petits boulots à gauche à droite pou
 
 #### Pauvre
 
-La vie n'est pas simple pour vous. Vous avez un petit boulot qui vous permet de louer une chambre et de ne pas mourir de faim, ou alors vous louez vos services aux plus offrants espérant un jour faire votre trou.
+La vie n'est pas simple pour vous. Vous avez un petit boulot qui vous permet de louer une chambre et de ne pas mourir de faim, ou alors, vous louez vos services aux plus offrants, espérant un jour faire votre trou.
 
 #### Classe Moyenne
 
@@ -316,7 +312,7 @@ Vous vous débrouillez plutôt bien, avez votre appartement, un travail honnête
 
 Vous êtes à l'abri du besoin, vous possédez plusieurs propriétés et fréquentez le gotha. Vous êtes sûrement un investisseur, l'héritier d'une vieille famille, voir un notable de votre coin.
 
-#### Classe supérieur
+#### Classe supérieure
 
 Vous êtes l'incarnation du rêve américain ou l'héritier d'une grosse fortune. L'argent est la dernière de vos préoccupations. Les scandales et les ragots par contre…
 
@@ -340,6 +336,9 @@ Cela sera toujours considéré comme une situation **Désespérée**
 ***
 
 ## WiP
+
+### Hard move / Soft Move
+- Définir les moves du gardien suivant la situation de danger 
 
 ### Etats
 
