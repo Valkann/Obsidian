@@ -9,11 +9,23 @@ Type: projet
 ---
 # Soldat
 
-Vétéran de la grande guerre, tu as vu des horreurs sur le champs de bataille.
+Vétéran de la grande guerre, tu as vu des horreurs sur le champ de bataille.
 
 ## Apparence
+
+- Homme, Femme, Indéterminé
+- Regard marqué, âgé, hanté, dans le vague, tourné vers le passé
+- Uniforme défraichit, vêtement médiocre, décoration apparentes, veste rapiécée et propre.
 ## Capacités
+
+- Vitalité +2, Méthode +1, Calme +2, Présence -1, Pouvoir 0
+- Vitalité +2, Méthode +2, Calme +1, Présence -1, Pouvoir 0
+- Vitalité +2, Méthode 0, Calme -1, Présence +1, Pouvoir +2
+
 ## Classe Sociale
+
+Beaucoup de soldat revenu du front sont éclopé et ont vu les horreurs de la guerre. Peu arrive à revenir à une vie civile. Ils peuvent être de [Indigent](Indigent.md) à [](.md)
+
 ## Manœuvres du Journaliste
 ## Souvenirs
 ## Folie
