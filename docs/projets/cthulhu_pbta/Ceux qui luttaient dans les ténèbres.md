@@ -38,39 +38,6 @@ Le texte de la version française est mis à disposition selon les termes de la 
 - Suis les pistes et résout les mystères, même surnaturels.
 - Explore et joue la descente dans la folie de ton personnage.
 - Joue pour voir ce qui va se passer.
-
-## Principes du meneur
-
-### Priorités
-
-- Décris un monde réel et vivant.
-- Entraine les personnages à travers les enquêtes dans la peur et la folie.
-- Joue pour voir ce qui va se passer.
-
-### Parle toujours…
-
-- En suivant les principes
-- En suivant les règles
-- En suivant les notes de partie
-- Le plus honnêtement possible.
-
-### Principes
-
-- Introduit l'étrange dans le quotidien des personnages
-- Parle aux personnages, pas aux joueuses.
-- Fais ton action, mais ne prononce jamais son nom.
-- Que tout soit personnel ; rend les choses compliquées
-- Donne un nom à tout le monde, inclus les dans le quotidien des personnages.
-- Rends tout le monde humain.
-- Ne décris pas l'horreur, mais suggère-la.
-- Ne nomme jamais l’innommable.
-- Sois fan des personnages des joueuses
-- Pense à ce qui se passe hors-champ.
-- De temps à autre, ne prends pas la décision toi-même.
-- Débute et termine par la fiction.
-- Teintes tout, progressivement, d'étrange et de folie.
-- Pose des questions et incorpore les réponses
-- Crée des situations intéressantes, pas des intrigues
   
 ## Personnages
 
@@ -183,15 +150,15 @@ Dans la plupart des cas, tu lances des dés parce qu'une manœuvre te demande de
 
 - Tu lances deux dés à 6 faces, tu les additionnes, puis tu ajoutes le modificateur de la capacité concernée.
 - Compares ensuite le résultat avec le texte de la manœuvre.
-  - Si la manœuvre fait référence à un "succès", cela signifie un résultat de 7+.
-  - Si la manœuvre fait référence à un "échec", il s'agit d'un résultat de 6-.
+	- Si la manœuvre fait référence à un "succès", cela signifie un résultat de 7+.
+	- Si la manœuvre fait référence à un "échec", il s'agit d'un résultat de 6-.
 
 ### Succès et échec
 
 Par convention, dans le jeu de rôle, on parle de succès ou d'échec à une action tentée par le personnage.
 Dans les jeux PbtA et dans celui-ci en particulier, les notions de succès ou d'échec sont un peu différents.
 
-Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible. Le meneur va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
+Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible. Le gardien va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
 
 Exemple :
 
@@ -263,7 +230,7 @@ Réponse : parce que c'est amusant !
 
 La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, puis... de faire quelque chose de différent.
 
-## Manœuvres
+## Manœuvres de base des personnages
 
 Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifiques à leur personnage.
 
@@ -371,38 +338,80 @@ Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
 
+# Le Gardien
+
+## Principes du gardien
+
+### Priorités
+
+- Décris un monde réel et vivant.
+- Entraine les personnages à travers les enquêtes dans la peur et la folie.
+- Joue pour voir ce qui va se passer.
+
+### Parle toujours…
+
+- En suivant les principes
+- En suivant les règles
+- En suivant les notes de partie
+- Le plus honnêtement possible.
+
+### Principes
+
+- Introduit l'étrange dans le quotidien des personnages
+- Parle aux personnages, pas aux joueuses.
+- Fais ton action, mais ne prononce jamais son nom.
+- Que tout soit personnel ; rend les choses compliquées
+- Donne un nom à tout le monde, inclus les dans le quotidien des personnages.
+- Rends tout le monde humain.
+- Ne décris pas l'horreur, mais suggère-la.
+- Ne nomme jamais l’innommable.
+- Sois fan des personnages des joueuses
+- Pense à ce qui se passe hors-champ.
+- De temps à autre, ne prends pas la décision toi-même.
+- Débute et termine par la fiction.
+- Teintes tout, progressivement, d'étrange et de folie.
+- Pose des questions et incorpore les réponses
+- Crée des situations intéressantes, pas des intrigues
+
+## Manœuvres du Gardien
+
+### Manœuvres légères
+
+Les manœuvres légères sont les manœuvres de base du Gardien, tu peux les appliquer dès que :
+- Un joueur fait un 6-
+- Chaque fois que vous dites ce qu'il se passe
+- Chaque fois qu'ils attendent que vous disiez quelques chose.
+
+Voici les manœuvres :
+- Les séparer.
+- Révéler un problème à venir
+- Révéler un problème hors champ
+- Les faire enquêter
+- Leur faire acquérir du matériel
+- Leur révéler les conséquences possibles et leur demander s’ils persistent
+
+Après chaque manœuvre, leur demander ce qu’ils font.
+
+### Manœuvres conséquentes
+
+Les manœuvres conséquentes sont tes outils pour augmenter la pression, il est conseillé de les utiliser quand :
+- Un joueur fait un 6-
+- La situation est désespérée.
+- Ils sont face à des choses en lien avec le Mythe.
+
+Voici les manœuvres conséquentes :
+
+- Retourner leurs manœuvres contre eux
+- Leur proposer une opportunité, en leur faisant payer le prix fort
+- Confisquer ou détruire une partie du matériel
+- Attirer des ennuis à quelqu’un
+- Effectuer une manœuvre de menace de votre menace
+- Infliger une condition
+- Infliger une Folie
+
+***
+
 ## WiP
-
-### Hard move / Soft Move
-- Définir les moves du gardien suivant la situation de danger 
-
-### Situation
-Changer les difficultés suivant les situations
-
-**Par défaut : Situation risquée**
-- 6- : échec ou prix fort à payer
-- 7-9 : réussite contre un coût
-- 10+ : Réussite ou coût minime
-- 12+ : Réussite et gain inattendu
-
-**Situation Contrôlée**
-
-- 6- : réussite contre un coût
-- 7-9: Réussite ou coût minime
-- 10+ : Réussite et gain inattendu
-
-**Situation désespérée**
-
-- 9- : échec ou prix fort à payer
-- 10+ : réussite contre un coût
-- 12+ : Réussite ou coût minime
-
-### Etats
-
-- [ ] Relire Horrifique
-
-### Folie
-Relire [Black Star Rise](../Black_Star_Rise/Black%20Star%20Rise.md)
 
 ### Capacités
 
@@ -421,13 +430,6 @@ Mettre une horloge en fonction des points de stress tirés qui va donner le ton 
 
 Utilisation des doubles ?
 
-### Horloge de pression
-
-Garder les capacités mais faire monter le ton et l'horreur au fur et a mesure de la découverte d'indices.
-
-### Danger
-
-- [ ] Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
 
 ### Inspiration livret
 
