@@ -11,7 +11,7 @@ tags:
 Date:: 2023-02-08
 Week:: [2023-06](2023-06.md)
 Rating::
-Review::
+Review:: En cours de lecture
 Summary::
 Author::
 Source::
