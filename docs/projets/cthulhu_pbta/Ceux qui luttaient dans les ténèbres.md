@@ -24,16 +24,16 @@ La traduction française de Brindlewood Bay est l’oeuvre de Nicolas Ronvel et 
 
 ### Forged in the Dark DRS
 
-Le texte de la version française est mis à disposition selon les termes de la Licence Creative  Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (<https://creativecommons.org/licenses/by-nc/2.0/fr/>)
+Le texte de la version française est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (<https://creativecommons.org/licenses/by-nc/2.0/fr/>)
 
 ## Ton du jeu
 
 ## Principes des Joueurs
 
-### Suit ces objectifs
+### Suis ces objectifs
 
 - Raconte une histoire entre l'étrange et l'horreur.
-- Suit les pistes et résoud les mystères même sunaturels.
+- Suis les pistes et résout les mystères, même surnaturels.
 - Explore et joue la descente dans la folie de ton personnage.
 - Joue pour voir ce qui va se passer.
 
@@ -57,7 +57,7 @@ Le texte de la version française est mis à disposition selon les termes de la 
 - Introduit l'étrange dans le quotidien des personnages
 - Parle aux personnages, pas aux joueuses.
 - Fais ton action, mais ne prononce jamais son nom.
-- Que tout soit personnel ; rends les choses compliquées
+- Que tout soit personnel ; rend les choses compliquées
 - Donne un nom à tout le monde, inclus les dans le quotidien des personnages.
 - Rends tout le monde humain.
 - Ne décris pas l'horreur, mais suggère-la.
@@ -77,10 +77,10 @@ Le texte de la version française est mis à disposition selon les termes de la 
 Ce sont les attributs du personnage qui sont appliqués à la plupart des jets de dé.
 
 - Utilise **Vitalité** si l'action de ton personnage implique la force, la dextérité, l'endurance, l'athlétisme ou le physique brut.
-- Utilise **Calme** si l'action de ton personnage nécessite de garder la tete froide, de la discrétion ou une concentration intense, ou s'il fait face à ses peurs ou à l'innommable.
+- Utilise **Calme** si l'action de ton personnage nécessite de garder la tête froide, de la discrétion ou une concentration intense, ou s'il fait face à ses peurs ou à l'innommable.
 - Utilise **Méthode** si ton Personnage est en train d'étudier des livres, de faire des recherches sur un problème, d'examiner une scène de crime ou de faire appel à sa matière grise.
 - Utilise **Présence** si ton Personnage essaie de charmer quelqu'un, d'intimider quelqu'un ou de capter l'attention ou l'imagination de quelqu'un.
-- Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturelles ; Le Gardien peut décider qu'une action qui semble être régie par une autre capacité est en fait régie par le **Pouvoir** en raison de la nature surnaturelle, spirituelle ou occulte de ce qui est entrepris.
+- Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturelles ; Le Gardien peut décider qu'une action qui semble être régie par une autre capacité est en fait régi par le **Pouvoir** en raison de la nature surnaturelle, spirituelle ou occulte de ce qui est entrepris.
 
 ### Conditions
 
@@ -102,7 +102,7 @@ Ton personnage ne voit pas comment il est possible de réussir, il est sûr que 
 
 #### Épuisé
 
-Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou psychique. Il ne peut plus continuer à maintenir ses efforts et est prêt à craquer ou à s'effondrer.
+Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou psychiques. Il ne peut plus continuer à maintenir ses efforts et est prêt à craquer ou à s'effondrer.
 
 #### Paniqué
 
@@ -140,7 +140,7 @@ Pour choisir une position, le MJ examine les définitions ci-dessous et choisit 
 
 Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Dans le cas où elle paraît modérément dangereuse, elle est contrôlée.  
 
-En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
+En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée, il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
 
 ### 2d6 + capacité
 
@@ -214,7 +214,7 @@ Si toutes tes folies sont cochées, ton investigateur est définitivement trop a
 
 Le Gardien s'acharnera toujours sur toi, car tu disposes d'un outil qui te permet de résister à ses coups : Les **Souvenirs et Folies.**
 
-Après un jet de dé, et après qu'une conséquence ai été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
+Après un jet de dé, et après qu'une conséquence ait été racontée, tu peux choisir de cocher un Souvenir ou une Folie afin d'augmenter le résultat de ton dé d'un niveau.
 
 Ainsi, un échec (6-) devient un 7-9, un 7-9 devient un 10-11, et un 10-11 devient un 12.
 
@@ -322,7 +322,7 @@ Il existe deux cas pour affronter les entités du Mythe.
 
 Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique, tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as juré de détruire et encore seulement pour un temps.
 
-Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
+Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir, tu arrives à ton objectif.
 Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
@@ -332,6 +332,7 @@ Cela sera toujours considéré comme une situation **Désespérée**
 - [Artiste](./Livrets/Artiste.md)
 - [Dilettante](./Livrets/Dilettante.md)
 - [Soldat](./Livrets/Soldat.md)
+- [Médecin](./Livrets/M%C3%A9decin.md)
 
 ***
 
@@ -377,8 +378,8 @@ Garder les capacités mais faire monter le ton et l'horreur au fur et a mesure d
 - Scientifique : Charles Dexter ward ou Herbert west
 - Soldat ?
 - Journaliste : escroc de motw
-- Universitaire : l'abîme du temps où ceuou ceux qui murmuraient dans les ténèbres, les montagnes hallucinées
-- Dilettante : Randolph Carter , Charles Dexter ward
+- Universitaire : l'abîme du temps où ceux ceux qui murmuraient dans les ténèbres, les montagnes hallucinées
+- Dilettante : Randolph Carter, Charles Dexter ward
 - Artiste : Pickman, appel de Cthulhu,
 - Détective : appel de Cthulhu
 
@@ -395,6 +396,9 @@ Garder les capacités mais faire monter le ton et l'horreur au fur et a mesure d
 ### Indices
 
 - [ ] Remplacer les indices des tréfonds par des indices de l'horreur dans le scénario
+
+### Move
+- Move : encyclopedant 
 
 ***
 Voir les jeux suivants :
