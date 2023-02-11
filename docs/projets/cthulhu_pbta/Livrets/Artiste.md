@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-02-11 10:09:15
+quickshare-url: "https://noteshare.space/note/cldzqkf6n296301pjpjz6k9fo#w2XkndEJG7yKd7uR9HNrC2IAYxI5sUp6mi8aZVpxIZ0"
 share: true 
 category: projets/cthulhu_pbta/Livrets
 Summary: 
