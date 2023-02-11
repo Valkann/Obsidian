@@ -7,16 +7,16 @@ category: source
 
 Date:: 2023-01-22
 Rating::
-Review:: 
-Summary:: 
+Review:: ⭐⭐⭐⭐⭐
+Summary:: Des contes d'horreur très étrange et plutôt bien fait.
 Author::
 Source:: https://www.imdb.com/title/tt21856734/
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #finished 
 MOC::
 Projet:: 
 
-Week:: 03
+Week:: [2023-05](2023-05.md)
 
 ***
 # Maniac par Junji Ito: Anthologie macabre (Série télévisée 2023– ) - IMDb

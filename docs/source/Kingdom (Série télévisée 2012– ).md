@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-02-11
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐⭐
+Review:: Franchement plaisant à regarder, je me laisse prendre par cette série quand une nouvelle saison sort.
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt2404499/?ref_=fn_al_tt_6
@@ -15,8 +15,7 @@ Type:: #SN/
 Status:: 
 MOC::
 Projet:: 
-
-Week:: 06
+Week:: [2023-06](2023-06.md)
 
 ***
 # Kingdom (Série télévisée 2012– ) - IMDb
