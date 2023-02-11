@@ -10,6 +10,8 @@ Tags:
 - writing
 Type: projet
 ---
+Week:: [2023-06](2023-06.md)
+#WiP #projet 
 # Ceux qui luttaient dans les ténèbres
 
 Ce jeu a été écrit comme mécanique pour reprendre les scénarios du commerce de l'Appel de Cthulhu avec un système PbtA.
@@ -141,6 +143,39 @@ Pour choisir une position, le MJ examine les définitions ci-dessous et choisit 
 Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Dans le cas où elle paraît modérément dangereuse, elle est contrôlée.  
 
 En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée, il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
+
+#### Variante 1 : Difficultés et situations
+
+On peut faire varier les seuils de difficultés suivant les types de situations :
+
+**Par défaut : Situation risquée**
+- 6- : échec ou prix fort à payer
+- 7-9 : réussite contre un coût
+- 10+ : Réussite ou coût minime
+- 12+ : Réussite et gain inattendu
+
+**Situation Contrôlée**
+
+- 6- : réussite contre un coût.
+- 7-9: Réussite ou coût minime
+- 10+ : Réussite et gain inattendu
+
+**Situation désespérée**
+
+- 9- : échec ou prix fort à payer
+- 10+ : réussite contre un coût
+- 12+ : Réussite ou coût minime
+
+#### Variante 2 : avantages et situations
+
+Suivant le type de situation, les joueurs reçoivent des avantages ou des désavantages
+
+- **Situation Contrôlée**
+  Les joueurs lancent avec un avantage
+- **Situation risquée** 
+  La situation par défaut, pas d'avantage ou de désavantage par rapport à la situation
+- **Situation désespérée**
+  Les joueurs lancent avec un désavantage
 
 ### 2d6 + capacité
 
@@ -340,6 +375,27 @@ Cela sera toujours considéré comme une situation **Désespérée**
 
 ### Hard move / Soft Move
 - Définir les moves du gardien suivant la situation de danger 
+
+### Situation
+Changer les difficultés suivant les situations
+
+**Par défaut : Situation risquée**
+- 6- : échec ou prix fort à payer
+- 7-9 : réussite contre un coût
+- 10+ : Réussite ou coût minime
+- 12+ : Réussite et gain inattendu
+
+**Situation Contrôlée**
+
+- 6- : réussite contre un coût
+- 7-9: Réussite ou coût minime
+- 10+ : Réussite et gain inattendu
+
+**Situation désespérée**
+
+- 9- : échec ou prix fort à payer
+- 10+ : réussite contre un coût
+- 12+ : Réussite ou coût minime
 
 ### Etats
 
