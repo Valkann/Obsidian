@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-02-11 10:09:54
+quickshare-url: "https://noteshare.space/note/cldzql9lk297301pjexm6r481#3NGEzCCsYTrIXZLmhlF9ckYQQsnrhCHXhwkRfEwet7U"
 share: true 
 category: projets/cthulhu_pbta/Livrets
 Summary: 
@@ -85,6 +87,7 @@ Raconte l'origine de ton secret, comment est-ce arrivé ? Qui est au courant ? Q
 Raconte la découverte du surnaturel et la raison pour laquelle tu mènes cette lutte. Par vengeance ? Par ambition personnelle ? Par recherche de pouvoir ? Par altruisme ? Par ennui ou recherche d'adrénaline ?
 - **Le Sacrifice**
 Raconte en quoi la lutte contre le surnaturel t'as obligé à faire des sacrifices. Est-ce familiale ? Est-ce d'autres relations ? Est-ce matériel ? Ou bien est-ce sur ta réputation et celle de ta famille ?
+
 
 ## Folies
 
