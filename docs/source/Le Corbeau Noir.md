@@ -1,29 +1,35 @@
 ---
-share: true 
+share: true
 category: source
-Alias:
+Alias: null
+date updated: 2023-02-11 07:12
+tags:
+  - '#SN/JDR/MotW/Monstre'
+  - '#WiP'
+  - '#MotW'
+  - '#MdO'
 ---
+
 Date:: 2023-01-26
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../week/2023-04.md)
 Rating::
-Review:: 
-Summary:: 
+Review::
+Summary::
 Author::
-Source:: 
-Type:: #SN/JDR/MotW/Monstre 
-Status:: #WiP 
+Source::
+Type:: #SN/JDR/MotW/Monstre
+Status:: #WiP
 MOC::
-Projet:: 
-Tags:: 
+Projet::
+Tags::
 
 # Le Corbeau Noir
 
-
-***
+---
 
 ## Notes
 
-Montsre pour #MotW et #MdO 
+Montsre pour #MotW et #MdO
 
 Voici une idée de monstre pour le jeu de rôle Monster of the Week inspiré du folklore breton :
 
