@@ -1,24 +1,29 @@
 ---
-share: true 
+share: true
 category: source
-Alias:
+Alias: null
+date updated: 2023-02-11 07:14
+tags:
+  - '#SN/'
+  - '#WiP'
+  - '#jdr/pbta'
 ---
+
 Date:: 2022-12-30
 Week:: 52
 Rating::
-Summary:: 
+Summary::
 Author::
-Source:: 
+Source::
 Type:: #SN/
 Status:: #WiP
 MOC::
-Projet:: 
+Projet::
 Tags:: #jdr/pbta
 
 # Mecanique général des PbtA
 
-
-***
+---
 
 ## Notes
 
@@ -26,7 +31,8 @@ When you [fictional trigger], [interact with mechanics]. On a hit [you more or l
 
 When you [fictional trigger], [interact with mechanics]. On a 10+, [you get what you want]. On a 7-9, [pay a resource and get what you want] or [pay fictional price and get part of what you want].
 
-When you [fictional trigger related to gathering information], [interact with the mechanics]. On a 7-9, [get 1]. On a 10+, [get 3]. Take [mechanical advantage] when you use this information. 
+When you [fictional trigger related to gathering information], [interact with the mechanics]. On a 7-9, [get 1]. On a 10+, [get 3]. Take [mechanical advantage] when you use this information.
+
 - [What will happen if I do nothing?]
 - [What can I do for free?]
 - [I'm interested in involving an NPC I care about]
@@ -38,17 +44,20 @@ When you [spend a currency], [get a specific fictional outcome without GM or oth
 
 When you [fictional trigger to effect a character choice], [interact with mechanics]. On a hit, [NPCs do it, PCs are either do it or spend currency]. On a 10+, [gain a currency yourself].
 
-When you [fictional trigger], [interact with mechanics]. On a hit, you [do what you wanted] and choose one. On a 7-9, [pay a fictional or mechanical cost]. 
+When you [fictional trigger], [interact with mechanics]. On a hit, you [do what you wanted] and choose one. On a 7-9, [pay a fictional or mechanical cost].
+
 - [Gain a currency]
 - [Gain a currency]
 - [Gain a currency]
 
-When you [interact fictionally to change someone], [interact with mechanics]. On a hit, [they are changed]. 
-Pick one: 
+When you [interact fictionally to change someone], [interact with mechanics]. On a hit, [they are changed].
+Pick one:
+
 - [They give you something]
 - [You learn something]
-- [You gain a fictional currency] 
-On a 7-9, pick one
-- [You spend a currency]
-- [You spend a currency]
+- [You gain a fictional currency]
 
+On a 7-9, pick one
+
+- [You spend a currency]
+- [You spend a currency]
