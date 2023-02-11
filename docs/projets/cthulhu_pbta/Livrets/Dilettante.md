@@ -11,7 +11,7 @@ Type: projet
 ---
 # Le Dilettante
 
-Que tu sois né avec une cuillère dans la bouche ou que tu aies construit ta propre fortune, une chose est sûre tu es à l'abri du besoin et tu peux te consacrer pleinement à tes passe-temps et autres passions. Hipster avant que ce ne soit cool, tu évolues dans les cercles de la haute société où l'on excuse tes manières quelque peu excentriques.
+Que tu sois né avec une cuillère dans la bouche ou que tu aies construit ta propre fortune, une chose est sûre, tu es à l'abri du besoin et tu peux te consacrer pleinement à tes passe-temps et autres passions. Hipster avant que ce ne soit cool, tu évolues dans les cercles de la haute société où l'on excuse tes manières quelque peu excentriques.
 
 ## Apparence
 
@@ -51,13 +51,13 @@ Mais tu caches un secret, choisis un :
 
 ### Passe-temps décadent
 
-Tu as des passe-temps plus que douteux. Sectes, groupe magiques, profanation de cimetière, bref l'ennui t'as poussé vers de curieux moyen de le tromper.
+Tu as des passe-temps plus que douteux. Sectes, groupe magiques, profanation de cimetière, bref l'ennui t'a poussé vers de curieux moyen de le tromper.
 
 Lorsque tu es confronté à une vision horrible ou surnaturelle, tu peux utiliser Calme plutôt que Pouvoir pour résister.
 
 ### L'argent ouvre les portes
 
-Si tu tentes d'aller là où tu n'es pas invité lances 2d6 + Présence
+Si tu tentes d'aller là où tu n'es pas invité, lances 2d6 + Présence
 
 - 6- : Non seulement tu es refoulé, mais un de tes honteux secrets ressort.
 - 7-9 : On te laisse entrer, mais des doutes subsistent sur ta présence ici. Le temps t'est compté avant qu'on ne se rende compte du subterfuge.
@@ -75,7 +75,7 @@ Raconte ton souvenir en incluant cette personne dans ton histoire et choisis de 
 
 ## Liens
 
-- Une personne t'as accompagné dans une de tes expériences et en es sortis marquée, qui est-ce ? Elle raconte ce qui l'a marqué.
+- Une personne t'a accompagné dans une de tes expériences et en es sorti marquée, qui est-ce ? Elle raconte ce qui l'a marqué.
 - Tu as entrainé le proche d'un personnage dans une exploration dont il n'est jamais revenu. Demande-lui qui était-ce et raconte-lui ce qui a mal tourné.
 - Un des personnages travaille pour une de tes nombreuses entreprises. Il choisit s'il a récemment été promu ou viré, et tu expliques comment tu es au courant de cette histoire.
 
@@ -86,8 +86,9 @@ Raconte l'origine de ton secret, comment est-ce arrivé ? Qui est au courant ? Q
 - **Découverte**
 Raconte la découverte du surnaturel et la raison pour laquelle tu mènes cette lutte. Par vengeance ? Par ambition personnelle ? Par recherche de pouvoir ? Par altruisme ? Par ennui ou recherche d'adrénaline ?
 - **Le Sacrifice**
-Raconte en quoi la lutte contre le surnaturel t'as obligé à faire des sacrifices. Est-ce familiale ? Est-ce d'autres relations ? Est-ce matériel ? Ou bien est-ce sur ta réputation et celle de ta famille ?
-
+Raconte en quoi la lutte contre le surnaturel t'a obligé à faire des sacrifices. Est-ce familiale ? Est-ce d'autres relations ? Est-ce matériel ? Ou bien est-ce sur ta réputation et celle de ta famille ?
+- **Mentor**
+  Raconte qui t'a guidé sur les voies de l'étrange 
 
 ## Folies
 
