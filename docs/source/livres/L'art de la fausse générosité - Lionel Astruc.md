@@ -1,20 +1,27 @@
 ---
-share: true 
+share: true
 category: source/livres
-title: "L'art de la fausse générosité"
-Author: [Lionel Astruc](Lionel%20Astruc.md)
+title: L'art de la fausse générosité
+Author:
+  - - Lionel Astruc
 publisher: Éditions Actes Sud
-publish: 2019-03-13T00:00:00+01:00
+publish: 2019-03-12T23:00:00.000Z
 total: 125
 isbn: 2330118783 9782330118785
-cover: http://books.google.com/books/content?id=EtOIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-date: 2023-01-23
-updated: 2023-01-23 21:49:52
+cover: >-
+  http://books.google.com/books/content?id=EtOIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+date: 2023-01-23T00:00:00.000Z
+updated: 2023-01-23T21:49:52.000Z
+date updated: 2023-02-11 07:14
+tags:
+  - '#SN/Livre'
+  - '#reading'
 ---
-Type:: #SN/Livre 
+
+Type:: #SN/Livre
 Review:: En cours
-Status:: #reading 
-Week:: [2023-04](2023-04.md)
+Status:: #reading
+Week:: [2023-04](../../week/2023-04.md)
 
 ![cover|150](http://books.google.com/books/content?id=EtOIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 

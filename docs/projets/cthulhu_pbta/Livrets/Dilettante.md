@@ -71,7 +71,7 @@ Raconte ton souvenir en incluant cette personne dans ton histoire et choisis de 
 - Elle est tombée amoureuse de toi, mais votre amour est impossible.
 - Elle t'aide et te conseille, mais finira par te trahir.
 
-### Liens
+## Liens
 
 - Une personne t'as accompagné dans une de tes expériences et en es sortis marquée, qui est-ce ? Elle raconte ce qui l'a marqué.
 - Tu as entrainé le proche d'un personnage dans une exploration dont il n'est jamais revenu. Demande-lui qui était-ce et raconte-lui ce qui a mal tourné.
