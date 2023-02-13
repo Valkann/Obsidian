@@ -16,7 +16,7 @@ Status:: #watching
 MOC::
 Projet:: 
 
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 
 ***
 # Murderville (Série télévisée 2022– ) - IMDb
