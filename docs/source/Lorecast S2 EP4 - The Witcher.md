@@ -5,7 +5,7 @@ Alias:
 ---
 
 Date:: 2023-01-29
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../week/2023-04.md)
 Rating:: ⭐⭐⭐⭐
 Review:: podcast très sympa mais qui ne fait qu'effleurer l'univers du Witcher.
 Summary:: 
