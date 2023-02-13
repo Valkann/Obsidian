@@ -4,7 +4,7 @@ category: source
 Alias:
 ---
 Date:: 2023-02-06
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 Rating:: ⭐⭐⭐⭐⭐
 Review:: C'est vrai que ça manque de faire des parties cozy avec RDD et faire des concours de cuisine.
 Summary:: 
