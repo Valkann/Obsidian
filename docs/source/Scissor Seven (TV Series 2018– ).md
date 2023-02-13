@@ -16,7 +16,7 @@ Status:: #finished
 MOC::
 Projet:: 
 
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 
 ***
 # Scissor Seven (TV Series 2018– ) - IMDb
