@@ -56,7 +56,7 @@ Idée de prendre des notes vocales si l'on écoute un podcast ou un audio livre 
 Sur un ebook, on peut utiliser les surlignage et commentaire des applications pour les exporter ensuite
 
 Sur livre, la prise de note peut être faite comme dans cette vidéo
-- [Taking Book Notes (How to Start)](Taking%20Book%20Notes%20(How%20to%20Start).md)
+- [Taking Book Notes (How to Start)](./Taking%20Book%20Notes%20(How%20to%20Start).md)
 
 Sous la douche, il existe des carnets imperméables
 
