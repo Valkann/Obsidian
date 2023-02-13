@@ -15,7 +15,7 @@ Type:: #SN/
 Status:: 
 MOC::
 Projet:: 
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 
 ***
 # Kingdom (Série télévisée 2012– ) - IMDb
