@@ -6,7 +6,7 @@ category: source
 ---
 
 Date:: 2023-01-29
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../week/2023-04.md)
 Rating:: ⭐⭐⭐⭐
 Review:: Animé assez sympa et assez intéressant, mais qui se termine vraiment très abruptement.
 Summary:: 

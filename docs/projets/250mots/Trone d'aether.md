@@ -8,6 +8,6 @@ share: true
 category: projets/250mots
 ---
 jour::  [2023-02-06](2023-02-06.md)
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../../week/2023-06.md)
 mots:: 
 #250mots #projet #WiP 

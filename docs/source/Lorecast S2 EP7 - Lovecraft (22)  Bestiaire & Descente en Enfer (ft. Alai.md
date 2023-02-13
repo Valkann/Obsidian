@@ -23,7 +23,7 @@ Status:: #finished
 MOC::
 Projet::
 Tags:: #horreur, #lovecraft, #podcast
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 
 ---
 

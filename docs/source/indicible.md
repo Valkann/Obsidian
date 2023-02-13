@@ -9,7 +9,7 @@ tags:
 ---
 
 Date:: 2023-02-07
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 Rating:: ⭐⭐
 Review:: C'est court, mais je n'ai pas réussi à rentrer dedans. Peut-être une deuxième lecture plus tard.
 Summary::

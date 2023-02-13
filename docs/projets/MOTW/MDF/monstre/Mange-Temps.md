@@ -6,7 +6,7 @@ share: true
 category: projets/MOTW/MDF/monstre
 ---
 jour::  [2023-01-26](2023-01-26.md)
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
 Projet:: #MotW 

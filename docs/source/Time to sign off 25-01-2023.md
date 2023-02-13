@@ -4,7 +4,7 @@ category: source
 Alias:
 ---
 Date:: 2023-01-25
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../week/2023-04.md)
 Rating:: ⭐⭐⭐⭐⭐
 Review:: Intéressant pour les épisodes et émissions de podcast prévus.
 Summary:: 

@@ -4,7 +4,7 @@ category: source
 Alias:
 ---
 Date:: 2023-02-07
-Week:: [2023-06](2023-06.md)
+Week:: [2023-06](../week/2023-06.md)
 Rating:: ⭐⭐⭐⭐⭐
 Review:: Un jeu qui me donne très envie de le tester mais quand je serais dans le bon mood pour ça. Mais franchement plein de choses me plaisent.
 Summary:: 
