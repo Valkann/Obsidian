@@ -7,7 +7,7 @@ banner:
 ---
 title:: "Le dico féerique - Xavier Mauméjean Patrick Marcel Christine Luce"
 Date:: 2023-01-25
-Week:: [2023-04](2023-04.md)
+Week:: [2023-04](../../week/2023-04.md)
 Author:: [Xavier Mauméjean, Patrick Marcel, Christine Luce](Xavier%20Maum%C3%A9jean,%20Patrick%20Marcel,%20Christine%20Luce.md)
 publisher:: 
 publish:: 2019-09-05
