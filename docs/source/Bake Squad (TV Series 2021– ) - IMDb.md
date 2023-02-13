@@ -6,17 +6,17 @@ category: source
 ---
 
 Date:: 2023-01-23
-Rating:: ⭐⭐⭐
-Review:: Petite émission culinaire marrante mais sans plus
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt15078760/episodes?ref_=tt_eps_sm
-Type:: #SN/Série 
-Status:: #finished 
+Type:: #SN/
+Status:: 
 MOC::
 Projet:: 
 
-Week:: [2023-04](../week/2023-04.md)
+Week:: 04
 
 ***
 # Bake Squad (TV Series 2021– ) - IMDb
