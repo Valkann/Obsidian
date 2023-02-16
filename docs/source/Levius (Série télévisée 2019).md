@@ -25,3 +25,4 @@ Levius: Avec Sean Burgos, Zach Aguilar, Todd Haberkorn, Julia McIlvaine. A young
 
 ## Highlights
 
+Eau agartha : se lie aux molécules du sang et dégage de la vapeur, bien plus que de l'eau qui bout. De plus celui a qui apprtient le sang, peut manipuler la vapeur comme il l'entend. C'est l'Hyper Vapeur
