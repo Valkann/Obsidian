@@ -29,27 +29,26 @@ Tags : #podcast #finished  #game_design
 - méta jeu : reste du jeu, livre les crimes contre la mimétique
 - méta jeu : la perception des règles du jeu et son interprétation par le joueur 
 - Approche objet de la narration : que les sommets du graph, que les passages obligés 
-- Graham Nelson : théorie autour du jeu 
+- [Graham Nelson](Graham%20Nelson.md) : théorie autour du jeu 
 - Déclaration des droits du joueur
 - inform 7 : language naturel
 - ailes : jeu à tester Sam barlow
 - parcely : jeu de société 
 - mémorisation d'environ 300 histoires
 - top 10 dans la tête 
-- Raymond Queneau
-- Émilie short fiction interactive : https://www.google.com/url?q=https://emshort.blog/&sa=U&ved=2ahUKEwiw7s2B4rD7AhVmVfEDHZByBXEQFnoECAMQAg&usg=AOvVaw0YLZjHbDeDXPQpoibVuR2i
-
+- [Raymond Queneau](Raymond%20Queneau.md)
+- Émilie short fiction interactive : [Emily Short's Interactive Storytelling – Narrative in games and new media](https://www.google.com/url?q=https://emshort.blog/&sa=U&ved=2ahUKEwiw7s2B4rD7AhVmVfEDHZByBXEQFnoECAMQAg&usg=AOvVaw0YLZjHbDeDXPQpoibVuR2i)
 - design itératif crowdsourcer 
 - livre dont vous êtes le héros série sorcellerie de Steve Jackson 
-- site : gama sutra
+- site : [Game Developer](https://www.gamedeveloper.com/)
 - 2 heures de r&d avec test des concepts 
 - fibre tigre Vimeo fiction interactive 
 - 70k mots par mois
-- site français ificition.free.fr
+- site français [ifiction.free.fr - Fiction-FR --- Le carrefour francais de la fiction interactive](http://ifiction.free.fr/)
 - le gamelier 
 - blog de fibre 
 - youtube fibre tigre et création de mastero blue
-- Andrew plotkin : créateur du loup Garou
+- [Andrew plotkin](./people/Andrew%20plotkin.md) : créateur du loup Garou
 - observez votre univers de jeu, les règles se feront d'elles-mêmes
 - jeu de société de fibre tigre 
 - jeu de cartes narratifs 
