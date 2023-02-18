@@ -54,12 +54,8 @@ Si tu tentes d'obtenir des informations sur ton affaire, lance 2d6 + Présence
 
 ### Point faible
 
+Quand tu interroges quelqu'un dans le cadre de la manœuvre Enquêter, plutôt que de lancer les dés, demande au Gardien ce qui convaincra la personne de confier ce qu'elle sait. Le gardien doit répondre honnêtement, mais peut passer sous silence certaines choses ou conséquences.
 
-
-Escroc : Quand vous êtes sur le point de manipuler quelqu’un,
-vous pouvez demander au Gardien : « Qu’est-ce qui convaincra
-cette personne de faire ce que je veux ? » Le Gardien doit alors
-vous répondre honnêtement, mais peut omettre certaines choses.
 
 ## Souvenirs
 

@@ -29,4 +29,4 @@ Je pense que c'est pareil pour le Game Design. Pour un jeu sur la police, on reg
 
 ## Highlights
 
-Lien avec [Podcast Science - 312 - Narration non linéaire avec Fibre Tigre](./Podcast%20Science%20-%20312%20-%20Narration%20non%20lin%C3%A9aire%20avec%20Fibre%20Tigre.md) et la citation de 
+Lien avec [Podcast Science - 312 - Narration non linéaire avec Fibre Tigre](./Podcast%20Science%20-%20312%20-%20Narration%20non%20lin%C3%A9aire%20avec%20Fibre%20Tigre.md) et la citation de [Andrew plotkin](./people/Andrew%20plotkin.md)

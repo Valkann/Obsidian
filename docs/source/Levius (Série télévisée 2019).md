@@ -11,8 +11,8 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt10619444/?ref_=nv_sr_srsg_2
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #finished 
 MOC::
 Projet:: 
 
