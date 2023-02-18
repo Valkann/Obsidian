@@ -75,9 +75,11 @@ Raconte ton souvenir en incluant cette personne dans ton histoire et choisis de 
 
 ## Liens
 
-- Une personne t'a accompagné dans une de tes expériences et en es sorti marquée, qui est-ce ? Elle raconte ce qui l'a marqué.
+- Un personnage t'a accompagné dans une de tes expériences et en est sorti marqué, qui est-ce ? Elle raconte ce qui l'a marqué.
 - Tu as entrainé le proche d'un personnage dans une exploration dont il n'est jamais revenu. Demande-lui qui était-ce et raconte-lui ce qui a mal tourné.
 - Un des personnages travaille pour une de tes nombreuses entreprises. Il choisit s'il a récemment été promu ou viré, et tu expliques comment tu es au courant de cette histoire.
+- Un des personnages possède un lien avec ton mentor ou ton soutien. Il choisit le lien qu'il a et tu choisis s'il sait que vous n'êtes plus en contact.
+- Tu as embauché à plusieurs repris l'un des personnages, il choisit si c'était pour des choses illégales et tu choisis s'il a mené à bien tes demandes.
 
 ## Souvenirs
 
@@ -88,7 +90,9 @@ Raconte la découverte du surnaturel et la raison pour laquelle tu mènes cette 
 - **Le Sacrifice**
 Raconte en quoi la lutte contre le surnaturel t'a obligé à faire des sacrifices. Est-ce familiale ? Est-ce d'autres relations ? Est-ce matériel ? Ou bien est-ce sur ta réputation et celle de ta famille ?
 - **Mentor**
-  Raconte qui t'a guidé sur les voies de l'étrange 
+  Raconte qui t'a guidé sur les voies de l'étrange ? Comment vous êtes vous rencontrer ? Comment t'as t'il pris sous son aile ? Comment s'est terminé votre relation ?
+- **Le soutien**
+  Raconte qui t'a soutenu malgré ton secret, qui t'a toujours épaulé ? Et pourquoi tu n'es plus en contact avec cette personne ? Est-elle morte ? as t'elle abandonné ? as t'elle connu un destin tragique ?
 
 ## Folies
 
