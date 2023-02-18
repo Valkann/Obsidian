@@ -33,22 +33,34 @@ Généralement entre Pauvre et Classe moyenne, tout le monde vise le Pulitzer cr
 
 Si tu tentes de t'introduire discrètement dans un lieu, lances 2d6+ Calme
 
-- 10+, choisissez trois avantages
-- 7-9, choisissez-en deux :
-	• vous entrez sans vous faire remarquer 
-	• vous ressortez sans vous faire remarquer
-	• vous ne laissez pas le bazar derrière vous
-	• vous trouvez ce que vous étiez venu chercher.
+- 10+ : choisissez trois dans la liste
+- 7-9 : choisissez deux :
+	- Tu entres sans te faire remarquer.
+	- Tu ressors sans te faire remarquer.
+	- Tu ne laisses aucune trace. 
+	- Tu tombes sur quelque chose d'inhabituel.
+- 6- : 
 
 ### Réseau d'indic
 
-Si tu tentes d'obtenir des informations sur ton affaire lance 2d6 + Présence
+Si tu tentes d'obtenir des informations sur ton affaire, lance 2d6 + Présence
 
-- Sur un 10+, vous connaissez la personne qu’il vous faut. 
-- Sur un 7-9, vous connaissez la seule personne qui colle, mais il y a une
-complication. Au choix : vous avez une dette envers elle, elle vous
-entube, ou vous l’entubez. En cas d’échec, la seule personne qui
-peut vous aider vous déteste par-dessus tout.
+- 10+ : Tu connais exactement la personne dont tu as besoin.
+- 7-9 : Tu connais la personne à contacter, mais c'est un peu compliqué : 
+	- Tu as une dette envers elle.
+	- Tu sais qu'elle ne te dira pas tout, ou alors des demies vérités.
+	- Elle te tend un piège
+- 6- : la seule personne qui peut t'aider, te déteste par-dessus tout.
+
+### Point faible
+
+
+
+Escroc : Quand vous êtes sur le point de manipuler quelqu’un,
+vous pouvez demander au Gardien : « Qu’est-ce qui convaincra
+cette personne de faire ce que je veux ? » Le Gardien doit alors
+vous répondre honnêtement, mais peut omettre certaines choses.
 
 ## Souvenirs
+
 ## Folies
