@@ -33,8 +33,8 @@ Généralement entre Pauvre et Classe moyenne, tout le monde vise le Pulitzer cr
 
 Si tu tentes de t'introduire discrètement dans un lieu, lances 2d6+ Calme
 
-- 10+ : choisissez trois dans la liste
-- 7-9 : choisissez deux :
+- 10+ : Choisis trois options dans la liste
+- 7-9 : Choisis deux options.
 	- Tu entres sans te faire remarquer.
 	- Tu ressors sans te faire remarquer.
 	- Tu ne laisses aucune trace. 
@@ -46,7 +46,7 @@ Si tu tentes de t'introduire discrètement dans un lieu, lances 2d6+ Calme
 Si tu tentes d'obtenir des informations sur ton affaire, lance 2d6 + Présence
 
 - 10+ : Tu connais exactement la personne dont tu as besoin.
-- 7-9 : Tu connais la personne à contacter, mais c'est un peu compliqué : 
+- 7-9 : Tu connais la personne à contacter, mais c'est un peu compliqué.
 	- Tu as une dette envers elle.
 	- Tu sais qu'elle ne te dira pas tout, ou alors des demies vérités.
 	- Elle te tend un piège
@@ -56,7 +56,16 @@ Si tu tentes d'obtenir des informations sur ton affaire, lance 2d6 + Présence
 
 Quand tu interroges quelqu'un dans le cadre de la manœuvre Enquêter, plutôt que de lancer les dés, demande au Gardien ce qui convaincra la personne de confier ce qu'elle sait. Le gardien doit répondre honnêtement, mais peut passer sous silence certaines choses ou conséquences.
 
+## Liens
+
+- 
+- Ce personnage était là quand tu as découvert que la réalité était beaucoup plus vaste que tu ne le pensais. Tu racontes ce qui s'est passé, il te dit ce que tu as perdu.
+- 
+
 
 ## Souvenirs
+
+- **L'engagement**
+  
 
 ## Folies
