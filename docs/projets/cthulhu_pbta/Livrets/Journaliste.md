@@ -25,9 +25,30 @@ Dans les années 20 le journalisme mute, les interviews apparaissent avec les é
 
 ## Classe Sociale
 
-Généralement entre Pauvre et Classe moyenne, tout le monde vise le Pulitzer créer en 1917 pour espéré passer en classe aisée voir 
+Généralement entre Pauvre et Classe moyenne, tout le monde vise le Pulitzer créer en 1917 pour espérer passer en classe aisée voir supérieure.
 
 ## Manœuvres du Journaliste
-==todo reprendre les manoeuvres de l'escroc de motw==
+
+### Doigts de fée
+
+Si tu tentes de t'introduire discrètement dans un lieu, lances 2d6+ Calme
+
+- 10+, choisissez trois avantages
+- 7-9, choisissez-en deux :
+	• vous entrez sans vous faire remarquer 
+	• vous ressortez sans vous faire remarquer
+	• vous ne laissez pas le bazar derrière vous
+	• vous trouvez ce que vous étiez venu chercher.
+
+### Réseau d'indic
+
+Si tu tentes d'obtenir des informations sur ton affaire lance 2d6 + Présence
+
+- Sur un 10+, vous connaissez la personne qu’il vous faut. 
+- Sur un 7-9, vous connaissez la seule personne qui colle, mais il y a une
+complication. Au choix : vous avez une dette envers elle, elle vous
+entube, ou vous l’entubez. En cas d’échec, la seule personne qui
+peut vous aider vous déteste par-dessus tout.
+
 ## Souvenirs
 ## Folies
