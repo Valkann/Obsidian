@@ -43,6 +43,8 @@ Lorsque que la situation est *désespérée* et que tu *Agis sous la pression* p
 +1 aux dégats
 Comandement et moral
 
+## Liens
+
 ## Souvenirs
 
 - **Les tranchées**
