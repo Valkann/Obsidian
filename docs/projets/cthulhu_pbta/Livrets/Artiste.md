@@ -119,7 +119,7 @@ Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut au
 
 - **Tout pour mon art**
 Raconte comment tu as sacrifié des choses importantes pour te consacrer à ton art. Était-ce un.e amant.e, de la famille, un enfant ? Une situation ? Un héritage ? Une relation ?
-- **Le Déclic**
+- **Le déclic**
 Raconte ce qui a provoqué le déclic en toi qui t'as poussé sur la voie de l'artiste. Quel évènement de ton passé a pu te marquer ? Un traumatisme infantile ? Une scène macabre ?
 - **La quête**
  Raconte la raison qui t'a poussé à lutter contre les forces des grands anciens ? Cherches tu a vengé quelqu'un ? À te rapprocher de la puissance ? À trouver de nouveaux modèles horribles ?
