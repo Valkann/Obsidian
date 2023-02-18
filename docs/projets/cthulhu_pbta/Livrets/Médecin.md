@@ -52,6 +52,13 @@ Lorsque tu tentes de soigner un autre personnage, lance 2d6 + Calme
 - 10+ : Tout se passe bien, ton patient peut décocher une condition.
 - 12+ : Pareil mais le patient peut décocher deux conditions.
 
+## Liens
+
+- Un personnage a été ton patient, choisis qui, il te dira pourquoi il t'en garde rancœur.
+- Un personnage était le proche d'un de tes patients décédé. Choisi qui, il te dira s'il considère que tu y es pour quelque chose dans cette mort ou si au contraire, il trouve que tu as tout fait pour aider.
+- Un personnage t'a aidé dans le passé, tu aurais pu mourir sans lui. Choisi qui, il te dira ce qu'il a fait pour toi.
+- 
+
 ## Souvenirs
 
 
