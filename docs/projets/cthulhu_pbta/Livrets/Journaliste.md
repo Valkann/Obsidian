@@ -1,4 +1,6 @@
 ---
+quickshare-date: 2023-02-18 20:12:20
+quickshare-url: "https://noteshare.space/note/cleac6yeg752101pjdmmuu095#6AywVz9gs8kjJaZg2uPRNCwp14nD3a0QUlbDUPKsUS0"
 share: true 
 category: projets/cthulhu_pbta/Livrets
 Summary: 
@@ -39,7 +41,7 @@ Si tu tentes de t'introduire discrètement dans un lieu, lances 2d6+ Calme
 	- Tu ressors sans te faire remarquer.
 	- Tu ne laisses aucune trace. 
 	- Tu tombes sur quelque chose d'inhabituel.
-- 6- : 
+- 6- : La situation t'échappe et tout se complique, l'indicateur de scène passe en **Désespérée** et tu es repéré. Si la situation était **Désespérée,** il y a des chances que tes poursuivants soient plus qu'humain ou animer d'intention meurtrière.
 
 ### Réseau d'indic
 
@@ -58,14 +60,23 @@ Quand tu interroges quelqu'un dans le cadre de la manœuvre Enquêter, plutôt q
 
 ## Liens
 
-- 
+- Tu as déjà interviewé ce personnage. Choisis qui, il te dira sur quel sujet tu lui a posé des questions, et s'il t'a révélé la vérité.
 - Ce personnage était là quand tu as découvert que la réalité était beaucoup plus vaste que tu ne le pensais. Tu racontes ce qui s'est passé, il te dit ce que tu as perdu.
-- 
+- Ce personnage a déjà fait appel à toi pour enquêter sur certain sujet. Choisi qui, il te dira sur quel sujet tu as enquêté et si tu as rassemblé des éléments pour un article.
+- Ce personnage t'a sauvé la mise, tu lui en dois une. Choisis qui, il te dira ce qu'il a fait pour te sortir du pétrin.
+- Ce personnage t'a déjà vu effectué des actions illégales. Choisis qui, il te dira ce qu'il attend de toi en échange de son silence.
 
 
 ## Souvenirs
 
 - **L'engagement**
-  
+  Raconte comment tu as décidé de devenir journaliste, quelles étaient tes nobles raisons et idéaux. À quoi as-tu dû renoncer par la suite une fois confronté à la vie.
+- **Les bas fond**
+  La vie de journaliste n'est pas de tout repos, et en plus ça ne paye pas. Raconte ce que tu as dû faire pour survivre, avec qui as-tu passé des accords ? Quelle affaire as-tu étouffée ? Quelles révélations as-tu passées sous silence ? 
+- **La découverte**
+  Raconte la première fois ou tu as été confronté au surnaturel, que s'est-il passé ? Que t'as couté cette rencontre ? Est-ce une blessure ? la perte d'un être cher ? Un traumatisme ? Des ennemis ?
+- **Le but**
+  Raconte ton objectif, ce que tu espères faire, le point auquel tu espères arriver et comment tu comptes faire. Qu'es-tu prêt à faire pour ça ? Qu'as-tu déjà fait pour y arriver ? Quelles sont tes limites ? Peuvent elles changer ?
+- 
 
 ## Folies
