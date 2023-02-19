@@ -4,9 +4,9 @@ category: source
 Alias:
 ---
 Date:: 2023-02-18
-Week:: [2023-07](2023-07.md)
-Rating::
-Review:: 
+Week:: [2023-07](../week/2023-07.md)
+Rating:: ⭐⭐⭐⭐
+Review:: ça a l'air très sympa, il faut que je le fasse jouer. Peu convaincu par le scénario de base par contre.
 Summary:: 
 Author::
 Source:: 
