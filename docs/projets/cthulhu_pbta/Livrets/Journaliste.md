@@ -77,6 +77,11 @@ Quand tu interroges quelqu'un dans le cadre de la manœuvre Enquêter, plutôt q
   Raconte la première fois ou tu as été confronté au surnaturel, que s'est-il passé ? Que t'as couté cette rencontre ? Est-ce une blessure ? la perte d'un être cher ? Un traumatisme ? Des ennemis ?
 - **Le but**
   Raconte ton objectif, ce que tu espères faire, le point auquel tu espères arriver et comment tu comptes faire. Qu'es-tu prêt à faire pour ça ? Qu'as-tu déjà fait pour y arriver ? Quelles sont tes limites ? Peuvent elles changer ?
-- 
+- **L'obsession**
+  Raconte ce que tu as sacrifié pour amener la vérité au grand jour. Faire la lumière sur les cultes secrets et les mystères de ce monde. Qu'as tu laissé derrière toi que tu ne pourra jamais retrouvé ?
 
 ## Folies
+
+1. **Sous couverture** 
+Pour éviter qu'ils ne te retrouvent, tu donnes un alias différent à chaque fois que tu rencontres une nouvelle personne. Tu as tout un répertoire de rôle que tu es prêts à interpréter et de multiples noms pour signer tes articles.
+2. 
