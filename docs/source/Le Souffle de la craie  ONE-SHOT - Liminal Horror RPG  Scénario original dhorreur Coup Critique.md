@@ -6,17 +6,17 @@ category: source
 ---
 
 Date:: 2023-02-19
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: J'ai vraiment bien aimé le scénario et l'implication MJ/PJ.
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=n_GWCmQ7ZuE
-Type:: #SN/
-Status:: 
+Type:: #SN/Vidéo 
+Status:: #finished 
 MOC::
 Projet:: 
 
-Week:: [2023-07](2023-07.md)
+Week:: [2023-07](../week/2023-07.md)
 
 ***
 # Le Souffle de la craie | ONE-SHOT - Liminal Horror RPG | Scénario original d'horreur Coup Critique
