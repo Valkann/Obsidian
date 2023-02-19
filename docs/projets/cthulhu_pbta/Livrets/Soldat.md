@@ -45,6 +45,8 @@ Comandement et moral
 
 ## Liens
 
+
+
 ## Souvenirs
 
 - **Les tranchées**

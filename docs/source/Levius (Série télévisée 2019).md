@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-02-16
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: J'y suis aller un peu à reculon, mais au final la série est assez bonne et il y a franchement des choses à reprendre pour un univers steampunk
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt10619444/?ref_=nv_sr_srsg_2
@@ -16,7 +16,7 @@ Status:: #finished
 MOC::
 Projet:: 
 
-Week:: [2023-07](2023-07.md)
+Week:: [2023-07](../week/2023-07.md)
 
 ***
 # Levius (Série télévisée 2019) - IMDb

@@ -6,8 +6,8 @@ category: source
 ---
 
 Date:: 2023-02-16
-Rating::
-Review:: 
+Rating::⭐⭐⭐⭐⭐
+Review:: au début peu convaincu par le style graphique j'ai pris une grosse claque. Très bonne série de SF avec beaucoup d'inspiration et un univers qui semble super intéressant à creuser.
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt14825954/?ref_=nv_sr_srsg_0
@@ -16,7 +16,7 @@ Status:: #finished
 MOC::
 Projet:: 
 
-Week:: [2023-07](2023-07.md)
+Week:: [2023-07](../week/2023-07.md)
 
 ***
 # Exception (Série télévisée 2022– )
