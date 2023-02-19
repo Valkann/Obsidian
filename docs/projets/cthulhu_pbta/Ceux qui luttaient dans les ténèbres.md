@@ -2,6 +2,7 @@
 quickshare-date: 2023-02-05 20:32:26
 quickshare-url: "https://noteshare.space/note/cldrs6px31882001pj42e96c1e#O8qUNFFQEoVCv9UocLU3p0QZKAHsU18H8tsMx7O/n3I"
 share: true 
+dg-publish: true
 title: Ceux qui luttaient dans les ténèbres
 category: projets/cthulhu_pbta
 Summary: 
