@@ -1,6 +1,6 @@
 ---
 raindrop_id: 522200538
-raindrop_last_update: 2023-02-21T13:42:27.408Z
+raindrop_last_update: 2023-02-22T08:45:00.944Z
 share: true
 category: source
 ---
@@ -11,8 +11,8 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt13433814/?ref_=nv_sr_srsg_0
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #watching 
 MOC::
 Projet:: 
 
