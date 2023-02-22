@@ -1,18 +1,18 @@
 ---
 raindrop_id: 522150618
-raindrop_last_update: 2023-02-21T10:05:21.425Z
+raindrop_last_update: 2023-02-22T08:45:01.031Z
 share: true
 category: source
 ---
 
 Date:: 2023-02-21
-Rating::
-Review:: 
+Rating:: ⭐⭐
+Review:: c'est pas terrible, autant lancer le jeu vidéo.
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt7587604/
-Type:: #SN/
-Status:: 
+Type:: #SN/Film 
+Status:: #finished 
 MOC::
 Projet:: 
 
