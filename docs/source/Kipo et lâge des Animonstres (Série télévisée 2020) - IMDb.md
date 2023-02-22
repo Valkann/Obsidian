@@ -1,6 +1,6 @@
 ---
 raindrop_id: 522400108
-raindrop_last_update: 2023-02-21T18:00:59.127Z
+raindrop_last_update: 2023-02-22T08:45:01.008Z
 share: true
 category: source
 ---
@@ -11,11 +11,10 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt10482560/?ref_=nv_sr_srsg_0
-Type:: #SN/
-Status:: 
+Type:: #SN/Série 
+Status:: #watching 
 MOC::
 Projet:: 
-
 Week:: [2023-08](2023-08.md)
 
 ***
