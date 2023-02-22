@@ -1,6 +1,7 @@
 ---
 share: true 
 dg-publish: true
+dg-publish: true
 category: source
 Alias:
 ---
