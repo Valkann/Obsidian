@@ -3,6 +3,7 @@ raindrop_id: 522200538
 raindrop_last_update: 2023-02-22T08:45:00.944Z
 share: true
 category: source
+dg-publish: true
 ---
 
 Date:: 2023-02-21
@@ -16,7 +17,7 @@ Status:: #watching
 MOC::
 Projet:: 
 
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../week/2023-08.md)
 
 ***
 # Mon père le chasseur de primes (Série télévisée 2023– ) - IMDb
