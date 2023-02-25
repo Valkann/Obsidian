@@ -3,6 +3,7 @@ raindrop_id: 522400108
 raindrop_last_update: 2023-02-22T08:45:01.008Z
 share: true
 category: source
+dg-publish: true
 ---
 
 Date:: 2023-02-21
@@ -15,7 +16,7 @@ Type:: #SN/Série
 Status:: #watching 
 MOC::
 Projet:: 
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../week/2023-08.md)
 
 ***
 # Kipo et l'âge des Animonstres (Série télévisée 2020) - IMDb
