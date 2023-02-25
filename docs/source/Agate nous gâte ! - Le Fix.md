@@ -1,13 +1,13 @@
 ---
 raindrop_id: 516467656
-raindrop_last_update: 2023-02-11T14:46:17.827Z
+raindrop_last_update: 2023-02-22T08:45:00.899Z
 share: true
 category: source
 date updated: 2023-02-11 16:35
 tags:
-  - '#jdr'
-  - '#SN/Article'
-  - '#finished'
+  - "#jdr"
+  - "#SN/Article"
+  - "#finished"
 ---
 
 Date:: 2023-02-11
