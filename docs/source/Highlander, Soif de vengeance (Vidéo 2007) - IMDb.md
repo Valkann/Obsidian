@@ -11,12 +11,12 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt0465657/?ref_=nv_sr_srsg_0
-Type:: #SN/
-Status:: 
+Type:: #SN/Film 
+Status:: #finished 
 MOC::
 Projet:: 
 
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../week/2023-08.md)
 
 ***
 # Highlander, Soif de vengeance (Vidéo 2007) - IMDb
