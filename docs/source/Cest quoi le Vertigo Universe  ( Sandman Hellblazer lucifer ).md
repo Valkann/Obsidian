@@ -11,12 +11,12 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=c7Sj2y1HzVo
-Type:: #SN/
-Status:: 
+Type:: #SN/Vidéo 
+Status:: #finished 
 MOC::
 Projet:: 
 
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../week/2023-08.md)
 
 ***
 # C'est quoi le Vertigo Universe ? ( #Sandman #Hellblazer #lucifer )
