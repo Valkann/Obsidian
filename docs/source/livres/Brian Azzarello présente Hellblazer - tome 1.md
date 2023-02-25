@@ -7,13 +7,12 @@ banner:
 ---
 title:: "Brian Azzarello présente Hellblazer"
 Date:: 2023-02-21
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../../week/2023-08.md)
 Author:: [](.md)
 publisher:: 
 publish:: 2016-09-23
 total:: 408
 isbn:: 2365779107 9782365779104
-
 
 Type:: #SN/Livre 
 Status:: #finished 
