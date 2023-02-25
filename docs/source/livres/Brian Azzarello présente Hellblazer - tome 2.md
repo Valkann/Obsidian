@@ -1,5 +1,6 @@
 ---
 share: true 
+dg-publish: true
 category: source/livres
 date: 2023-02-21
 updated: 2023-02-21 20:14:40
@@ -7,7 +8,7 @@ banner:
 ---
 title:: "Brian Azzarello présente Hellblazer"
 Date:: 2023-02-21
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../../week/2023-08.md)
 Author:: [](.md)
 publisher:: 
 publish:: 2017-06-23
