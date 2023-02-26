@@ -4,11 +4,11 @@ raindrop_last_update: 2023-02-24T20:44:11.974Z
 share: true
 category: source
 dg-publish: true
+Rating : ⭐⭐⭐
+Review : La vidéo n'apporte pas grand-chose, mais je redécouvre le vertigo et ça donne envie de creuser.
 ---
 
 Date:: 2023-02-24
-Rating::
-Review:: 
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=c7Sj2y1HzVo
