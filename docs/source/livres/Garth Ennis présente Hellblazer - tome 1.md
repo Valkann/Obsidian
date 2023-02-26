@@ -1,5 +1,6 @@
 ---
 share: true 
+dg-publish: true
 category: source/livres
 date: 2023-02-22
 updated: 2023-02-22 16:01:56
@@ -13,8 +14,8 @@ publisher::
 publish:: 2015-02-27
 total:: 410
 isbn:: 2365776051 9782365776059
-
-
+rating:: ⭐⭐⭐⭐⭐
+Review:: Très intense
 Type:: #SN/Livre 
 Status:: #finished 
 
