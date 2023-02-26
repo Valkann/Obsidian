@@ -14,7 +14,8 @@ publisher::
 publish:: 2016-09-23
 total:: 408
 isbn:: 2365779107 9782365779104
-
+rating:: ⭐⭐⭐⭐⭐
+Review:: Très très sympa j'aime toujours autant cet univers
 Type:: #SN/Livre 
 Status:: #finished 
 

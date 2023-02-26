@@ -1,5 +1,6 @@
 ---
 share: true 
+dg-publish: true
 category: source/livres
 date: {{DATE:YYYY-MM-DD}}
 updated: {{DATE:YYYY-MM-DD HH:mm:ss}}

@@ -3,11 +3,12 @@ raindrop_id: 297273032
 raindrop_last_update: 2023-02-22T09:56:58.242Z
 share: true
 category: source
+dg-publish: true
 ---
 
 Date:: 2023-02-22
-Rating::
-Review:: 
+Rating:: ⭐⭐⭐⭐
+Review:: Quelques points inétressant dans la vidéo, m'a donné envie de revoir certaines choses sur mon organisation de notes
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=902nV-gGb9U

@@ -4,19 +4,16 @@ raindrop_last_update: 2023-02-24T20:44:12.616Z
 share: true
 category: source
 dg-publish: true
+Date: 2023-02-24
+Rating: ⭐⭐⭐⭐⭐
+Review: Grosse claque deux saisons et deux intrigues bien menées dans un univers dystopique cyberpunk intéressant. 
+Summary: 
+Author:
+Source: https://www.imdb.com/title/tt2379308/?ref_=nv_sr_srsg_0
 ---
 
-Date:: 2023-02-24
-Rating::
-Review:: 
-Summary:: 
-Author::
-Source:: https://www.imdb.com/title/tt2379308/?ref_=nv_sr_srsg_0
 Type:: #SN/Série 
 Status:: #finished 
-MOC::
-Projet:: 
-
 Week:: [2023-08](../week/2023-08.md)
 
 ***

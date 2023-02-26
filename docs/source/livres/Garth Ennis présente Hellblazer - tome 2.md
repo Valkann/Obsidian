@@ -14,8 +14,8 @@ publisher::
 publish:: 2015-08-28
 total:: 460
 isbn:: 2365776833 9782365776837
-
-
+rating:: ⭐⭐⭐⭐⭐
+Review:: la capacité à se renouveller de cet univers est assez fou
 Type:: #SN/Livre 
 Status:: #finished 
 

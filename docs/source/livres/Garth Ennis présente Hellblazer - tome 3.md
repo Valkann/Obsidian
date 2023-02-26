@@ -14,8 +14,8 @@ publisher::
 publish:: 2016-04-01
 total:: 544
 isbn:: 2365778526 9782365778527
-
-
+rating:: ⭐⭐⭐⭐⭐
+Review:: Je vais me servir de tout ça pour du [Kult](Kult.md) ou du [don't Rest your head](don't%20Rest%20your%20head.md) en tout cas y a moyen de faire un truc sympa
 Type:: #SN/Livre 
 Status:: #finished 
 

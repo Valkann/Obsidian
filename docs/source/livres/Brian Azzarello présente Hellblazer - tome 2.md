@@ -14,8 +14,8 @@ publisher::
 publish:: 2017-06-23
 total:: 336
 isbn::  9791026811398
-
-
+rating:: ⭐⭐⭐⭐⭐
+Review:: Sombre mais prenant j'aime beaucoup
 Type:: #SN/Livre 
 Status:: #finished 
 
