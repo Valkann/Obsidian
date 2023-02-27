@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-12-Sat
 Author :
 Source : https://www.youtube.com/watch?v=nZqaVzZlSsA
-Type : #SN/Vidéo 
+Type : #SN/YouTube 
 MOC :
 Projet : 
 Tags : #youtube #méthodologie #organisation #finished 
