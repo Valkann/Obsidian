@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-12-Sat
 Author : [Nico Saypharath](Nico%20Saypharath.md)
 Source : https://www.youtube.com/watch?v=OsquLiNOGuw
-Type : #SN/Vidéo 
+Type : #SN/YouTube 
 MOC :
 Projet : 
 Tags : #youtube #organisation #obsidian #méthodologie #finished 
