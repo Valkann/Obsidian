@@ -5,6 +5,7 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
+%%
 jour::  [2023-01-26](2023-01-26.md)
 Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
@@ -13,7 +14,7 @@ Projet:: #MotW
 Type:: #SN/JDR/MotW/Monstre, #projet/écriture
 Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MDF #monstre #writing 
 status:: #finished 
-
+%%
 # Mange-Temps
 
 ![2be8fcbf-f68c-4b3a-8b22-ccaae515d7bb.jpg](../../../../notes/2be8fcbf-f68c-4b3a-8b22-ccaae515d7bb.jpg)
