@@ -12,7 +12,7 @@ Review:: en cours de visionage, c'est assez lent.
 Summary:: 
 Author::
 Source:: https://m.youtube.com/watch?feature=youtu.be&v=gy0rtNYpT_A
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #watching 
 MOC::
 Projet:: 
