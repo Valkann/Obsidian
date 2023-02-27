@@ -10,7 +10,7 @@ Review::
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/JDR/MotW/Monstre 
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #WiP 
 MOC::
 Projet:: 
