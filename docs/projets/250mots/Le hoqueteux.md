@@ -11,9 +11,8 @@ jour::  [2023-02-05](2023-02-05.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
 #250mots
-
 Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre 
+Type:: #SN/JDR/MotW/Monstre , #projet/écriture
 Status:: #WiP #projet 
 # le hoqueteux
 
