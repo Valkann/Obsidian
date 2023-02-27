@@ -9,7 +9,7 @@ Summary : Jeu qui semble sympa sur papier
 Date : 2022-10-24-Mon
 Author :
 Source : https://www.youtube.com/watch?v=tGe1-ms4nco
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 MOC :
 Projet : 
 Tags : #watching #youtube 
