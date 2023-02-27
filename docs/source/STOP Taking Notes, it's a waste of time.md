@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author::
 source:: [STOP Taking Notes, it's a waste of time](https://www.youtube.com/watch?v=e3g0x9AfLP0)
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: 
 MOC::
 Projet:: 
