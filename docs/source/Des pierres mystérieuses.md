@@ -13,7 +13,7 @@ Summary :
 Date:: 2022-11-13-Sun
 Author::
 Source:: 
-Type:: #SN/JDR/MotW/scenario
+Type:: #projet/JDR/MotW/scenario
 MO: : [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
 Projet:: [Mystères de l'Ouest](Myst%C3%A8res%20de%20l'Ouest.md)
 Tags:: #scénario #MdO #bretagne #MotW #jdr #projet 
