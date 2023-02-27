@@ -5,12 +5,14 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
-Type:: #SN/JDR/MotW/Monstre, #projet/écriture
+%%
+Projet:: #MotW , #MystereDeFrance 
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 jour::  [2023-01-19](2023-01-19.md) 
 mots:: *Engagement - Nerveux - Jupe*   
 #250mots #MotW #projet/écriture #projet/jdr/MotW/MdO 
 status:: #finished  
-
+%%
 ***
 
 # Les kannarezed noz ou lavandière de la nuit
