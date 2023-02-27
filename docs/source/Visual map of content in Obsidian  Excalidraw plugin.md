@@ -55,4 +55,4 @@ Utilisation pour le #jdr pour créer des plans et lié des notes à des pièces 
  17:56
  ```
 
-[Excalibrain](Excalibrain.md) : autre plugin qui permet d'explorer ses notes de façon graphique, maiss plus facilement qu'avec le graph [obsidian](Obsidian.md).
+[Excalibrain](Excalibrain.md) : autre plugin qui permet d'explorer ses notes de façon graphique, maiss plus facilement qu'avec le graph [Obsidian](Obsidian.md).
