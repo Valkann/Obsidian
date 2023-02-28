@@ -7,7 +7,7 @@ tags:
   - '#projet/JDR/MotW/Monstre'
   - '#WiP'
   - '#MotW'
-  - '#MdO'
+  - '#MystereDeLOuest'
 ---
 
 Date:: 2023-01-26
@@ -29,7 +29,7 @@ Tags::
 
 ## Notes
 
-Montsre pour #MotW et #MdO
+Montsre pour #MotW et #MystereDeLOuest
 
 Voici une idée de monstre pour le jeu de rôle Monster of the Week inspiré du folklore breton :
 
