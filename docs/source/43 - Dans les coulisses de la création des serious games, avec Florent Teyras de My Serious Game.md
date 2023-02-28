@@ -5,21 +5,15 @@ share: true
 category: source
 date updated: 2023-02-11 07:13
 ---
-
-Date:: 2023-01-06
+%%
+Date:: [2023-01-06](2023-01-06.md)
 Rating::
 Review::
-Summary::
-Author::
 Source:: [‎Learn & Enjoy : #43 - Dans les coulisses de la création des serious games, avec Florent Teyras de My Serious Game sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/learn-enjoy/id1572982116?i=1000585285138)
 Type:: #SN/Podcast
 Status:: #WiP
-MOC::
-Projet::
-
 Week:: 01
-
----
+%%
 
 # #43 - Dans les coulisses de la création des serious games, avec Florent Teyras de My Serious Game
 
