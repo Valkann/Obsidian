@@ -11,8 +11,12 @@ share: true
 category: projets/C&C
 Tags : #projet/jdr/CultistesEtCatastrophes/Générique
 ---
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
-#projet/jdr/CultistesEtCatastrophes/Générique
 ***
 
 ### Incidents Génériques / Garniture
