@@ -5,7 +5,7 @@ share: true
 dg-publish: true
 category: source
 ---
-
+%%
 Date:: 2023-02-16
 Rating::
 Review:: en cours de visionage, c'est assez lent.
@@ -13,10 +13,10 @@ Summary::
 Author::
 Source:: https://m.youtube.com/watch?feature=youtu.be&v=gy0rtNYpT_A
 Type:: #SN/YouTube 
-Status:: #watching 
+Status:: #WiP 
 Tags:: #GameDesign, #jdr
 Week:: [2023-07](../week/2023-07.md)
-
+%%
 ***
 # Le Grümph: Structure et improvisation en bac à sable - Orc'idée 2014
 
