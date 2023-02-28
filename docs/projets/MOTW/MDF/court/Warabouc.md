@@ -5,20 +5,15 @@ Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
 share: true
 category: projets/MOTW/MDF/court
 Summary:
-Tags:
-  - JDR/Création
-  - JDR/Scénario
-  - MDF
-  - court
-  - writing
 Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
+%%
 type:: #projet/JDR/MotW/scenario 
-status:: #published 
-Tags : #JDR/Création #JDR/Scénario #MotW 
-
+status:: #finished 
+Projet:: #MotW, #MystereDeFrance 
+%%
 ***  
 
 # Le Warabouc
