@@ -5,15 +5,16 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
+%%
 jour::  [2023-01-27](2023-01-27.md)
 Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots 
 
-Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre, #projet/écriture
+Projet:: #MotW , #MystereDeFrance 
+Type:: #projet/JDR/MotW/Monstre, #projet/écriture
 Status:: #finished 
-
+%%
 # Le déplaceur de bornes ou Laer Douar
 
 ![3d9af004-ec69-4769-8f86-faf8825ebb42.jpg](../../../../notes/3d9af004-ec69-4769-8f86-faf8825ebb42.jpg)
