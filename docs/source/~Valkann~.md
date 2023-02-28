@@ -7,17 +7,6 @@ category: source
 Alias:
 ---
 
-%%
-Date:: [2023-02-28](2023-02-28.md)
-Week:: [2023-09](../week/2023-09.md)
-Rating::
-Review:: 
-Source::
-Projet:: 
-Type:: #SN/
-Status:: 
-%%
-
 # ~Valkann~
 
 ***
