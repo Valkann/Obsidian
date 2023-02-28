@@ -16,7 +16,7 @@ Type:: #SN/Série
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #TV_Series 
+Tags:: #SN/Série 
 
 # Wednesday (TV Series 2022– ) - IMDb
 
