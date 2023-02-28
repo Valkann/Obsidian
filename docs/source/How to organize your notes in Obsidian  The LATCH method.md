@@ -6,15 +6,15 @@ category: source
 dg-publish: true
 ---
 %%
-Date:: 2023-02-27
-Rating:: null
-Review:: null
-Summary:: null
-Author:: null
+Date:: [2023-02-27](2023-02-27.md)
+Rating:: 
+Review:: 
+Summary:: 
+Author:: 
 Source:: https://www.youtube.com/watch?v=vS-b_RUtL1A
 Type:: #SN/YouTube 
 Status:: #WiP 
-Week:: [2023-09](2023-09.md)
+Week:: [2023-09](../week/2023-09.md)
 %%
 ***
 # How to organize your notes in Obsidian // The LATCH method
