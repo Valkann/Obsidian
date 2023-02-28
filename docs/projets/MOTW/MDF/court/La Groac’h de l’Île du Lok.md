@@ -7,12 +7,6 @@ Alias :
 share: true 
 category: projets/MOTW/MDF/court
 Summary: 
-Tags:
-- JDR/Création 
-- JDR/Scénario
-- MystereDeFrance
-- court
-- writing
 published: true
 ---
 Type:: #projet/JDR/MotW/scenario 
