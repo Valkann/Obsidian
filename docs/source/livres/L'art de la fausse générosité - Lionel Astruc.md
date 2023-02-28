@@ -15,12 +15,12 @@ updated: 2023-01-23T21:49:52.000Z
 date updated: 2023-02-11 07:14
 tags:
   - '#SN/Livre'
-  - '#reading'
+  - '#WiP'
 ---
 
 Type:: #SN/Livre
 Review:: En cours
-Status:: #reading
+Status:: #WiP
 Week:: [2023-04](../../week/2023-04.md)
 
 ![cover|150](http://books.google.com/books/content?id=EtOIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
