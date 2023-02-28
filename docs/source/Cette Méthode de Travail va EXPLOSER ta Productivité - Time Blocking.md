@@ -13,7 +13,7 @@ Type :
 Date : 2022-11-11-Fri
 Author : [Kaizen Lane](Kaizen%20Lane.md)
 Source : https://www.youtube.com/watch?v=fSn2ibGxWwQ&list=WL&index=58
-Type : #SN/YouTube 
+Type:: #SN/YouTube 
 MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 Projet : 
 Tags : #youtube #video #methodologie #finished 
