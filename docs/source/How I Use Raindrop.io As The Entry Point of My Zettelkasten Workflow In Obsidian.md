@@ -12,11 +12,11 @@ Review:: Quelques points inétressant dans la vidéo, m'a donné envie de revoir
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=902nV-gGb9U
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #SN/Vidéo, #finished
+Tags:: #SN/YouTube, #finished
 Week:: [2023-08](../week/2023-08.md)
 
 ***
