@@ -9,7 +9,7 @@ Summary : Super intéressant de déocuvrir la puissance de cet outil. Un peu en 
 Date : 2022-11-17-Thu
 Author : [Soren Bjornstad](Soren%20Bjornstad.md)
 Source : 
-Type:: #SN/Vidéo  #youtube 
+Type:: #SN/YouTube  #youtube 
 MOC :
 Projet : 
 Tags : #youtube #finished  #vidéo 

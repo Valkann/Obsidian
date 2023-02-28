@@ -4,7 +4,7 @@ category: source
 Alias: null
 date updated: 2023-02-11 07:12
 tags:
-  - '#SN/JDR/MotW/Monstre'
+  - '#projet/JDR/MotW/Monstre'
   - '#WiP'
   - '#MotW'
   - '#MdO'
@@ -17,7 +17,7 @@ Review::
 Summary::
 Author::
 Source::
-Type:: #SN/JDR/MotW/Monstre
+Type:: #projet/JDR/MotW/Monstre
 Status:: #WiP
 MOC::
 Projet::

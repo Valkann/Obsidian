@@ -15,7 +15,7 @@ Author::
 Source:: https://www.imdb.com/title/tt10619444/?ref_=nv_sr_srsg_2
 Type:: SN/ Série
 Status:: #WiP
-Tags:: #SN/Vidéo
+Tags:: #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***

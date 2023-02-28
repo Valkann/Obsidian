@@ -10,7 +10,7 @@ Rating:: 3
 Summary:: Assez peu intéressant pour ma pratique.
 Author::
 Source:: https://www.youtube.com/watch?v=GKj6y7nKlxY
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

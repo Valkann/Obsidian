@@ -1,19 +1,19 @@
 ---
 Date: 2023-02-05
 Alias:
-Type: 
-- #projet/écriture
 Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
+%%
 jour::  [2023-02-05](2023-02-05.md)
 Week:: [2023-05](2023-05.md)
 mots:: 
 #250mots
 Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Status:: #WiP #projet 
+%%
 # le hoqueteux
 
 Monstre que l'on entend arriver grâce au hoquet constant dont il est affublé.

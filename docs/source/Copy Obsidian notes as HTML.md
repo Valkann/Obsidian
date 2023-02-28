@@ -11,8 +11,8 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=Jy5Pnezn7r4
-Type:: #SN/
-Status:: 
+Type:: #SN/YouTube 
+Status:: #WiP 
 MOC::
 Projet:: 
 

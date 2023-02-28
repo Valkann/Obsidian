@@ -15,7 +15,7 @@ Author::
 Source:: https://fr.wikipedia.org/wiki/Unit%C3%A9_multitronique
 Type:: SN/ Article
 Status:: #WiP
-Tags:: #SN/Vidéo
+Tags:: #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***

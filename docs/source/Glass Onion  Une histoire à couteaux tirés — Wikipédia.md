@@ -15,7 +15,7 @@ Author::
 Source:: https://fr.wikipedia.org/wiki/Glass_Onion_:_Une_histoire_%C3%A0_couteaux_tir%C3%A9s
 Type:: SN/ Film
 Status:: #WiP
-Tags:: #SN/Vidéo
+Tags:: #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***

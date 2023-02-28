@@ -5,14 +5,15 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
+%%
 jour::  [2023-01-25](2023-01-25.md)
 Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
-
-Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre , #projet/écriture
+Projet:: #MotW , #MystereDeFrance 
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Status:: #finished 
+%%
 # Iannic-ann-ôd
 
 ![daniel-jensen-NMk1Vggt2hg-unsplash.jpg](../../../../notes/daniel-jensen-NMk1Vggt2hg-unsplash.jpg)

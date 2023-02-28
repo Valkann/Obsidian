@@ -11,7 +11,7 @@ Review:: Toujours bon de reprendre les bases, j'ai extrait les idées qui réson
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=36J8To0YcMY&list=WL&index=98
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

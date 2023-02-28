@@ -10,7 +10,7 @@ Type : youtube
 Date : 2022-10-29-Sat
 Author : [Thomas Munier](Thomas%20Munier.md)
 Source : https://www.youtube.com/watch?v=bbpSzGA-0tk
-Type : #SN/Vidéo 
+Type : #SN/YouTube 
 MOC :
 Projet : 
 Tags : #finished  #youtube #jdr 

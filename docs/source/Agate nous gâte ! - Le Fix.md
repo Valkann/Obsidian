@@ -1,35 +1,30 @@
 ---
 raindrop_id: 516467656
-raindrop_last_update: 2023-02-22T08:45:00.899Z
+raindrop_last_update: 2023-02-28T08:12:21.479Z
 share: true
 category: source
-date updated: 2023-02-11 16:35
-tags:
-  - "#jdr"
-  - "#SN/Article"
-  - "#finished"
+dg-publish: true
 ---
 
-Date:: 2023-02-11
-Rating:: ⭐⭐⭐⭐
-Review:: Des choses à garder en tête dans le planning des sorties #jdr
-Summary::
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
+Summary:: 
 Author::
-Source:: <https://lefix.di6dent.fr/archives/20299>
-Type:: #SN/Article
-Status:: #finished
-MOC::
-Projet::
-
-Week:: 06
-
----
-
+Source:: https://lefix.di6dent.fr/archives/20299
+Type:: SN/ Article
+Status:: #WiP
+Tags:: #SN/YouTube
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
+***
 # Agate nous gâte ! - Le Fix
 
 Partager cet article En fait, vous l’aviez peut-être remarqué mais notre fameux planning intégral des sorties francophones accuse un peu
 
 ## Highlights
+
 
 > [!quote]+ Updated on 2023/02/11 10:12:25
 >

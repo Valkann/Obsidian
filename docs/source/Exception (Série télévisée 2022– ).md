@@ -1,24 +1,23 @@
 ---
 raindrop_id: 519140092
-raindrop_last_update: 2023-02-22T08:45:00.718Z
+raindrop_last_update: 2023-02-28T08:12:22.892Z
 share: true
-dg-publish: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-02-16
-Rating::⭐⭐⭐⭐⭐
-Review:: au début peu convaincu par le style graphique j'ai pris une grosse claque. Très bonne série de SF avec beaucoup d'inspiration et un univers qui semble super intéressant à creuser.
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt14825954/?ref_=nv_sr_srsg_0
-Type:: #SN/Série 
-Status:: #finished 
-MOC::
-Projet:: 
-
-Week:: [2023-07](../week/2023-07.md)
-
+Type:: SN/ Série
+Status:: #WiP
+Tags:: #SN/YouTube
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
 # Exception (Série télévisée 2022– )
 

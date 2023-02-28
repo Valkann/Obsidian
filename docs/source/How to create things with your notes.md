@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: [How to create things with your notes - YouTube](https://www.youtube.com/watch?v=4zrs_vVRwD4)
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

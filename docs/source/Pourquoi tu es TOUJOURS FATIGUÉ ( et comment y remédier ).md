@@ -10,7 +10,7 @@ Rating:: 4
 Summary:: Vidéo intéressante mais j'aurais aimé un truc plus concis sur les conseils et les bonnes pratiques
 Author::
 Source:: https://www.youtube.com/watch?v=psmjLS25-_A&list=WL&index=25
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

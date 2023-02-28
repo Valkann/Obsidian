@@ -15,7 +15,7 @@ Author::
 Source:: https://www.imdb.com/title/tt15264192/
 Type:: SN/ Série
 Status:: #WiP
-Tags:: #SN/Vidéo
+Tags:: #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***

@@ -7,16 +7,15 @@ dg-publish: true
 ---
 
 %%
-Date:: 2023-02-27
+Date:: [2023-02-27](2023-02-27.md)
 Rating::
 Review:: 
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt4816364/?ref_=nv_sr_srsg_0
-Type:: SN/ BattleBots (Série télévisée 2015– )
+Type:: #SN/YouTube
 Status:: #WiP
-, 2023-09, #WiP
-Week:: [2023-09](2023-09.md)
+Week:: [2023-09](../week/2023-09.md)
 %%
 ***
 # BattleBots (Série télévisée 2015– )
