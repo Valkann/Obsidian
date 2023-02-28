@@ -24,7 +24,7 @@ Tags::
 ## Notes
 
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #01 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #01 
 https://podcastaddict.com/episode/150309333 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #02 #studioTjpFictionsSonores 
