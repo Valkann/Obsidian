@@ -11,7 +11,7 @@ Alias:
 
 ***
 
-## Notes
+
 # Notes et idées
 
 # Point sur les semaines
