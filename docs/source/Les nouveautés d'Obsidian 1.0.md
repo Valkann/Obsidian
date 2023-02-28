@@ -9,10 +9,9 @@ Type : youtube
 ---
 Author : [Eliott Meunier](Eliott%20Meunier.md)
 Source : https://youtu.be/ptEy7LYWcDA
-Type : [Note Source](Note%20Source.md)
-MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
-Projet : 
-Status : #finished  
+Type:: #SN/y
+Projet:: #méthodologie 
+St:atus:: #finished  
 
 
 # Les nouveautés d'Obsidian 1.0
