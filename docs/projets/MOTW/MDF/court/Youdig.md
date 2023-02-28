@@ -8,14 +8,14 @@ Summary:
 Tags:
   - JDR/Création
   - JDR/Scénario
-  - MDF
+  - MystereDeFrance
   - court
   - writing
 Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
-type:: #SN/JDR/MotW/scenario 
+type:: #projet/JDR/MotW/scenario 
 status:: #published 
 
 Tags : #JDR/Création #JDR/Scénario #MotW 
