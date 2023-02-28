@@ -1,29 +1,27 @@
 ---
 raindrop_id: 519007460
-raindrop_last_update: 2023-02-22T08:45:00.758Z
+raindrop_last_update: 2023-02-28T08:12:22.865Z
 share: true
-dg-publish: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-02-16
-Rating:: ⭐⭐⭐⭐
-Review:: J'y suis aller un peu à reculon, mais au final la série est assez bonne et il y a franchement des choses à reprendre pour un univers steampunk
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt10619444/?ref_=nv_sr_srsg_2
-Type:: #SN/Série 
-Status:: #finished 
-MOC::
-Projet:: 
-
-Week:: [2023-07](../week/2023-07.md)
-
+Type:: SN/ Série
+Status:: #WiP
+Tags:: #SN/Vidéo
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
-# Levius (Série télévisée 2019) - IMDb
+# Levius (Série télévisée 2019)
 
 Levius: Avec Sean Burgos, Zach Aguilar, Todd Haberkorn, Julia McIlvaine. A young man whose parents became casualties of war. He is taken in by his uncle Zack, and it is there that Levius begins to immerse himself in the world of metal boxing as if led by fate itself, and his innate ability for the martial art blossoms.
 
 ## Highlights
 
-Eau agartha : se lie aux molécules du sang et dégage de la vapeur, bien plus que de l'eau qui bout. De plus celui a qui apprtient le sang, peut manipuler la vapeur comme il l'entend. C'est l'Hyper Vapeur
