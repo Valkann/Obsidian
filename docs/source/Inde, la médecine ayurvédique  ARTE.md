@@ -26,8 +26,6 @@ Selon l’ayurvéda, les maladies chroniques telles que l’arthrite ou le diab�
 Reportage d'Andrea Oster (Allemagne, 2016)
 disponible jusqu'au 04/01/2023 
 
-#inde #ayurveda #arte 
-
 Abonnez-vous à la chaîne ARTE https://www.youtube.com/channel/UCwI-JbGNsojunnHbFAc0M4Q/?sub_confirmation=1
 
 Suivez-nous sur les réseaux !

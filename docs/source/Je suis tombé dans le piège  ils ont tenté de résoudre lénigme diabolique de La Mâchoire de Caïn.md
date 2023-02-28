@@ -11,7 +11,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.radiofrance.fr/franceinter/je-suis-tombe-dans-le-piege-ils-ont-tente-de-resoudre-l-enigme-diabolique-de-la-machoire-de-cain-4468389
-Type:: #SN/
+Type:: #SN/Livre 
 Status:: 
 MOC::
 Projet:: 

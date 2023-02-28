@@ -3,7 +3,7 @@ share: true
 category: projets/Kado
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---

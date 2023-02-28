@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author::
 Source::  [Tables aléatoires](Tables%20al%C3%A9atoires.md)
-Type:: #SN/JDR #TableAléatoire 
+Type:: #SN/JDR #projet/JDR/TableAléatoire 
 Status:: 
 MOC::
 Projet:: #CultistesEtCatastrophes 
