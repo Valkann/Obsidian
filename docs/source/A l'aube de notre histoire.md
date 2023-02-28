@@ -9,7 +9,7 @@ Summary :
 Date : 2022-11-13-Sun
 Author :
 Source : 
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 MOC :
 Projet : 
 Tags : #TV_Series #netflix #watching 
