@@ -4,7 +4,7 @@ category: projets/Kado
 Summary: 
 Tags:
 - SN/jdr
-- writing
+- WiP
 Type: projet
 ---
 Kādo de monogatari o kataru sūpā sentai gēmu
