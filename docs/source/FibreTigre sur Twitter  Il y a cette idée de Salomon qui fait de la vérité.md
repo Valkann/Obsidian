@@ -15,7 +15,7 @@ Type:: #SN/Article
 Status:: #WiP 
 MOC::
 Projet:: 
-Tags:: #game_design 
+Tags:: #GameDesign 
 Week:: 02
 
 ***
