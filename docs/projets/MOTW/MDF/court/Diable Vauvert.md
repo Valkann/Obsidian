@@ -16,7 +16,7 @@ published: true
 Alias:
   - Diable Vauvert
 ---
-Type:: #SN/JDR/MotW/scenario 
+Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
 #MotW 
 
