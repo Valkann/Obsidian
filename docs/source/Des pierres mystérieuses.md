@@ -10,6 +10,7 @@ Week :
 Rating :
 Summary : 
 ---
+%%
 Date:: 2022-11-13-Sun
 Author::
 Source:: 
@@ -19,7 +20,7 @@ Projet:: [Mystères de l'Ouest](Myst%C3%A8res%20de%20l'Ouest.md)
 Tags:: #scénario #MystereDeLOuest #bretagne #MotW #jdr #projet 
 Status:: #wip 
 
-
+%%
 # Des pierres mystérieuses
 **Lieux** : au choix
 
