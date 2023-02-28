@@ -4,18 +4,15 @@ raindrop_last_update: 2023-02-22T08:44:59.597Z
 share: true
 category: source
 ---
-
+%%
 Rating:: 5
 Summary:: Pour le coup assez intéressant avec une série d'étapes et de choses à ne pas oublier.
-Author::
 Source:: https://kinsta.com/fr/blog/comment-promouvoir-podcast/
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #podcast #dons #jdrAcademy 
+Projet:: #podcast/jdracademy/dons 
 Week:: 51
-
+%%
 ***
 # Comment faire la promotion d'un podcast : Un guide pour gagner et garder des auditeurs
 
