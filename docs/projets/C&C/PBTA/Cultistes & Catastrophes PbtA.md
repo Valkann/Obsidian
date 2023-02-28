@@ -21,7 +21,7 @@ Type: projet
 # Cultistes & Catstrophes - Hack PbtA
 
 ***
-#CultistesEtCatastrophes 
+#projet/jdr/CultistesEtCatastrophes 
 
 Une bonne source d'inspiration est [Global Corp](Global%20Corp.md) de [Gulix](Gulix.md)
 ## Notes
