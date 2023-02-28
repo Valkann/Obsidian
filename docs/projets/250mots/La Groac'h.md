@@ -5,15 +5,14 @@ Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
+%%
 jour::  [2023-01-28](2023-01-28.md)
 Week:: [2023-04](../../week/2023-04.md)
-mots:: 
-#250mots 
-
-Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre, #projet/écriture
+mots:: #250mots 
+Projet:: #MotW #MystereDeFrance
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Status:: #WiP 
-
+%%
 # La Groac'h
 
 ![7797f150-a6e0-4896-bb7a-d9555bc77d3a.jpg](../../notes/7797f150-a6e0-4896-bb7a-d9555bc77d3a.jpg)
