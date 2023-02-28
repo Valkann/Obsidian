@@ -5,7 +5,7 @@ Alias: null
 date updated: 2023-02-11 07:13
 tags:
   - '#SN/JDR'
-  - '#reading'
+  - '#WiP'
 ---
 
 Date:: 2023-02-08
@@ -16,7 +16,7 @@ Summary::
 Author::
 Source::
 Type:: #SN/JDR
-Status:: #reading
+Status:: #WiP
 MOC::
 Projet::
 Tags::
