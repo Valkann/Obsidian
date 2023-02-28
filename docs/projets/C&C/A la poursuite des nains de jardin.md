@@ -18,7 +18,7 @@ Type:: #SN/JDR
 
 # À la poursuite des nains de jardin
 
-#scénario #CultistesEtCatastrophes 
+#scénario #projet/jdr/CultistesEtCatastrophes 
 
 ## Problème initial
 
