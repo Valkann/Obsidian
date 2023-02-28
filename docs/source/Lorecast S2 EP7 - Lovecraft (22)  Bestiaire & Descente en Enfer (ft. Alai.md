@@ -14,9 +14,6 @@ Author::
 Source:: <https://syfantasy.fr/medias/podcast/lorecast-s2-ep7-lovecraft-2-2-bestiaire-descente-en-enfer-ft-alain-t-puyssegur-armel-gaulme-et-maxime-le-dain>
 Type:: #SN/Podcast
 Status:: #finished
-MOC::
-Projet::
-Tags:: #horreur, #lovecraft, #podcast
 Week:: [2023-06](../week/2023-06.md)
 
 ---
