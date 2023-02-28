@@ -16,7 +16,7 @@ isbn:: 281232077X 9782812320774
 
 
 Type:: #SN/Livre 
-Status:: #to_discover 
+Status:: #WiP 
 
 ![cover|150]()
 
