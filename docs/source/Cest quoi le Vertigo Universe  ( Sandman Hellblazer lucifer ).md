@@ -12,7 +12,7 @@ Date:: 2023-02-24
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=c7Sj2y1HzVo
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 
