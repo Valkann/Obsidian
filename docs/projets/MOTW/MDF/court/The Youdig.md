@@ -9,11 +9,12 @@ Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
+%%
 Week:: 50
 Type:: #projet/JDR/MotW/scenario/en 
 status:: #WiP 
-Tags:: #JDR/Création, #JDR/Scénario, #MystereDeFrance, #court, #writing#MotW 
-
+Projet:: #MotW, #MystereDeLOuest , #MystereDeFrance 
+%%
 ***  
 
 # The Youdig
