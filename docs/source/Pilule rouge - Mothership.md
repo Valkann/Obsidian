@@ -22,7 +22,7 @@ Tags : #podcast #finished #ActualPlay #jdr
 
 ## Notes
 
-[Pilule Rouge JdR - Actual Plays de Jeu de rôle] [Jeu de rôle Mothership] La Tombe Verte #02 #piluleRougeJdrActualPlaysDeJeuDeRole 
+[Pilule Rouge JdR - Actual Plays de Jeu de rôle] [Jeu de rôle Mothership] La Tombe Verte #02 
 https://podcastaddict.com/episode/138522551 via @PodcastAddict
 
 1 point de stress avant jet pour voir un avantage
