@@ -12,7 +12,7 @@ Source : https://youtu.be/ptEy7LYWcDA
 Type : [Note Source](Note%20Source.md)
 MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 Projet : 
-Tags : #vidéo #youtube #finished  
+Status : #finished  
 
 
 # Les nouveautés d'Obsidian 1.0
