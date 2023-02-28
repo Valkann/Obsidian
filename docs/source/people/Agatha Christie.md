@@ -10,7 +10,7 @@ Alias:
 
 # Introduction
 
-Agatha Christie, née Agatha Mary Clarissa Miller le 15 septembre 1890 à Torquay et morte le 12 janvier 1976 à Wallingford (Oxfordshire), est une femme de lettres britannique, auteur de nombreux romans policiers. Son nom est associé à celui de ses deux héros : [~Hercule Poirot~](~Hercule%20Poirot~.md), détective professionnel belge et Miss Marple, détective amateur. On la surnomme « la reine du crime ». En effet, Agatha Christie est l'un des écrivains les plus importants et novateurs du genre policier. Elle a aussi écrit plusieurs romans, dont quelques histoires sentimentales, sous le pseudonyme de Mary Westmacott.
+Agatha Christie, née Agatha Mary Clarissa Miller le 15 septembre 1890 à Torquay et morte le 12 janvier 1976 à Wallingford (Oxfordshire), est une femme de lettres britannique, auteur de nombreux romans policiers. Son nom est associé à celui de ses deux héros : [~~Hercule Poirot~~](~~Hercule%20Poirot~~.md), détective professionnel belge et Miss Marple, détective amateur. On la surnomme « la reine du crime ». En effet, Agatha Christie est l'un des écrivains les plus importants et novateurs du genre policier. Elle a aussi écrit plusieurs romans, dont quelques histoires sentimentales, sous le pseudonyme de Mary Westmacott.
 
 Agatha Christie fait partie des écrivains les plus connus au monde et elle est considérée comme l'auteur le plus lu de l'histoire chez les Anglo-Saxons, après William Shakespeare ; c'est aussi de très loin l'auteur le plus traduit dans le monde. Elle a publié 66 romans, 154 nouvelles et 20 pièces de théâtre, ces œuvres ayant été traduites dans le monde entier. La plupart des intrigues se déroulent à huis clos, ce qui permet au lecteur d'essayer de deviner l'identité du coupable avant la fin du récit. Mais toute la saveur de ses histoires réside justement dans la résolution de l'enquête, souvent improbable, prenant le lecteur par surprise.
 
@@ -18,8 +18,8 @@ Ses romans et nouvelles ont été adaptés au cinéma, dans des jeux vidéos ou 
 
 # Références
 
-| Name                                                                                                                                                                       | Type      | Status    | date               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------------ |
+| Name                                                                                                                                              | Type      | Status    | date               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------------ |
 | [Cinq Heures vingt-cinq](../livres/Cinq%20Heures%20vingt-cinq.md)                                                                                       | #SN/Livre | #finished | September 02, 2021 |
 | [Dix brèves rencontres](../livres/Dix%20br%C3%A8ves%20rencontres.md)                                                                                         | #SN/Livre | #finished | September 02, 2021 |
 | [Drame en trois actes](../livres/Drame%20en%20trois%20actes.md)                                                                                           | #SN/Livre | #finished | September 02, 2021 |
