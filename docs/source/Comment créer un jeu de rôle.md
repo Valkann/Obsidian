@@ -13,7 +13,7 @@ Source : https://www.youtube.com/watch?v=bbpSzGA-0tk
 Type : #SN/YouTube 
 MOC :
 Projet : 
-Tags : #finished  #youtube #jdr 
+Tags : #finished  
 
 # Comment créer un jeu de rôle
 
