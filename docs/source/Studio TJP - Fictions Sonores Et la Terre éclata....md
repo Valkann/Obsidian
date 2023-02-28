@@ -24,7 +24,7 @@ Tags::
 ## Notes
 
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°1 : Robots #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°1 : Robots 
 https://podcastaddict.com/episode/150287489 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°2 : Mail-Bomber #studioTjpFictionsSonores 
