@@ -12,7 +12,7 @@ Source::
 Type:: #SN/Podcast #SN/Série 
 MOC::
 Projet:: 
-Tags:: #WiP #watching 
+Tags:: #WiP #WiP 
 
 # Archive 81
 
