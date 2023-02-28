@@ -3,17 +3,17 @@ share: true
 category: source
 Alias:
 ---
+%%
 Date:: 2022-12-05
 Week:: 49
 Rating::
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/JDR 
-Status:: #wip 
-MOC::
+Type:: #projet/jdr/CultistesEtCatastrophes 
 Projet:: #CultistesEtCatastrophes 
-Tags:: #Maleville
+Status:: #WiP 
+%%
 
 # Maleville - Tables aléatoires
 
