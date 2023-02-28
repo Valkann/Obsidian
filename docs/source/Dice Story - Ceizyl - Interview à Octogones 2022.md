@@ -11,7 +11,7 @@ Summary::
 Author::
 Source:: 
 Type:: #SN/Podcast 
-Status:: #fin$
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 
