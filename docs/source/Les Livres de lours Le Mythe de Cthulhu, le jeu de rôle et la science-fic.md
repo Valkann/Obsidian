@@ -4,7 +4,7 @@ raindrop_last_update: 2023-02-22T08:44:59.852Z
 share: true
 category: source
 ---
-
+%%
 Rating:: 5
 Summary:: De bonnes idées pour un #jdr [Lovecraftien](Lovecraftien.md) dans le futur. De bonnes pistes de réflexion.
 Author::
@@ -12,10 +12,9 @@ Source:: http://livresdelours.blogspot.fr/2014/02/le-mythe-de-cthulhu-le-jeu-de-
 Type:: #SN/Article 
 Status:: #finished 
 MOC:: [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
-Projet:: 
-Tags:: #jdr #cthulhu #lovecraft 
+Projet:: #AppelDeCthulhu 
 Week:: 51
-
+%%
 ---
 # Les Livres de l'ours: Le Mythe de Cthulhu, le jeu de rôle et la science-fic
 
