@@ -10,8 +10,8 @@ Review:: Plutôt étrange comme expérience je ne saurais pas dire si j'ai aimé
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/
-Status:: 
+Type:: #SN/Podcast 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 
