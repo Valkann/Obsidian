@@ -9,12 +9,12 @@ PROJET:
 Source :
 Author :
 Date :
-Tags : #SN/
+Tags : #SN/JDR 
 share: true 
 category: projets/C&C/PBTA
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---

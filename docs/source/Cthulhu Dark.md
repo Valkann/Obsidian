@@ -4,14 +4,14 @@ category: source
 Alias:
 ---
 Date:: 2023-02-13
-Week:: [2023-07](2023-07.md)
+Week:: [2023-07](../week/2023-07.md)
 Rating::
 Review:: 
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/
-Status:: 
+Type:: #SN/JDR 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 

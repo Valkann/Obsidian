@@ -5,7 +5,7 @@ share: true
 category: projets/cthulhu_pbta/Livrets
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---
