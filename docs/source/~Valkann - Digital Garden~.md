@@ -7,10 +7,6 @@ category: source
 Alias:
 ---
 
-# ~Valkann - Digital Garden~
-
-***
-
 *Mon jardin digital pour partager mes notes, projets et idées.*
 
 # Point sur les semaines
