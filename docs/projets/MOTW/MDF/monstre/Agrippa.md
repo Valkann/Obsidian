@@ -5,14 +5,14 @@ Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
 ---
+%%
 jour::  [2023-01-24](2023-01-24.md)
 Week:: [2023-04](../../../../week/2023-04.md)
-mots:: 
-#250mots
-Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre , #projet/écriture
+mots:: #250mots
+Projet:: #MotW #MystereDeFrance
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Status:: #finished 
-
+%%
 # Agrippa ou le livre des démons
 
 ![0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg](../../../../notes/0c8d084d-285c-4e0f-b809-d518d1390fd9.jpg)
