@@ -7,7 +7,7 @@ category: projets/MOTW/MDF/monstre
 ---
 %%
 Projet:: #MotW , #MystereDeFrance 
-Type:: #SN/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 status:: #finished 
 jour::  [2023-01-17](2023-01-17.md) 
 mots:: *Trèfle - Appareils - Domino* 
