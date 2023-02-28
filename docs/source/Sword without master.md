@@ -13,7 +13,7 @@ Source :
 Type:: #SN/JDR #SN/Livre 
 MOC :
 Projet : 
-Tags : #reading 
+Tags : #WiP 
 
 # Sword without master
 
