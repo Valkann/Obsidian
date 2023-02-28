@@ -1,20 +1,14 @@
 ---
 MOC : [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source :
-Projets : [Mystères de France](Myst%C3%A8res%20de%20France.md)
 Created :  
 Alias :
 share: true 
 category: projets/MOTW/MDF/court
 Summary: 
-Tags:
-- JDR/Création 
-- JDR/Scénario
-- MystereDeFrance
-- court
-- writing
 published: true
 ---
+Projet:: #MotW , #MystereDeLOuest , #MystereDeFrance 
 Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
 #MotW #projet 
