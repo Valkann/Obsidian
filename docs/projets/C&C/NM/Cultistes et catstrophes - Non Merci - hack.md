@@ -5,19 +5,19 @@ Week:
 - 45
 - 49
 - 51
-URL:
-Alias:
-Type:
 MOC: [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le.md)
 PROJET: [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
-Source:
-Author:
-Date:
 share: true 
 category: projets/C&C/NM
 Summary: 
 ---
-Tags : #writing #projet #projet/jdr/CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
 
 # Cultistes et catastrophes - Non Merci - hack
 

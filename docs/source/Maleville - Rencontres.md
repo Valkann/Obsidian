@@ -3,17 +3,14 @@ share: true
 category: source
 Alias:
 ---
-Date:: 2022-12-06
+%%
+Date:: [2022-12-06](2022-12-06.md)
 Week:: 49
-Rating::
-Summary:: 
-Author::
 Source : [Maleville - Tables aléatoires](./Maleville%20-%20Tables%20al%C3%A9atoires.md)
-Type:: #SN/JDR #projet/JDR/TableAléatoire
-Status:: 
-MOC::
-Projets : #projet/jdr/CultistesEtCatastrophes 
-[Tags : #Maleville](Tags::)
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
 # Maleville - Rencontres
 
@@ -21,15 +18,6 @@ Projets : #projet/jdr/CultistesEtCatastrophes
 ***
 
 ## Notes
-
----
-Created :  2022-12-05
-Alias :
-Type : 
-- 
-MOC : 
-PROJET :
-
 
 
 ---

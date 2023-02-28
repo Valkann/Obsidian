@@ -4,7 +4,6 @@ title: Black Star Rise
 category: projets/Black_Star_Rise
 Summary: 
 Tags:
-- traduction
 - finished
 Type: projet
 ---

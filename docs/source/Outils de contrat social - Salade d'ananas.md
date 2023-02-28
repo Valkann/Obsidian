@@ -3,6 +3,7 @@ share: true
 category: source
 Alias:
 ---
+%%
 Date:: 2022-11-26
 Week:: 47
 Rating:: 4
@@ -13,8 +14,7 @@ Type:: #SN/Article
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #outil #jdr
-
+%%
 Outils de contrat social - Salade d'ananas
 
 ***

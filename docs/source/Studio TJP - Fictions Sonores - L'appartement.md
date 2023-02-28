@@ -24,28 +24,28 @@ Tags::
 ## Notes
 
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #01 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #01 
 https://podcastaddict.com/episode/150309333 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #02 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #02 
 https://podcastaddict.com/episode/150309344 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte 
 https://podcastaddict.com/episode/150309343 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #03 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #03 
 https://podcastaddict.com/episode/150309342 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #04 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #04 
 https://podcastaddict.com/episode/150309341 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #05 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #05 
 https://podcastaddict.com/episode/150309340 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Entracte 
 https://podcastaddict.com/episode/150309339 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #06 #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] L'appartement 🧟‍♂️ Fiction Sonore > Transmission #06 
 https://podcastaddict.com/episode/150309337 via @PodcastAddict
 
 ### L'appartement 🧟‍♂️ Fiction Sonore > Version intégrale (spéciale 10ans)

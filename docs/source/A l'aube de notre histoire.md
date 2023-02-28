@@ -6,14 +6,12 @@ Week : 45
 Rating :
 Summary : 
 ---
+%%
 Date : 2022-11-13-Sun
-Author :
-Source : 
-Type:: #SN/YouTube 
-MOC :
+Type:: #SN/Série 
 Projet : 
-Tags : #SN/Série #netflix #watching 
-
+Status :  #WiP 
+%%
 # A l'aube de notre histoire
 
 

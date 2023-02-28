@@ -24,22 +24,22 @@ Tags::
 ## Notes
 
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°1 : Robots #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°1 : Robots 
 https://podcastaddict.com/episode/150287489 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°2 : Mail-Bomber #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°2 : Mail-Bomber 
 https://podcastaddict.com/episode/150287488 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°4 : Horsemen #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°4 : Horsemen 
 https://podcastaddict.com/episode/150287486 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°5 : Mur #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°5 : Mur 
 https://podcastaddict.com/episode/150287485 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°6 : Terriens aux abois #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°6 : Terriens aux abois
 https://podcastaddict.com/episode/150287484 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°7 : Pop-Culture #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] Et la Terre éclata... 💥 Saga MP3 > Capsule n°7 : Pop-Culture 
 https://podcastaddict.com/episode/150287483 via @PodcastAddict
 
 ### Et la Terre éclata... 💥 Saga MP3 > Capsule n°8 : La réunion

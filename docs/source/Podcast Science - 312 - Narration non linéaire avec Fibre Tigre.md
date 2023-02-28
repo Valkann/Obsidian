@@ -12,7 +12,7 @@ Source :
 Type:: #SN/Podcast 
 MOC :
 Projet : 
-Tags : #podcast #finished  #game_design 
+Tags : #podcast #finished  #GameDesign 
 
 # Podcast Science - 312 - Narration non linéaire avec Fibre Tigre
 

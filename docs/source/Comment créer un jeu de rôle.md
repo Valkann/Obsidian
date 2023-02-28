@@ -7,14 +7,13 @@ Rating : 3
 Summary : peu de réelles infos pour moi en dehors des liens des articles de la vidéos.
 Type : youtube
 ---
+%%
 Date : 2022-10-29-Sat
 Author : [Thomas Munier](Thomas%20Munier.md)
 Source : https://www.youtube.com/watch?v=bbpSzGA-0tk
 Type : #SN/YouTube 
-MOC :
-Projet : 
-Tags : #finished  #youtube #jdr 
-
+Tags : #finished  
+%%
 # Comment créer un jeu de rôle
 
 

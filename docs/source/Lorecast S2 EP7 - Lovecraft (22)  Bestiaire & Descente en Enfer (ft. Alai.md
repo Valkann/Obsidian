@@ -5,7 +5,7 @@ share: true
 category: source
 date updated: 2023-02-11 16:36
 ---
-
+%%
 Date:: 2023-02-06
 Rating:: ⭐⭐⭐⭐
 Review:: Podcats sympa autour de lovecraft et du mythe, mériterais de plus rentrer dans le sujet.
@@ -14,10 +14,8 @@ Author::
 Source:: <https://syfantasy.fr/medias/podcast/lorecast-s2-ep7-lovecraft-2-2-bestiaire-descente-en-enfer-ft-alain-t-puyssegur-armel-gaulme-et-maxime-le-dain>
 Type:: #SN/Podcast
 Status:: #finished
-MOC::
-Projet::
-Tags:: #horreur, #lovecraft, #podcast
 Week:: [2023-06](../week/2023-06.md)
+%%
 
 ---
 
