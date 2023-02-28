@@ -11,7 +11,7 @@ Projets :
 share: true 
 category: projets/C&C
 ---
-Tags:: #wip #scénario #jdr #projet 
+
 Type:: #SN/JDR 
 
 ***
