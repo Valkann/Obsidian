@@ -13,7 +13,7 @@ Source : https://www.youtube.com/watch?v=yC0Gqt8VRKk&list=WL&index=2
 Type : #SN/Film 
 MOC :
 Projet : 
-Tags : #youtube #video #lovecraft #finished 
+Statis:: #youtube #video #lovecraft #finished 
 
 # A Lovecraft Dream - short animation movie
 
