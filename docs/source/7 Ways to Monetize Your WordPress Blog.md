@@ -5,17 +5,14 @@ share: true
 category: source
 Week: 51
 ---
-
-Rating:: 4
+%%
+Rating:: ⭐⭐⭐⭐
 Summary:: Des idées intéressantes, voir si cela peut s'appliquer à la #jdrAcademy 
-Author::
-Source:: 
 Source:: https://blog.hubspot.com/website/how-to-monetize-wordpress
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: SN/Article, finished
+Projet:: #podcast/jdracademy 
+%%
 
 ---
 # 7 Ways to Monetize Your WordPress Blog
