@@ -12,7 +12,7 @@ Source : [Maleville - Tables aléatoires](./Maleville%20-%20Tables%20al%C3%A9ato
 Type:: #SN/JDR #projet/JDR/TableAléatoire
 Status:: 
 MOC::
-Projets : #CultistesEtCatastrophes 
+Projets : #projet/jdr/CultistesEtCatastrophes 
 [Tags : #Maleville](Tags::)
 
 # Maleville - Rencontres
