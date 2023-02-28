@@ -1,114 +1,84 @@
 ---
 raindrop_id: 494839611
-raindrop_last_update: 2023-02-22T08:45:00.737Z
+raindrop_last_update: 2023-02-28T08:12:21.967Z
 share: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-01-03
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
 Rating::
 Review:: 
 Summary:: 
 Author::
 Source:: https://www.youtube.com/watch?v=oeLzRyHy8Dw
-Type:: #SN/Vidéo 
-Status:: 
-MOC::
-Projet:: 
-
-Week:: 01
-
+Type:: SN/ YouTube
+Status:: #WiP
+Tags:: #SN/YouTube
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
-# 2022 j’ai presque tout perdu…
+# 2022 j’ai presque tout perdu …
 
-Voilà l'année se termine et mes #objectifs2022 aussi. 
-Si tu veux savoir ce que j'en retiens et ce qui va changer dans ma vie, c'est par ici ;)
+Voila l'année se termine et mes #objectifs2022 aussi . 
+Si tu veux savoir ce que j'en retiens et ce qui va changer dans ma vie c'est par ici ;)
 
 bonne vidéo ;)
-Greg
+greg
+
+
+
+Tu as douleurs, mon nouveau livre contient les best off de mes solution !
+Commande mon nouveau livre : 
+https://tidd.ly/3yBXWo2
+
+Le GRAND GUIDE pour soigner tes douleurs 
+Ce livre contient les explications et les solutions pour 55 douleurs 
+mais surtout COMMENT les diagnostiquer et comment les comprendre pour mieux les traiter 
+
+
+
+👨🏻‍⚕️ Ce que je voulais te dire en plus  :
+————————————————————————————
+📚 Pour commander mon premier  livre ça se passe ici.
+
+https://tidd.ly/3bIxOjR 
+
+Il est disponible partout 😊
+Top 50 sur Amazon
+Top 5 sur la Fnac
+—————————————————————————————
+🧔🏻 Je m’appelle Gregoire , je suis kiné, depuis 10 ans , spécialisé en thérapie manuelle depuis 5 ans et prof en thérapie manuelle a l’ @itmp
+
+J’aime les blagues nazes, la vulgarisation médicale et apporter des solutions simples aux problèmes que les gens pensent compliquées.
+
+Je donne aussi des conférences et je viens d’écrire un livre
+
+Je fais pas mal de sport
+
+Mes vidéos sortent le  mercredi et le  dimanche soir à 18H
+
+
+Tu y trouvera des cas cliniques, des séances TAS de mouvements, des explications, des analyses et pleins d’autres trucs qui concernent ton corps et ta tête
+————————————————————————————
+🛎Abonnes toi à :
+
+-ma chaîne  YouTube :
+https://www.youtube.com/c/MajorMouvement
+
+-ma page Insta :
+https://www.instagram.com/majormouvement/?hl=fr
+
+
+Pour t’inscrire à ma prochaine formation 100 exos pour tes patients :
+
+https://www.itmp.fr/formations/les-100-meilleurs-exos-pour-vos-patients/
+
+⚠️ La formation est exclusivement ouverte aux professionnels de santé
+————————————————————————————
+
+Cette vidéo ne vaut pas pour consultation. En cas de douleur, parle en à un médecin ;
 
 ## Highlights
-
-```timestamp-url 
- https://www.youtube.com/watch?v=oeLzRyHy8Dw
- ```
-
-```timestamp 
- 00:57
- ```
-
-### Éducation 
-Traditionnellement : 
-
-$$ travail \Longrightarrow réussite$$ et 
-$$réussite \Longrightarrow bonheur$$
-```timestamp 
- 01:17
- ```
-
-### Réussite
-La réussite actuellement est basée sur des standards :
-- Notoriété
-- Argent
-- Reconnaissance
-
-```timestamp 
- 01:45
- ```
-
-==On vend une société de domination, de réussite par l'apparence==
-
-```timestamp 
- 02:03
- ```
-
-On fait croire que :
-$$Réussite(finacière, notoriété) \Longrightarrow Bonheur$$
-```timestamp 
- 03:41
- ```
-
-$$Travail + Objectifs = Réussite \Longrightarrow Bonheur$$
-
-Et finalement, cette équation n'est pas vraie. Cela n'implique pas forcément le Bonheur.
-
-```timestamp 
- 04:20
- ```
-
-Finalement, les objectifs ne rentrent pas dans l'équation : en ratant des objectifs, on peut être aussi heureux voir plus heureux.
-
-D'où l'équation du bonheur :
-
-```timestamp 
- 04:49
- ```
-
-![Équation du bonheur](../seeds/%C3%89quation%20du%20bonheur.md)
-
-Le bonheur, c'est avant tout l'absence de malheur.
-
-Voir [The Happiness Expert That Made 51 Million People Happier Mo Gawdat  E101](./The%20Happiness%20Expert%20That%20Made%2051%20Million%20People%20Happier%20Mo%20Gawdat%20%20E101.md)
-
-```timestamp 
- 06:30
- ```
-
-On a construit la réussite actuelle par la réussite financière : il faut gagner beaucoup d'argent et le montrer.
-
-```timestamp 
- 07:37
- ```
-
-Les ne sont pas plus heureux que nous, ils sont juste plus fort à raconter leur vie heureuse.
-
-Le succès ne rend pas plus heureux, la réussite ne rend pas plus heureux.
-
-Les piques d'alternance bonheur/ malheur sont plus élevés.
-
-```timestamp 
- 10:29
- ```
-
-![Sa définition du bonheur](../seeds/Sa%20d%C3%A9finition%20du%20bonheur.md)
 
