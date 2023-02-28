@@ -14,7 +14,7 @@ Source : https://youtu.be/c7NwHmHUYO0
 Type : #SN/YouTube 
 MOC : [MOC Méthodologie](MOC%20M%C3%A9thodologie.md)
 Projet : 
-Tags : #finished  #youtube #obsidian #BuJo
+Tags : #finished  
 %%
 
 # Bullet Journaling in Obsidian
