@@ -22,7 +22,7 @@ Tags : #podcast #finished
 
 ## Notes
 
-[Crée ta vie !] Trois conseils de rentrée #creeTaVie 
+[Crée ta vie !] Trois conseils de rentrée 
 https://podcastaddict.com/episode/144551547 via @PodcastAddict
 
 Se fixer des objectifs qui même non atteint permettent de s'améliorer
