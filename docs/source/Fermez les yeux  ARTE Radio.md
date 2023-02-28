@@ -13,7 +13,6 @@ Type:: #SN/Podcast
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #ASMR
 Week:: 51
 
 ***
