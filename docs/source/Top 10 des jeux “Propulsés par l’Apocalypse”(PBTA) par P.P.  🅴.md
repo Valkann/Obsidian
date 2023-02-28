@@ -22,7 +22,7 @@ Tags : #podcast #jdr #finished
 
 ## Notes
 
-[Coup Critique] Top 10 des jeux “Propulsés par l’Apocalypse”(PBTA) par P.P.  🅴 #coupCritique 
+[Coup Critique] Top 10 des jeux “Propulsés par l’Apocalypse”(PBTA) par P.P.  🅴 
 https://podcastaddict.com/episode/144108736 via @PodcastAddict
 
 10. Kishu : https://www.drivethrurpg.com/product/319947/KISHU? 
