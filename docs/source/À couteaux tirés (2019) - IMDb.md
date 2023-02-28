@@ -15,7 +15,7 @@ Author::
 Source:: https://www.imdb.com/title/tt8946378/
 Type:: SN/ Film
 Status:: #WiP
-Tags:: #finished, #SN/Vidéo
+Tags:: #finished, #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***
