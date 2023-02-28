@@ -8,13 +8,13 @@ Summary:
 Tags:
 - JDR/Création 
 - JDR/Scénario
-- MDF
+- MystereDeFrance
 - long
 - writing
 Created :  2021-09-08-Wed
 Alias :
 ---
-Type:: #SN/JDR/MotW/scenario 
+Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
 Tags : #JDR/Création #JDR/Scénario #MotW #projet 
 
