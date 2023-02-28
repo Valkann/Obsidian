@@ -13,7 +13,6 @@ Type:: #SN/Article
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #outil #jdr
 
 Outils de contrat social - Salade d'ananas
 
