@@ -10,11 +10,11 @@ Rating:: 4
 Summary:: ça marchouille un peu
 Author::
 Source:: https://www.youtube.com/watch?v=kDQ0fZ7RWjc
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: 
 MOC::
 Projet:: 
-Tags:: #finished, #SN/Vidéo
+Tags:: #finished, #SN/YouTube
 
 ---
 # Unclog Your Sinus Mucus & Congestion Within 60 Seconds | Dr. Mandell
