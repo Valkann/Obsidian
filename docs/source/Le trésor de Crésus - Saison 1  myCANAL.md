@@ -15,7 +15,7 @@ Type:: #SN/Film
 Status:: 
 MOC::
 Projet:: 
-Tags:: #watching, #WiP
+Tags:: #WiP, #WiP
 Week:: 01
 
 ***
