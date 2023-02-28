@@ -12,7 +12,6 @@ published: true
 Week:: 50
 Type:: #projet/JDR/MotW/scenario/en 
 status:: #WiP 
-Tags:: #JDR/Création, #JDR/Scénario, #MystereDeFrance, #court, #writing#MotW 
 
 ***  
 
