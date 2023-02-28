@@ -13,7 +13,6 @@ Type:: #SN/Article
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #podcast #dons #jdrAcademy 
 Week:: 51
 
 ***
