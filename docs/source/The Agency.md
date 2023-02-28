@@ -3,17 +3,13 @@ share: true
 category: source
 Alias:
 ---
-Date:: 2022-12-05
+%%
+Date:: [2022-12-05](2022-12-05.md)
 Week:: 49
-Rating::
-Summary:: 
-Author::
-Source:: 
-Type:: #SN/JDR 
-Status:: #wip 
-MOC::
-Projet:: 
-Tags:: #projet/jdr/CultistesEtCatastrophes 
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
 # The Agency
 
