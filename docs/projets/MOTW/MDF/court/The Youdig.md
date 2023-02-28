@@ -10,9 +10,9 @@ Alias:
 published: true
 ---
 Week:: 50
-Type:: #SN/JDR/MotW/scenario/en 
+Type:: #projet/JDR/MotW/scenario/en 
 status:: #WiP 
-Tags:: #JDR/Création, #JDR/Scénario, #MDF, #court, #writing#MotW 
+Tags:: #JDR/Création, #JDR/Scénario, #MystereDeFrance, #court, #writing#MotW 
 
 ***  
 
