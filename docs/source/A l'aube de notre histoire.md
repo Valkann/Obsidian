@@ -12,7 +12,7 @@ Source :
 Type:: #SN/YouTube 
 MOC :
 Projet : 
-Tags : #TV_Series #netflix #watching 
+Tags : #SN/Série #netflix #watching 
 
 # A l'aube de notre histoire
 
