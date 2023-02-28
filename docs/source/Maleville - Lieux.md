@@ -12,7 +12,7 @@ Source::  [Tables aléatoires](Tables%20al%C3%A9atoires.md)
 Type:: #SN/JDR #projet/JDR/TableAléatoire 
 Status:: 
 MOC::
-Projet:: #CultistesEtCatastrophes 
+Projet:: #projet/jdr/CultistesEtCatastrophes 
 Tags:: 
 
 # Maleville - Lieux
