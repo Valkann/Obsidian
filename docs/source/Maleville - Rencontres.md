@@ -9,7 +9,7 @@ Rating::
 Summary:: 
 Author::
 Source : [Maleville - Tables aléatoires](./Maleville%20-%20Tables%20al%C3%A9atoires.md)
-Type:: #SN/JDR #TableAléatoire
+Type:: #SN/JDR #projet/JDR/TableAléatoire
 Status:: 
 MOC::
 Projets : #CultistesEtCatastrophes 
