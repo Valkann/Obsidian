@@ -8,7 +8,7 @@ Summary:
 Tags:
 - JDR/Création 
 - JDR/Scénario
-- MDF
+- MystereDeFrance
 - long
 - writing
 Created :  2021-09-08-Wed
