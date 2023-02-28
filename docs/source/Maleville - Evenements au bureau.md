@@ -3,17 +3,13 @@ share: true
 category: source
 Alias:
 ---
-Date:: 2022-12-01
+%%
+Date:: [2022-12-01](2022-12-01.md)
 Week:: 48
-Rating::
-Summary:: 
-Author::
-Source:: 
-Type:: #SN/JDR 
-Status:: #wip 
-MOC::
+Type:: #projet/jdr/CultistesEtCatastrophes 
 Projet:: #CultistesEtCatastrophes 
-Tags:: 
+Status:: #WiP 
+%%
 
 # Maleville - Evenements au bureau
 
