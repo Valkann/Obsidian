@@ -4,7 +4,7 @@ raindrop_last_update: 2023-02-22T08:44:59.780Z
 share: true
 category: source
 ---
-
+%%
 Date:: 2023-01-14
 Rating:: ⭐⭐⭐⭐⭐
 Review:: Idée intéressnate que je vais essayer de développer
@@ -17,7 +17,7 @@ MOC::
 Projet:: 
 Tags:: #GameDesign 
 Week:: 02
-
+%%
 ***
 # FibreTigre sur Twitter : "Il y a cette idée de Salomon qui fait de la vérit
 
