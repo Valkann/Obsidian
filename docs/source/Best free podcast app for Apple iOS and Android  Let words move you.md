@@ -11,8 +11,8 @@ Review::
 Summary:: 
 Author::
 Source:: https://castbox.fm/creator/channels/1996811?chsource=claim&country=fr&noreload=1&tab=2
-Type:: #SN/
-Status:: 
+Type:: #SN/Article 
+Status:: #WiP  
 MOC::
 Projet:: 
 
