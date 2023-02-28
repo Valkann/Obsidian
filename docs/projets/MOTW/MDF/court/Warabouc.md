@@ -8,7 +8,7 @@ Summary:
 Tags:
   - JDR/Création
   - JDR/Scénario
-  - MDF
+  - MystereDeFrance
   - court
   - writing
 Created: 2021-09-08-Wed
@@ -17,8 +17,7 @@ published: true
 ---
 type:: #projet/JDR/MotW/scenario 
 status:: #published 
-Tags : #JDR/Création #JDR/Scénario #MotW 
-
+Projet::
 ***  
 
 # Le Warabouc
