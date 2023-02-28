@@ -12,7 +12,7 @@ Source :
 Type:: #SN/YouTube  #youtube 
 MOC :
 Projet : 
-Tags : #youtube #finished  #vidéo 
+Tags : #youtube #finished  
 
 # Experience TiddlyWiki Fluency - Creating a Reading List
 
