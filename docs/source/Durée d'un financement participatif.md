@@ -11,9 +11,7 @@ Author::
 Source:: https://twitter.com/matthieub_/status/1515959496228675586
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #jdr #foulancement
+
 
 # Durée d'un financement participatif
 
