@@ -1,23 +1,23 @@
 ---
 raindrop_id: 504626126
-raindrop_last_update: 2023-02-22T08:45:01.069Z
+raindrop_last_update: 2023-02-28T08:12:21.450Z
 share: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-01-22
-Rating:: ⭐⭐⭐⭐
-Review:: Marrant de voir que dans cette époque où tout le monde parle d'IA, des vieux épisodes de 1968 abordait déjà le thème et philosophaient dessus.
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://fr.wikipedia.org/wiki/Unit%C3%A9_multitronique
-Type:: #SN/Série 
-Status:: #finished 
-MOC::
-Projet:: 
-
-Week:: 03
-
+Type:: SN/ Article
+Status:: #WiP
+Tags:: #SN/Vidéo
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
 # Unité multitronique — Wikipédia
 
