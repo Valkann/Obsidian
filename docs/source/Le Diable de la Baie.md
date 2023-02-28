@@ -10,7 +10,7 @@ Review::
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/JDR/MotW/Monstre 
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #WiP 
 MOC::
 Projet:: 
@@ -23,7 +23,7 @@ Tags::
 
 ## Notes
 
-Monstre pour #MotW et #MdO 
+Monstre pour #MotW et #MystereDeLOuest 
 
 Voici une idée de monstre pour le jeu de rôle Monster of the Week inspiré du folklore breton :
 
