@@ -5,13 +5,14 @@ Source : 250 mots par jour
 share: true
 category: projets/250mots
 ---
+%%
 jour::  [2023-02-04](2023-02-04.md)
 Week:: [2023-05](2023-05.md)
-mots:: 
-#250mots 
-Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre 
+mots:: #250mots 
+Projet:: #MotW #MystereDeFrance
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Status:: #WiP #projet 
+%%
 # Korrigan
 
 Les korrigans font aussi partie du petit peuple, ce sont des esprits prenant l'apparence de nains dans la tradition celtique, et en particulier bretonne. Leur apparence est variée, ils peuvent être dotés d'une magnifique chevelure et d'yeux rouge lumineux, ou être décrits comme étant petits, noirs et velus, coiffés de chapeaux plats avec des rubans de velours. Les filles étant coiffées de bonnets violets.
