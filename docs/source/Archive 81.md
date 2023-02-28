@@ -12,7 +12,7 @@ Source::
 Type:: #SN/Podcast #SN/Série 
 MOC::
 Projet:: 
-Tags:: #to_discover #watching 
+Tags:: #WiP #watching 
 
 # Archive 81
 
