@@ -5,6 +5,14 @@ Tags : #SN/JDR
 share: true 
 category: projets/C&C/PBTA
 ---
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
+
 # Cultistes & Catstrophes - Hack PbtA
 
 ***
