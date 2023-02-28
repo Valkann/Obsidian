@@ -10,10 +10,9 @@ Summary::
 Author::
 Source:: https://www.cultura.com/procrastiner-pour-mieux-creer-tea-9782330147525.html
 Type:: #SN/Livre 
-Status:: 
+Status:: #WiP 
 MOC::
 Projet:: 
-Tags:: #création_de_contenu , #livre, #organisation, #to_discover, #SN/Livre #WiP
 Week:: 52
 
 ***
