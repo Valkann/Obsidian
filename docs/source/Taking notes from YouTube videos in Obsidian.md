@@ -9,7 +9,7 @@ Rating::⭐⭐⭐⭐⭐
 Summary:: franchement très cool, des plugins que je ne connaissais pas Obsidian et que je mets en pratique depuis.
 Author:: [Nicole van der Hoeven](Nicole%20van%20der%20Hoeven.md)
 Source:: https://youtu.be/qjWq4ck2-0o
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 
