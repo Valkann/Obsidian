@@ -42,6 +42,7 @@ Lorsque que la situation est *désespérée* et que tu *Agis sous la pression* p
 +1 Vitalité
 +1 aux dégats
 Comandement et moral
+Un move qui permet de se retrouver sur une scène pour aider quelqu'un alors qu'il n'était pas là en échange d'un souvenir
 
 ## Liens
 
