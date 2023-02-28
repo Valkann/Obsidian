@@ -15,7 +15,7 @@ Type : #SN/Podcast
 MOC :
 Projet : 
 Status : #finished 
-#projet #jdrAcademy 
+#projet 
 %%
 # Blind Test - Chef de Groupe -
 
