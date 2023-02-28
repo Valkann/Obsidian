@@ -16,6 +16,7 @@ Alias :
 ---
 Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
+Projet:: ##
 Tags : #JDR/Création #JDR/Scénario #MotW #projet 
 
 ***
