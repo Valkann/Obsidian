@@ -13,7 +13,7 @@ Source :
 Type : #SN/Podcast 
 MOC :
 Projet : 
-Tags : #podcast #projet #published
+Tags : #podcast #projet #finished
 
 # JDR Academy - Blind Test – Là-Haut dans les Étoiles
 
