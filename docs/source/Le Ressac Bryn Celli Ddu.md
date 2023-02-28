@@ -10,7 +10,7 @@ Review::  Un bon potentiel, mais nécessite une réécriture complète pour êtr
 Summary::
 Author::
 Source:: 
-Type:: #SN/JDR 
+Type:: #projet/JDR 
 Status:: #finished 
 MOC::
 Projet:: 
