@@ -17,9 +17,7 @@ published: true
 ---
 type:: #projet/JDR/MotW/scenario 
 status:: #published 
-
-Tags : #JDR/Création #JDR/Scénario #MotW 
-
+Projet::
 ***  
 
 # Le Youdig
