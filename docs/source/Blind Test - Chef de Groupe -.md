@@ -13,9 +13,8 @@ Author :
 Source : 
 Type : #SN/Podcast 
 MOC :
-Projet : 
+Projet : #podcast/jdracademy 
 Status : #finished 
-#projet #jdrAcademy 
 %%
 # Blind Test - Chef de Groupe -
 
