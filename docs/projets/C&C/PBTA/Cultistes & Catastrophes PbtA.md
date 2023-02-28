@@ -1,23 +1,18 @@
 ---
 Created : 2022-01-02-Sun
 Alias :
-Type : [Note Source](Note%20Source.md)
-MOC :  
-- [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
-PROJET: 
-- [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
-Source :
-Author :
-Date :
 Tags : #SN/JDR 
 share: true 
 category: projets/C&C/PBTA
-Summary: 
-Tags:
-- SN/jdr
-- writing
-Type: projet
 ---
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
+
 # Cultistes & Catstrophes - Hack PbtA
 
 ***
