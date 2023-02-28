@@ -4,11 +4,13 @@ dg-publish: true
 category: motw/monstres
 Alias:
 ---
+%%
 Date:: 2023-02-24
 Week:: [2023-08](../../week/2023-08.md)
-Type:: #SN/JDR 
 Status:: #WiP 
-Projet:: #projet/jdr 
+Projet:: #MotW 
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+%%
 ***  
 
 ## Histoire
