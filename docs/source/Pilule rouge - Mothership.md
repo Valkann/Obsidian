@@ -13,7 +13,7 @@ Source : https://podcastaddict.com/episode/138522551
 Type : [Note Source](Note%20Source.md)
 MOC :
 Projet : 
-Tags : #podcast #finished #ActualPlay #jdr 
+Tags : #podcast #finished 
 
 # Pilule rouge - Mothership
 
