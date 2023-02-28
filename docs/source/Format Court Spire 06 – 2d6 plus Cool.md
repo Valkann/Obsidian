@@ -13,7 +13,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://2d6pluscool.ovh/index.php/2021/06/30/format-court-spire-06/
-Type:: SN/ Podcast
+Type:: #SN/ Podcast
 Status:: #WiP
 
 Week:: [2023-09](../week/2023-09.md)
