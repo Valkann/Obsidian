@@ -11,13 +11,13 @@ Alias:
 
 ***
 
-
-# Notes et idées
+*Mon jardin digital pour partager mes notes, projets et idées.*
 
 # Point sur les semaines
-Dans [~Journal~](~Journal~.md) je fais le point sur les médias que j'ai consommés et les idées que j'en ai retiré
 
-# JDR 
+Dans [~Journal~](~Journal~.md) je fais le point sur les médias que j'ai consommés et les idées que j'en ai retiré.
+
+# Jeux de rôles
 
 ## Idées 
 
