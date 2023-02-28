@@ -10,7 +10,7 @@ Summary:
 Tags:
 - JDR/Création 
 - JDR/Scénario
-- MDF
+- MystereDeFrance
 - court
 - writing
 published: true
