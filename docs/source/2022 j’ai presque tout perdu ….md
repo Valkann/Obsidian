@@ -21,7 +21,7 @@ Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%
 ***
 # 2022 j’ai presque tout perdu …
 
-Voila l'année se termine et mes #objectifs2022 aussi . 
+Voila l'année se termine et mes objectifs2022 aussi . 
 Si tu veux savoir ce que j'en retiens et ce qui va changer dans ma vie c'est par ici ;)
 
 bonne vidéo ;)
