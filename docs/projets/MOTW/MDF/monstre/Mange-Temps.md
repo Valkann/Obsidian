@@ -8,11 +8,9 @@ category: projets/MOTW/MDF/monstre
 %%
 jour::  [2023-01-26](2023-01-26.md)
 Week:: [2023-04](../../../../week/2023-04.md)
-mots:: 
-#250mots
+mots:: #250mots
 Projet:: #MotW 
-Type:: #projet/JDR/MotW/Monstre, #projet/écriture
-Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MystereDeFrance #monstre #writing 
+Type:: #projet/JDR/MotW/Monstre 
 status:: #finished 
 %%
 # Mange-Temps
