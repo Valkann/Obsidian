@@ -11,9 +11,10 @@ Author::
 Source:: 
 Type:: #SN/JDR #SN/Livre 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #CultistesEtCatastrophes 
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
 # The Bad Time Game SRD
 
