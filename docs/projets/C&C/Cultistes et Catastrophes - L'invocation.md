@@ -5,7 +5,7 @@ category: projets/C&C
 Summary: 
 ---
 
-#scénario #CultistesEtCatastrophes 
+#scénario #projet/jdr/CultistesEtCatastrophes 
 
 Dans un petit village reculé, des cultistes se réunissent pour invoquer un dieu ancien et puissant. Mais ils sont bien loin de se douter des conséquences de leurs actions.
 
