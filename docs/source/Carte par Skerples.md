@@ -13,7 +13,6 @@ Type:: #SN/Carte, #SN/JDR
 Status:: #finished 
 MOC::
 Projet:: 
-Tags:: #jdr #carte 
 
 # Carte par Skerples
 
