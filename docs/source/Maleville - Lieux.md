@@ -5,15 +5,11 @@ Alias:
 ---
 Date:: 2022-12-06
 Week:: 49
-Rating::
-Summary:: 
-Author::
 Source::  [Tables aléatoires](Tables%20al%C3%A9atoires.md)
-Type:: #SN/JDR #projet/JDR/TableAléatoire 
-Status:: 
-MOC::
-Projet:: #projet/jdr/CultistesEtCatastrophes 
-Tags:: 
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
 # Maleville - Lieux
 
