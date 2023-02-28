@@ -6,14 +6,13 @@ Week : 46
 Rating : 5
 Summary : Super intéressant de déocuvrir la puissance de cet outil. Un peu en dehors de ce que je pensais faire (web clipping) mais donne envie d'utiliser cet outil pour des Fictions Interractives
 ---
+%%
 Date : 2022-11-17-Thu
 Author : [Soren Bjornstad](Soren%20Bjornstad.md)
-Source : 
-Type:: #SN/YouTube  #youtube 
-MOC :
+Type:: #SN/YouTube  
 Projet : 
-Tags : #youtube #finished  #vidéo 
-
+Tags :  #finished  
+%%
 # Experience TiddlyWiki Fluency - Creating a Reading List
 
 
