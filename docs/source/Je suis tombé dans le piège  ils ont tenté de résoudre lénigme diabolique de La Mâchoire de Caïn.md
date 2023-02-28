@@ -11,12 +11,12 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.radiofrance.fr/franceinter/je-suis-tombe-dans-le-piege-ils-ont-tente-de-resoudre-l-enigme-diabolique-de-la-machoire-de-cain-4468389
-Type:: #SN/
+Type:: #SN/Livre 
 Status:: 
 MOC::
 Projet:: 
 
-Week:: [2023-08](2023-08.md)
+Week:: [2023-08](../week/2023-08.md)
 
 ***
 # "Je suis tombé dans le piège" : ils ont tenté de résoudre l'énigme diabolique de "La Mâchoire de Caïn"
