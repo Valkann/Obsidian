@@ -13,7 +13,7 @@ Source : https://www.youtube.com/watch?v=FrcoQhEztVw
 Type : #SN/YouTube 
 MOC :
 Projet : 
-Tags : #finished  #youtube 
+Tags : #finished  
 
 # Comment ARRÊTER de dire Euh
 
