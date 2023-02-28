@@ -1,26 +1,25 @@
 ---
 raindrop_id: 509515605
-raindrop_last_update: 2023-02-22T08:45:00.654Z
+raindrop_last_update: 2023-02-28T08:12:22.663Z
 share: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-01-29
-Week:: [2023-04](../week/2023-04.md)
-Rating:: ⭐⭐⭐⭐
-Review:: Animé assez sympa et assez intéressant, mais qui se termine vraiment très abruptement.
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://m.imdb.com/title/tt7415066/
-Type:: #SN/Série 
-Status:: #finished 
-MOC::
-Projet:: 
-
-Week:: 04
-
+Type:: SN/ Série
+Status:: #WiP
+Tags:: #SN/YouTube
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
-# Sword Gai: The Animation (Série télévisée 2018) - IMDb
+# Sword Gai: The Animation (Série télévisée 2018)
 
 Sword Gai: The Animation: With Erica Lindbeck, Zach Aguilar, Patrick Seitz, Billy Kametz. A boy bonds with a demon sword.
 
