@@ -17,7 +17,13 @@ share: true
 category: projets/C&C/NM
 Summary: 
 ---
-Tags : #writing #projet #CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
 
 # Cultistes et catastrophes - Non Merci - hack
 
