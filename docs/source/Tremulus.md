@@ -22,10 +22,6 @@ Status::
 
 ## Notes
 
-
-
-# Tremulus
-
 Reason: Knowledge, education, rational thinking, calmness. 
 
 Passion: Instinct, empathy, intuition, emotional strength.
