@@ -12,7 +12,7 @@ Source : https://www.youtube.com/watch?v=tGe1-ms4nco
 Type:: #SN/YouTube 
 MOC :
 Projet : 
-Tags : #watching #youtube 
+Stat : #WiP #youtube 
 
 # Dis, c'est quoi ton jeu - ELESTRIA - interview de Syltharius
 
