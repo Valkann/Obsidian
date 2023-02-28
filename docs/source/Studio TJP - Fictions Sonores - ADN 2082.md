@@ -24,10 +24,10 @@ Tags::
 ## Notes
 
 
-[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 01 [Bienvenue dans mon monde] #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 01 [Bienvenue dans mon monde] 
 https://podcastaddict.com/episode/150309336 via @PodcastAddict
 
-[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 02 [Le LAB] #studioTjpFictionsSonores 
+[Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 02 [Le LAB] 
 https://podcastaddict.com/episode/150309335 via @PodcastAddict
 
 [Studio TJP 💊 Fictions Sonores] ADN 2082 🧬 Fiction Sonore > ADN 2082 : Episode 03 [Dans la pénombre] #studioTjpFictionsSonores 
