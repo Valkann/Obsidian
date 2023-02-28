@@ -3,17 +3,15 @@ share: true
 category: source
 Alias:
 ---
+%%
 Date:: 2022-11-26
 Week:: 47
 Rating:: 5
 Summary:: Analyse sympa et rapide
-Author::
 Source:: https://twitter.com/matthieub_/status/1515959496228675586
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #jdr #foulancement
+%%
 
 # Durée d'un financement participatif
 
