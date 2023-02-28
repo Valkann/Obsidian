@@ -1,21 +1,23 @@
 ---
 raindrop_id: 493803330
-raindrop_last_update: 2023-02-22T08:45:01.160Z
+raindrop_last_update: 2023-02-28T08:12:22.389Z
 share: true
 category: source
+dg-publish: true
 ---
 
-Rating::⭐⭐⭐⭐⭐
-Summary:: Cozy Mystery à fond j'ai bien aimé et me suis pris au jeu d'essayer de résoudre l'égnime.
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
+Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt8946378/
-Type:: #SN/Film 
-Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #finished
-Week:: 52
-
+Type:: SN/ Film
+Status:: #WiP
+Tags:: #finished, #SN/Vidéo
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
 # À couteaux tirés (2019) - IMDb
 
