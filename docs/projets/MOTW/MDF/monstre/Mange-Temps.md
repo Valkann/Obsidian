@@ -11,8 +11,8 @@ Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
 Projet:: #MotW 
-Type:: #SN/JDR/MotW/Monstre, #projet/écriture
-Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MDF #monstre #writing 
+Type:: #projet/JDR/MotW/Monstre, #projet/écriture
+Tags:: #JDR/Création #JDR/Scénario #MotW #WiP #MystereDeFrance #monstre #writing 
 status:: #finished 
 %%
 # Mange-Temps
