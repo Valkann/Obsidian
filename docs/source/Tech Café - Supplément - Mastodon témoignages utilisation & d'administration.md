@@ -12,7 +12,7 @@ Source :
 Type:: #SN/Podcast 
 MOC :
 Projet : 
-Tags : #podcast #finished #fediverse
+Tags : #podcast #finished 
 
 # Tech Café - Supplément - Mastodon témoignages utilisation & d'administration
 
