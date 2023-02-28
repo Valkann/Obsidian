@@ -13,7 +13,7 @@ Type:: #SN/JDR
 Status:: #wip 
 MOC::
 Projet:: 
-Tags:: #CultistesEtCatastrophes 
+Tags:: #projet/jdr/CultistesEtCatastrophes 
 
 # The Agency
 
