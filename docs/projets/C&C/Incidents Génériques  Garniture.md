@@ -1,18 +1,16 @@
 ---
 Created :  2022-12-26
 Alias :
-Type : 
-- [Note Permanente](Note%20Permanente.md)
-MOC : 
-PROJET :
-Source : [Cultistes et catstrophes - Non Merci - hack](Cultistes%20et%20catstrophes%20-%20Non%20Merci%20-%20hack.md)
-Projets :
 share: true 
 category: projets/C&C
-Tags : #projet/jdr/CultistesEtCatastrophes/Générique
 ---
 
-#projet/jdr/CultistesEtCatastrophes/Générique
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
 ***
 
 ### Incidents Génériques / Garniture
