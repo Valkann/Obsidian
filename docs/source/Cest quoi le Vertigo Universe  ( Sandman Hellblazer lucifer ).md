@@ -20,7 +20,7 @@ Projet::
 Week:: [2023-08](../week/2023-08.md)
 
 ***
-# C'est quoi le Vertigo Universe ? ( #Sandman #Hellblazer #lucifer )
+# C'est quoi le Vertigo Universe ? ( Sandman #Hellblazer #lucifer )
 
 Le Serveur Discord avec pleins d'autres vidéaste : https://discord.gg/adYDChBry6
 Est ce que cette vidéo vous a donnez envie de découvrir l'univers Vertigo ?
