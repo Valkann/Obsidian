@@ -11,8 +11,7 @@ Author::
 Source:: 
 Type:: #SN/JDR 
 Status:: #wip 
-MOC::
-Projet:: #CultistesEtCatastrophes 
+Projet:: #projet/jdr/CultistesEtCatastrophes 
 Tags:: 
 
 # Maleville - Evenements au bureau
