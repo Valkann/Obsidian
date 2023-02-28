@@ -14,8 +14,6 @@ Author::
 Source:: https://m.youtube.com/watch?feature=youtu.be&v=gy0rtNYpT_A
 Type:: #SN/YouTube 
 Status:: #watching 
-MOC::
-Projet:: 
 Tags:: #GameDesign, #jdr
 Week:: [2023-07](../week/2023-07.md)
 
