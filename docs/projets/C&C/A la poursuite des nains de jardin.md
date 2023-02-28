@@ -11,14 +11,15 @@ Projets :
 share: true 
 category: projets/C&C
 ---
-Tags:: #wip #scénario #jdr #projet 
-Type:: #SN/JDR 
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
 
 ***
 
 # À la poursuite des nains de jardin
-
-#scénario #projet/jdr/CultistesEtCatastrophes 
 
 ## Problème initial
 
