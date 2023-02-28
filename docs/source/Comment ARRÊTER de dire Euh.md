@@ -10,7 +10,7 @@ Type : youtube
 Date : 2022-10-29-Sat
 Author :
 Source : https://www.youtube.com/watch?v=FrcoQhEztVw
-Type : #SN/Vidéo 
+Type : #SN/YouTube 
 MOC :
 Projet : 
 Tags : #finished  #youtube 

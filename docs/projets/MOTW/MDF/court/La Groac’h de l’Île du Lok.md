@@ -15,7 +15,7 @@ Tags:
 - writing
 published: true
 ---
-Type:: #SN/JDR/MotW/scenario 
+Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
 #MotW #projet 
 

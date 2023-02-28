@@ -14,7 +14,7 @@ Tags:
 Created :  2021-09-08-Wed
 Alias :
 ---
-Type:: #SN/JDR/MotW/scenario 
+Type:: #projet/JDR/MotW/scenario 
 status:: #WiP 
 #MotW , #projet 
 

@@ -9,7 +9,7 @@ Rating::⭐⭐⭐⭐
 Summary:: Documentaire intéressant sur l'ayurveda
 Author::
 Source:: https://www.youtube.com/watch?v=g87wddnAjkM
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

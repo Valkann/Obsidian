@@ -9,7 +9,7 @@ Rating:: 3
 Summary:: Mouais pas super convaincu par les différentes solutions
 Author::
 source:: [8 Mind-Blowing Websites You Probably Didn't Know Existed](https://www.youtube.com/watch?v=PiYS3PMXOjc&list=WL&index=2&t=5s)
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

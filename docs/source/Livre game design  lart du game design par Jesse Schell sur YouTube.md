@@ -9,7 +9,7 @@ Rating::⭐⭐⭐
 Summary:: Présentation du livre, autant le lire directement...
 Author::
 Source:: https://youtu.be/8BVKKGrnvP0
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

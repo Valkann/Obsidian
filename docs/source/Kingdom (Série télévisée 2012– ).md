@@ -1,24 +1,25 @@
 ---
 raindrop_id: 516650936
-raindrop_last_update: 2023-02-22T08:45:01.051Z
+raindrop_last_update: 2023-02-28T08:12:22.840Z
 share: true
 category: source
+dg-publish: true
 ---
 
-Date:: 2023-02-11
-Rating:: ⭐⭐⭐⭐⭐
-Review:: Franchement plaisant à regarder, je me laisse prendre par cette série quand une nouvelle saison sort.
+%%
+Date:: [<% tp.date.now("YYYY-MM-DD") %>](%3C%25%20tp.date.now(%22YYYY-MM-DD%22)%20%25%3E.md)
+Rating::
+Review:: 
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt2404499/?ref_=fn_al_tt_6
-Type:: #SN/
-Status:: 
-MOC::
-Projet:: 
-Week:: [2023-06](../week/2023-06.md)
-
+Type:: SN/ Série
+Status:: #WiP
+Tags:: #SN/YouTube
+Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
+%%
 ***
-# Kingdom (Série télévisée 2012– ) - IMDb
+# Kingdom (Série télévisée 2012– )
 
 Kingdom: Avec Masakazu Morita, Rie Kugimiya, Francesca Calo, Melissa Medina. Dans la Chine ancienne, un jeune garçon rêve de devenir le plus grand général du royaume Qin.
 

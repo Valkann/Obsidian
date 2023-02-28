@@ -9,7 +9,7 @@ Rating:: ⭐⭐⭐⭐⭐
 Summary:: non pas que la vidéo soit très bonne ou très inovante mais j'ai enfin repris la création de notes permanente grâce à elle donc merci à l'auteur.
 Author::
 Source:: https://www.youtube.com/watch?v=SZBtX3c9zxE&list=WL&index=35
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

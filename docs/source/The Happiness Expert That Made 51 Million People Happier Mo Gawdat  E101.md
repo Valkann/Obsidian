@@ -15,7 +15,7 @@ Author::
 Source:: https://www.youtube.com/watch?v=csA9YhzYvmk
 Type:: SN/ YouTube
 Status:: #WiP
-Tags:: #SN/Vidéo
+Tags:: #SN/YouTube
 Week:: [<% tp.date.now("YYYY-WW") %>](%3C%25%20tp.date.now(%22YYYY-WW%22)%20%25%3E.md)
 %%
 ***

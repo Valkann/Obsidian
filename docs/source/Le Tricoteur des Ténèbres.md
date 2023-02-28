@@ -3,6 +3,7 @@ share: true
 category: source
 Alias:
 ---
+%%
 Date:: 2023-01-26
 Week:: [2023-04](../week/2023-04.md)
 Rating::
@@ -10,12 +11,12 @@ Review::
 Summary:: 
 Author::
 Source:: 
-Type:: #SN/JDR/MotW/Monstre 
 Status:: #WiP 
 MOC::
-Projet:: 
+Projet:: #MotW 
+Type:: #projet/JDR/MotW/Monstre , #projet/écriture
 Tags:: 
-
+%%
 # Le Tricoteur des Ténèbres
 
 
