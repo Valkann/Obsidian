@@ -4,6 +4,7 @@ Alias :
 Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
+dg-publish: true
 ---
 %%
 Projet:: #MotW , #MystereDeFrance 
