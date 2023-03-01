@@ -7,6 +7,8 @@ Status: #WiP
 dg-publish: true
 ---
 
+# Kādo de monogatari o kataru sūpā sentai gēmu
+
 Jeu de super Sentaï pour raconter des histoires avec des cartes
 
 Vous êtes des Super Sentaï, vous avez vaincu une première fois la créature envoyée pour détruire la ville, mais les envahisseurs l’ont transformé en monstre géant, vous avez appelé votre Robot géant afin de la combattre.
