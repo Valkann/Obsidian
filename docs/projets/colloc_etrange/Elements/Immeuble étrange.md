@@ -9,10 +9,9 @@ Type:: #projet/JDR
 Status:: #WiP 
 %%
 
-# Immeuble étrange 
 
-Des évènements étranges dans l'immeuble des personnages.
-Plutôt organiser par étages.
+*Des évènements étranges dans l'immeuble des personnages.
+Plutôt organiser par étages.*
 
 ## Sous-sol
 
