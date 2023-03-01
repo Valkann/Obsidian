@@ -5,10 +5,12 @@ category: projets/colloc_etrange
 Summary: 
 Type: projet
 Week : 43
+dg-publish: true
 ---
-Tags : #writing 
-
-# La Coloc de l'étrange
+%%
+Type:: #projet/JDR 
+Status:: #WiP 
+%%
 
 Se base sur l'idée de l'[Immeuble étrange](./Elements/Immeuble%20étrange.md)
 
