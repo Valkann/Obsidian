@@ -46,6 +46,8 @@ Un projet de jeu pour jouer de l'horreur absurde en lieu clos.
 
 Un recueil de monstres et de pistes de scénarios pour #MotW 
 
-@B
+**[Black Star Rise](../projets/Black_Star_Rise/Black%20Star%20Rise.md)** 
+
+Une traduction d'un #jdr/pbta pour jouer de l'horreur loveraftienne.
 
 
