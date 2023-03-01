@@ -10,7 +10,7 @@ jour::  [2023-01-24](2023-01-24.md)
 Week:: [2023-04](../../../../week/2023-04.md)
 mots:: #250mots
 Projet:: #MotW #MystereDeFrance
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #finished 
 %%
 # Agrippa ou le livre des démons
