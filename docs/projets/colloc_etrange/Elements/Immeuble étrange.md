@@ -2,11 +2,13 @@
 share: true 
 category: projets/colloc_etrange/Elements
 Summary: 
-Tags:
-- SN/jdr
-- writing
-Type: projet
+dg-publish: true
 ---
+%%
+Type:: #projet/JDR 
+Status:: #WiP 
+%%
+
 # Immeuble étrange 
 
 Des évènements étranges dans l'immeuble des personnages.
