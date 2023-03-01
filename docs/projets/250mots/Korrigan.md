@@ -10,7 +10,7 @@ jour::  [2023-02-04](2023-02-04.md)
 Week:: [2023-05](2023-05.md)
 mots:: #250mots 
 Projet:: #MotW #MystereDeFrance
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #WiP #projet 
 %%
 # Korrigan
