@@ -11,7 +11,7 @@ Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
 Projet:: #MotW , #MystereDeFrance 
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #finished 
 %%
 # Iannic-ann-ôd
