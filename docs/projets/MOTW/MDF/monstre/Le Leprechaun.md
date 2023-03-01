@@ -4,14 +4,14 @@ Alias :
 Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
+dg-publish: true
 ---
 %%
 Projet:: #MotW , #MystereDeFrance 
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #finished 
 jour::  [2023-01-17](2023-01-17.md) 
 mots:: *Trèfle - Appareils - Domino* 
-#250mots #MotW #projet/écriture #projet/jdr/MotW/MdO 
 %%
 ***
 
