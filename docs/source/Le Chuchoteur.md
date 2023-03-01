@@ -2,6 +2,7 @@
 share: true 
 category: source
 Alias:
+dg-publish: true
 ---
 %%
 Date:: 2023-01-26
