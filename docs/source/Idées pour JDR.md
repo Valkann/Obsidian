@@ -12,7 +12,7 @@ Rating::
 Review:: 
 Source::
 Projet:: 
-Type:: #SN/JDR 
+Type:: #projet/JDR 
 Status:: #WiP 
 %%
 
