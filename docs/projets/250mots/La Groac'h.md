@@ -4,6 +4,7 @@ Alias:
 Source : 250 mots par jour
 share: true
 category: projets/250mots
+dg-publish: true
 ---
 %%
 jour::  [2023-01-28](2023-01-28.md)
