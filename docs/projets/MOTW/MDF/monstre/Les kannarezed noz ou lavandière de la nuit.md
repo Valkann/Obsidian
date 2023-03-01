@@ -7,10 +7,10 @@ category: projets/MOTW/MDF/monstre
 ---
 %%
 Projet:: #MotW , #MystereDeFrance 
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre
 jour::  [2023-01-19](2023-01-19.md) 
 mots:: *Engagement - Nerveux - Jupe*   
-#250mots #MotW #projet/écriture #projet/jdr/MotW/MdO 
+#250mots
 status:: #finished  
 %%
 ***
