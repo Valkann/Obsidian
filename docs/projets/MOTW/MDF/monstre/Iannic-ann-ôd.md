@@ -4,6 +4,7 @@ Alias:
 Source : 250 mots par jour
 share: true
 category: projets/MOTW/MDF/monstre
+dg-publish: true
 ---
 %%
 jour::  [2023-01-25](2023-01-25.md)
@@ -11,7 +12,7 @@ Week:: [2023-04](../../../../week/2023-04.md)
 mots:: 
 #250mots
 Projet:: #MotW , #MystereDeFrance 
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 Status:: #finished 
 %%
 # Iannic-ann-ôd
