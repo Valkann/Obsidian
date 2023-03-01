@@ -5,8 +5,12 @@ category: projets/colloc_etrange
 Summary: 
 Type: projet
 Week : 43
+dg-publish: true
 ---
-Tags : #writing 
+%%
+Type:: #projet/JDR 
+Status:: #WiP 
+%%
 
 # La Coloc de l'étrange
 
