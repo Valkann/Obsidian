@@ -12,7 +12,7 @@ mots::
 #250mots
 Projet:: #MotW 
 Type:: #projet/JDR/MotW/Monstre , #projet/écriture
-Status:: #WiP #projet 
+Status:: #WiP
 %%
 # le hoqueteux
 
