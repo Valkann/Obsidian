@@ -13,7 +13,7 @@ Review::
 Summary:: 
 Author::
 Source:: https://www.imdb.com/title/tt4816364/?ref_=nv_sr_srsg_0
-Type:: #SN/YouTube
+Type:: #SN/Série 
 Status:: #WiP
 Week:: [2023-09](../week/2023-09.md)
 %%
