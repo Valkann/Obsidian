@@ -4,6 +4,7 @@ Alias:
 Source : 250 mots par jour
 share: true
 category: projets/250mots
+dg-publish: true
 ---
 %%
 jour::  [2023-02-05](2023-02-05.md)
@@ -11,8 +12,8 @@ Week:: [2023-05](2023-05.md)
 mots:: 
 #250mots
 Projet:: #MotW 
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
-Status:: #WiP #projet 
+Type:: #projet/JDR/MotW/Monstre 
+Status:: #WiP
 %%
 # le hoqueteux
 
