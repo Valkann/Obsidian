@@ -6,13 +6,13 @@ dg-publish: true
 title: Ceux qui luttaient dans les ténèbres
 category: projets/cthulhu_pbta
 Summary: 
-Tags:
-- SN/jdr
-- writing
-Type: projet
 ---
-Week:: [2023-06](../../week/2023-06.md), [2023-07](../../week/2023-07.md)
-#WiP #projet 
+%%
+Week:: [2023-06](../../week/2023-06.md), [2023-07](../../week/2023-07.md), [2023-09](../../week/2023-09.md)
+Status:: #WiP 
+Type:: #projet/JDR/PbtA/Cthulhu
+%%
+
 # Ceux qui luttaient dans les ténèbres
 
 Ce jeu a été écrit comme mécanique pour reprendre les scénarios du commerce de l'Appel de Cthulhu avec un système PbtA.
