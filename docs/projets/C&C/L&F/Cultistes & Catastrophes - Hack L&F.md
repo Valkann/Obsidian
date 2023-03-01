@@ -1,20 +1,13 @@
 ---
 Created : 2022-05-23-Mon
-MOC : 
-- [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
-- [MOC Laser and Feeling](MOC%20Laser%20and%20Feeling.md)
-PROJET: 
-- [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
 share: true 
 category: projets/C&C/L&F
-Summary: 
-Tags:
-- SN/jdr
-- writing
-Type: projet
+dg-publish: true
+Type: #SN/JDR 
+Status: #finished 
 ---
----
-# Cultistes & Catastrophes
+
+# Cultistes & Catastrophes - Hack L&F
 
 ## De quoi parle le jeu ?
 
