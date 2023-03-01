@@ -48,6 +48,6 @@ Un recueil de monstres et de pistes de scénarios pour #MotW
 
 **[Black Star Rise](../projets/Black_Star_Rise/Black%20Star%20Rise.md)** 
 
-Une traduction d'un #jdr/pbta pour jouer de l'horreur loveraftienne.
+Une traduction d'un #jdr/pbta pour jouer de l'horreur lovecraftienne.
 
 
