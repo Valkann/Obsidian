@@ -2,12 +2,11 @@
 share: true 
 category: projets/Kado
 Summary: 
-Tags:
-- SN/jdr
-- WiP
-Type: projet
+Type: #SN/JDR 
+Status: #WiP 
+dg-publish: true
 ---
-Kādo de monogatari o kataru sūpā sentai gēmu
+
 
 Jeu de super Sentaï pour raconter des histoires avec des cartes
 
