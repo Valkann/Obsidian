@@ -4,10 +4,7 @@ quickshare-url: "https://noteshare.space/note/cldzql9lk297301pjexm6r481#3NGEzCCs
 share: true 
 category: projets/cthulhu_pbta/Livrets
 Summary: 
-Tags:
-- SN/jdr
-- writing
-Type: projet
+dg-publish: true
 ---
 # Le Dilettante
 
