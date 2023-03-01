@@ -6,6 +6,8 @@ category: source
 Alias:
 ---
 
+
+
 *Mon jardin digital pour partager mes notes, projets et idées.*
 
 # Point sur les semaines
@@ -36,11 +38,11 @@ Un hack de [Lasers & Feelings](Lasers%20&%20Feelings.md) où l'on joue des culti
  
 Un jeu non terminé pour créer pour une JAM Power Rangers.
 
-## [La Coloc de l'étrange](../projets/colloc_etrange/La%20Coloc%20de%20l'%C3%A9trange.md) 
+**[La Coloc de l'étrange](../projets/colloc_etrange/La%20Coloc%20de%20l'%C3%A9trange.md)** 
 
 Un projet de jeu pour jouer de l'horreur absurde en lieu clos.
 
-## [Bestiaire pour Monster of the Week](Bestiaire%20pour%20Monster%20of%20the%20Week.md) 
+**[Bestiaire pour Monster of the Week](Bestiaire%20pour%20Monster%20of%20the%20Week.md)** 
 
 Un recueil de monstres et de pistes de scénarios pour #MotW 
 
