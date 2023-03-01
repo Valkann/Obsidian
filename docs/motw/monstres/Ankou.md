@@ -9,7 +9,7 @@ Date:: 2023-02-24
 Week:: [2023-08](../../week/2023-08.md)
 Status:: #WiP 
 Projet:: #MotW #MystereDeFrance
-Type:: #projet/JDR/MotW/Monstre , #projet/écriture
+Type:: #projet/JDR/MotW/Monstre 
 %%
 ***  
 
