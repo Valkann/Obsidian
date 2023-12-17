@@ -1,13 +1,18 @@
 ---
+quickshare-date: 2023-02-05 20:32:26
+quickshare-url: "https://noteshare.space/note/cldrs6px31882001pj42e96c1e#O8qUNFFQEoVCv9UocLU3p0QZKAHsU18H8tsMx7O/n3I"
 share: true 
+dg-publish: true
 title: Ceux qui luttaient dans les ténèbres
 category: projets/cthulhu_pbta
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---
+Week:: [2023-06](../../week/2023-06.md), [2023-07](../../week/2023-07.md)
+#WiP #projet 
 # Ceux qui luttaient dans les ténèbres
 
 Ce jeu a été écrit comme mécanique pour reprendre les scénarios du commerce de l'Appel de Cthulhu avec un système PbtA.
@@ -22,51 +27,18 @@ La traduction française de Brindlewood Bay est l’oeuvre de Nicolas Ronvel et 
 
 ### Forged in the Dark DRS
 
-Le texte de la version française est mis à disposition selon les termes de la Licence Creative  Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (<https://creativecommons.org/licenses/by-nc/2.0/fr/>)
+Le texte de la version française est mis à disposition selon les termes de la Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 2.0 France (<https://creativecommons.org/licenses/by-nc/2.0/fr/>)
 
 ## Ton du jeu
 
 ## Principes des Joueurs
 
-### Suit ces objectifs
+### Suis ces objectifs
 
 - Raconte une histoire entre l'étrange et l'horreur.
-- Suit les pistes et résoud les mystères même sunaturels.
+- Suis les pistes et résout les mystères, même surnaturels.
 - Explore et joue la descente dans la folie de ton personnage.
 - Joue pour voir ce qui va se passer.
-
-## Principes du meneur
-
-### Priorités
-
-- Décris un monde réel et vivant.
-- Entraine les personnages à travers les enquêtes dans la peur et la folie.
-- Joue pour voir ce qui va se passer.
-
-### Parle toujours…
-
-- En suivant les principes
-- En suivant les règles
-- En suivant les notes de partie
-- Le plus honnêtement possible.
-
-### Principes
-
-- Introduit l'étrange dans le quotidien des personnages
-- Parle aux personnages, pas aux joueuses.
-- Fais ton action, mais ne prononce jamais son nom.
-- Que tout soit personnel ; rends les choses compliquées
-- Donne un nom à tout le monde, inclus les dans le quotidien des personnages.
-- Rends tout le monde humain.
-- Ne décris pas l'horreur, mais suggère-la.
-- Ne nomme jamais l’innommable.
-- Sois fan des personnages des joueuses
-- Pense à ce qui se passe hors-champ.
-- De temps à autre, ne prends pas la décision toi-même.
-- Débute et termine par la fiction.
-- Teintes tout, progressivement, d'étrange et de folie.
-- Pose des questions et incorpore les réponses
-- Crée des situations intéressantes, pas des intrigues
   
 ## Personnages
 
@@ -74,13 +46,11 @@ Le texte de la version française est mis à disposition selon les termes de la 
 
 Ce sont les attributs du personnage qui sont appliqués à la plupart des jets de dé.
 
-- Utilise **Vitalité** si l'action de ton personnage implique la force, la dextérité, l'endurance,
-l'athlétisme ou le physique brut.
-
-- Utilise **Calme** si l'action de ton personnage nécessite de garder la tete froide, de la discrétion ou une concentration intense, ou s'il fait face à ses peurs ou à l'innommable.
+- Utilise **Vitalité** si l'action de ton personnage implique la force, la dextérité, l'endurance, l'athlétisme ou le physique brut.
+- Utilise **Calme** si l'action de ton personnage nécessite de garder la tête froide, de la discrétion ou une concentration intense, ou s'il fait face à ses peurs ou à l'innommable.
 - Utilise **Méthode** si ton Personnage est en train d'étudier des livres, de faire des recherches sur un problème, d'examiner une scène de crime ou de faire appel à sa matière grise.
 - Utilise **Présence** si ton Personnage essaie de charmer quelqu'un, d'intimider quelqu'un ou de capter l'attention ou l'imagination de quelqu'un.
-- Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturelles ; Le Gardien peut décider qu'une action qui semble être régie par une autre capacité est en fait régie par le **Pouvoir** en raison de la nature surnaturelle, spirituelle ou occulte de ce qui est entrepris.
+- Utilise **Pouvoir** si l'action de ton personnage implique des forces surnaturelles ; Le Gardien peut décider qu'une action qui semble être régie par une autre capacité est en fait régi par le **Pouvoir** en raison de la nature surnaturelle, spirituelle ou occulte de ce qui est entrepris.
 
 ### Conditions
 
@@ -102,7 +72,7 @@ Ton personnage ne voit pas comment il est possible de réussir, il est sûr que 
 
 #### Épuisé
 
-Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou psychique. Il ne peut plus continuer à maintenir ses efforts et est prêt à craquer ou à s'effondrer.
+Ton personnage est au bout du rouleau, il a épuisé ses réserves physiques ou psychiques. Il ne peut plus continuer à maintenir ses efforts et est prêt à craquer ou à s'effondrer.
 
 #### Paniqué
 
@@ -140,7 +110,40 @@ Pour choisir une position, le MJ examine les définitions ci-dessous et choisit 
 
 Par défaut, un jet d’action est risqué. Vous ne seriez pas en train de lancer les dés s’il n’y avait aucun risque. Si la situation semble très dangereuse, elle est désespérée. Dans le cas où elle paraît modérément dangereuse, elle est contrôlée.  
 
-En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
+En règle générale, le gardien vous demandera ce que vous craignez qu'il arrive en cas de 6-. En situation désespérée, il vous posera la même question, mais vous expliquera en quoi c'est encore pire.
+
+#### Variante 1 : Difficultés et situations
+
+On peut faire varier les seuils de difficultés suivant les types de situations :
+
+**Par défaut : Situation risquée**
+- 6- : échec ou prix fort à payer
+- 7-9 : réussite contre un coût
+- 10+ : Réussite ou coût minime
+- 12+ : Réussite et gain inattendu
+
+**Situation Contrôlée**
+
+- 6- : réussite contre un coût.
+- 7-9: Réussite ou coût minime
+- 10+ : Réussite et gain inattendu
+
+**Situation désespérée**
+
+- 9- : échec ou prix fort à payer
+- 10+ : réussite contre un coût
+- 12+ : Réussite ou coût minime
+
+#### Variante 2 : avantages et situations
+
+Suivant le type de situation, les joueurs reçoivent des avantages ou des désavantages
+
+- **Situation Contrôlée**
+  Les joueurs lancent avec un avantage
+- **Situation risquée** 
+  La situation par défaut, pas d'avantage ou de désavantage par rapport à la situation
+- **Situation désespérée**
+  Les joueurs lancent avec un désavantage
 
 ### 2d6 + capacité
 
@@ -148,23 +151,19 @@ Dans la plupart des cas, tu lances des dés parce qu'une manœuvre te demande de
 
 - Tu lances deux dés à 6 faces, tu les additionnes, puis tu ajoutes le modificateur de la capacité concernée.
 - Compares ensuite le résultat avec le texte de la manœuvre.
-  - Si la manœuvre fait référence à un "succès", cela signifie un résultat de 7+.
-  - Si la manœuvre fait référence à un "échec", il s'agit d'un résultat de 6-.
+	- Si la manœuvre fait référence à un "succès", cela signifie un résultat de 7+.
+	- Si la manœuvre fait référence à un "échec", il s'agit d'un résultat de 6-.
 
 ### Succès et échec
 
 Par convention, dans le jeu de rôle, on parle de succès ou d'échec à une action tentée par le personnage.
 Dans les jeux PbtA et dans celui-ci en particulier, les notions de succès ou d'échec sont un peu différents.
 
-Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible. Le meneur va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
+Un résultat de 6- est considéré comme un échec et peut l'être, mais montre surtout que la conséquence de l'action va être terrible. Le gardien va pouvoir utiliser des manœuvres conséquentes pour ajouter du drame à l'histoire et pimenter la vie de ton personnage et de son groupe.
 
 Exemple :
 
 - ==todo==
-
-Move : encyclopedant 
-
-
 
 ### Avantage
 
@@ -210,9 +209,9 @@ Les **Folies** sont les conséquences de ta lutte contre l'innommable et les tra
 
 ### Plus de souvenirs ou de folies ?
 
-Si tous tes souvenirs sont cochés, ton investigateur ne peut plus continuer, les raisons pour lesquelles n'arrivent plus à le maintenir dans la lutte. Il baisse les bras et prend sa retraite...dans le meilleur des cas.
+Si tous tes souvenirs sont cochés, ton investigateur ne peut plus continuer, les raisons pour lesquelles n'arrivent plus à le maintenir dans la lutte. Il baisse les bras et prend sa retraite... dans le meilleur des cas.
 
-Si toutes tes folies sont cochées, ton investigateurs est définitivement trop atteint pour continuer. Il sera emmener dans une maison de repos... si il ne fait pas bétise avant.
+Si toutes tes folies sont cochées, ton investigateur est définitivement trop atteint pour continuer. Il sera emmener dans une maison de repos... s'il ne fait pas de bêtise avant.
 
 ## Souvenirs, Folies et jets de dé
 
@@ -232,9 +231,9 @@ Réponse : parce que c'est amusant !
 
 La réaction permet d'entrevoir différentes lignes temporelles, de les jouer, de les ressentir, d'expérimenter l'angoisse et la terreur, puis... de faire quelque chose de différent.
 
-## Manœuvres
+## Manœuvres de base des personnages
 
-Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifique à leur personnage.
+Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de personnage. Les personnages ont accès à toutes les manœuvres de base en plus d'une ou plusieurs manœuvres spécifiques à leur personnage.
 
  Lorsque le texte d'une manœuvre de personnage contredit une manœuvre de base, la manœuvre de personnage est prioritaire.
  Les manœuvres de personnage se trouvent sur les différents livrets de personnage.
@@ -247,11 +246,11 @@ Il existe deux types de manœuvres : les manœuvres de base et les manœuvres de
 
 - Sur un 10+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits ; décris ce à quoi cela ressemble.
 - Sur un 7-9, le Gardien te dira comment tes actions te rendront vulnérable, puis tu pourras choisir de reculer ou d'aller jusqu'au bout. Si tu vas jusqu'au bout, le Gardien décrit ce à quoi cela ressemble.
-- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits. Le Gardien te révèlera quel bénéfice ou avantage supplémentaire tu reçois. Décris ce à quoi cela ressemble.
+- Sur un 12+, tu fais ce que tu avais prévu ou garde ton calme et tes esprits. Le Gardien te révèlera quel bénéfice ou avantage supplémentaire, tu reçois. Décris ce à quoi cela ressemble.
 
  Agir sous la pression est une manœuvre fourre-tout pour les actions qui ont lieu pendant la journée. Le Gardien a le dernier mot sur la capacité utilisée pour le jet.
 
-### **Enquêter**
+### Enquêter
 
  Quand tu cherches un indice, fais des recherches ou recueilles des informations, décris la façon dont tu le fais et lance un dé avec une capacité appropriée.
 
@@ -264,7 +263,7 @@ Si tu réussis, tu trouves un indice. Le Gardien te dira ce que c'est.
 
  Ainsi, par exemple, si un personnage recueille des informations en parlant gentiment à un représentant de la loi locale, sa joueuse fera un jet de Présence. S'il recueille des informations en écoutant silencieusement une conversation qu'il n'est pas censée entendre, sa joueuse utilisera Calme. Dans le cas où elle fouille dans les livres de la bibliothèque locale, elle utilisera Méthode. Et ainsi de suite. Le Gardien a le dernier mot sur le choix de la capacité utilisée pour le jet.
 
-### **Souffler**
+### Souffler
 
  Quand tu as un moment d'intimité avec un autre personnage et que l'un d'entre vous est engagé dans une activité reposante.
  Choisis deux options si c'est une activité en lien avec ton personnage. Sinon, choisis-en une.
@@ -280,7 +279,7 @@ Dis au Gardien de quoi il s'agit. L'indice ne peut pas résoudre le mystère à 
 
 Cette manœuvre sert plusieurs objectifs pratiques, tels que la récupération des conditions, mais elle est principalement conçue pour montrer la relation étroite entre les personnages, ainsi que pour donner un aperçu de leur vie en tant qu'investigateur.
 
-### **Utiliser le Mythe**
+### Utiliser le Mythe
 
 Quand tu t'engages pour la première fois dans une activité liée au surnaturel, à l'innommable, à un sortilège ou à l'occulte, imagines à quoi ressembleraient cette action sous forme de manœuvre. Dis ce qui déclenche la manœuvre et fais un jet de pouvoir.
 
@@ -306,7 +305,7 @@ Vous vivez dans la rue, vous cherchez des petits boulots à gauche à droite pou
 
 #### Pauvre
 
-La vie n'est pas simple pour vous. Vous avez un petit boulot qui vous permet de louer une chambre et de ne pas mourir de faim, ou alors vous louez vos services aux plus offrants espérant un jour faire votre trou.
+La vie n'est pas simple pour vous. Vous avez un petit boulot qui vous permet de louer une chambre et de ne pas mourir de faim, ou alors, vous louez vos services aux plus offrants, espérant un jour faire votre trou.
 
 #### Classe Moyenne
 
@@ -316,7 +315,7 @@ Vous vous débrouillez plutôt bien, avez votre appartement, un travail honnête
 
 Vous êtes à l'abri du besoin, vous possédez plusieurs propriétés et fréquentez le gotha. Vous êtes sûrement un investisseur, l'héritier d'une vieille famille, voir un notable de votre coin.
 
-#### Classe supérieur
+#### Classe supérieure
 
 Vous êtes l'incarnation du rêve américain ou l'héritier d'une grosse fortune. L'argent est la dernière de vos préoccupations. Les scandales et les ragots par contre…
 
@@ -326,27 +325,94 @@ Il existe deux cas pour affronter les entités du Mythe.
 
 Si tu tentes d'attaquer une entité surnaturelle de front, tu meurs. Les créatures d'outre espaces surpassent les êtres humains. Que ce soit au point de vue physique, technologique ou magique, tes chances sont nulles. Seuls certains rituels permettent de repousser les abominations que tu as juré de détruire et encore seulement pour un temps.
 
-Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir tu arrives à ton objectif.
+Si tu tentes de les affronter dans un but autre que leur annihilation, comme fuir, gagner du temps, protéger quelqu'un ou quelque chose, alors tu peux lancer les dés voir, tu arrives à ton objectif.
 Cela sera toujours considéré comme une situation **Désespérée**
 
 ***
 
 ## Livrets
 
-- [Artiste](./Livrets/Artiste)
-- [Dilettante](./Livrets/Dilettante)
-- [Soldat](./Livrets/Soldat)
+- [Artiste](./Livrets/Artiste.md)
+- [Dilettante](./Livrets/Dilettante.md)
+- [Soldat](./Livrets/Soldat.md)
+- [Médecin](./Livrets/M%C3%A9decin.md)
+
+***
+
+# Le Gardien
+
+## Principes du gardien
+
+### Priorités
+
+- Décris un monde réel et vivant.
+- Entraine les personnages à travers les enquêtes dans la peur et la folie.
+- Joue pour voir ce qui va se passer.
+
+### Parle toujours…
+
+- En suivant les principes
+- En suivant les règles
+- En suivant les notes de partie
+- Le plus honnêtement possible.
+
+### Principes
+
+- Introduit l'étrange dans le quotidien des personnages
+- Parle aux personnages, pas aux joueuses.
+- Fais ton action, mais ne prononce jamais son nom.
+- Que tout soit personnel ; rend les choses compliquées
+- Donne un nom à tout le monde, inclus les dans le quotidien des personnages.
+- Rends tout le monde humain.
+- Ne décris pas l'horreur, mais suggère-la.
+- Ne nomme jamais l’innommable.
+- Sois fan des personnages des joueuses
+- Pense à ce qui se passe hors-champ.
+- De temps à autre, ne prends pas la décision toi-même.
+- Débute et termine par la fiction.
+- Teintes tout, progressivement, d'étrange et de folie.
+- Pose des questions et incorpore les réponses
+- Crée des situations intéressantes, pas des intrigues
+
+## Manœuvres du Gardien
+
+### Manœuvres légères
+
+Les manœuvres légères sont les manœuvres de base du Gardien, tu peux les appliquer dès que :
+- Un joueur fait un 6-
+- Chaque fois que vous dites ce qu'il se passe
+- Chaque fois qu'ils attendent que vous disiez quelques chose.
+
+Voici les manœuvres :
+- Les séparer.
+- Révéler un problème à venir
+- Révéler un problème hors champ
+- Les faire enquêter
+- Leur faire acquérir du matériel
+- Leur révéler les conséquences possibles et leur demander s’ils persistent
+
+Après chaque manœuvre, leur demander ce qu’ils font.
+
+### Manœuvres conséquentes
+
+Les manœuvres conséquentes sont tes outils pour augmenter la pression, il est conseillé de les utiliser quand :
+- Un joueur fait un 6-
+- La situation est désespérée.
+- Ils sont face à des choses en lien avec le Mythe.
+
+Voici les manœuvres conséquentes :
+
+- Retourner leurs manœuvres contre eux
+- Leur proposer une opportunité, en leur faisant payer le prix fort
+- Confisquer ou détruire une partie du matériel
+- Attirer des ennuis à quelqu’un
+- Effectuer une manœuvre de menace de votre menace
+- Infliger une condition
+- Infliger une Folie
 
 ***
 
 ## WiP
-
-### Etats
-
-- [ ] Relire Horrifique
-
-### Folie
-Relire [Black Star Rise](../Black_Star_Rise/Black%20Star%20Rise.md)
 
 ### Capacités
 
@@ -356,30 +422,23 @@ Voir si on garde les capacités ou si on part sur un système à la libreté :
 - On ajoute un certain nombre de points de stress à sa réserve et a son test avant de lancer les dés
 - Si 10+ on perd un point de stress
 - Le nombre de points de stress pris donne le ton de l'action
-  - 0 : Le ton est léger, presque humoristique
-  - 1 : Le ton est plus
-  - 2 :
-  - 3 : Le ton est sombre les actions sont réussies, maiss c'est sale, dur, sanglant. Les échecs
+	  - 0 : Le ton est léger, presque humoristique
+	  - 1 : Le ton est plus
+	  - 2 :
+	  - 3 : Le ton est sombre les actions sont réussies, maiss c'est sale, dur, sanglant. Les échecs
 
 Mettre une horloge en fonction des points de stress tirés qui va donner le ton ?
 
 Utilisation des doubles ?
 
-### Horloge de pression
-
-Garder les capacités mais faire monter le ton et l'horreur au fur et a mesure de la découverte d'indices.
-
-### Danger
-
-- [ ] Situation : reprendre le que crains tu ? Et c'est encore pire que ça !
 
 ### Inspiration livret
 
 - Scientifique : Charles Dexter ward ou Herbert west
 - Soldat ?
 - Journaliste : escroc de motw
-- Universitaire : l'abîme du temps où ceuou ceux qui murmuraient dans les ténèbres, les montagnes hallucinées
-- Dilettante : Randolph Carter , Charles Dexter ward
+- Universitaire : l'abîme du temps où ceux ceux qui murmuraient dans les ténèbres, les montagnes hallucinées
+- Dilettante : Randolph Carter, Charles Dexter ward
 - Artiste : Pickman, appel de Cthulhu,
 - Détective : appel de Cthulhu
 
@@ -396,6 +455,9 @@ Garder les capacités mais faire monter le ton et l'horreur au fur et a mesure d
 ### Indices
 
 - [ ] Remplacer les indices des tréfonds par des indices de l'horreur dans le scénario
+
+### Move
+- Move : encyclopedant 
 
 ***
 Voir les jeux suivants :

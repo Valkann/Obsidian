@@ -1,12 +1,12 @@
 ---
 raindrop_id: 297263594
-raindrop_last_update: 2022-12-30T13:36:09.568Z
+raindrop_last_update: 2023-02-22T08:44:59.953Z
 share: true
 category: source
 ---
 
 Rating:: 4
-Summary:: Des bonnes idées et de bonnes pratiques peut être à généraliser dans un épisode de [QMJDR](QMJDR)
+Summary:: Des bonnes idées et de bonnes pratiques peut être à généraliser dans un épisode de [QMJDR](QMJDR.md)
 Author::
 Source:: http://40arkhamavenue.blogspot.com/2016/09/preparer-son-scenario-lettres-de-sang_24.html
 Type:: #SN/Article 
@@ -22,7 +22,7 @@ Week:: 51
 ## Notes
 
 Des idées pour mettre en place des PNJs intéressant lors d'une enquête. 
-Il peut servir de base à un épisode de [QMJDR](QMJDR)
+Il peut servir de base à un épisode de [QMJDR](QMJDR.md)
 
 ## Highlights
 

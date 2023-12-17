@@ -10,7 +10,7 @@ Type :
 Date : 2022-11-08-Tue
 Author :
 Source : https://podcastaddict.com/episode/139862110
-Type : [Note Source](Note%20Source)
+Type : [Note Source](Note%20Source.md)
 MOC :
 Projet : 
 Tags : #podcast #jdr #finished 
@@ -22,7 +22,7 @@ Tags : #podcast #jdr #finished
 
 ## Notes
 
-[Nous sommes des alchimistes] #13 🔫 Le gameplay EST l'histoire #nousSommesDesAlchimistes 
+[Nous sommes des alchimistes] #13 🔫 Le gameplay EST l'histoire 
 https://podcastaddict.com/episode/139862110 via @PodcastAddict
 
 Les règles et les outils d'un jeu doivent servir l'histoire et le type d'histoire qu'il veut raconter

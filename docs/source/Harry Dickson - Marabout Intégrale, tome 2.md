@@ -7,7 +7,7 @@ Rating : 4
 Summary : Toujours sympa de lire du jean ray. Mon petit plaisir coupable.
 ---
 Date:: 2022-11-18-Fri
-Author:: [Jean Ray](Jean%20Ray)
+Author:: [Jean Ray](Jean%20Ray.md)
 Source:: 
 Type:: #SN/Livre  
 MOC::

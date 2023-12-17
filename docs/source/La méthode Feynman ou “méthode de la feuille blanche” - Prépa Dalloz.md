@@ -1,12 +1,12 @@
 ---
 raindrop_id: 297263378
-raindrop_last_update: 2022-12-30T13:36:09.750Z
+raindrop_last_update: 2023-02-22T08:44:59.799Z
 share: true
 category: source
 ---
 
 Rating:: 4
-Summary::  J'aime regarder et tenter d'améliorer mes prises de notes, créations de contenu et autre. Une méthode assez basique, mais qui fonctionne. À coupler avec [Zettelkasten](M%C3%A9thode%20Zettelkasten) et  [P.A.R.A.](P.A.R.A.) par exemple
+Summary::  J'aime regarder et tenter d'améliorer mes prises de notes, créations de contenu et autre. Une méthode assez basique, mais qui fonctionne. À coupler avec [Zettelkasten](M%C3%A9thode%20Zettelkasten.md) et  [P.A.R.A.](P.A.R.A..md) par exemple
 Author::
 Source:: https://www.prepa-dalloz.fr/conseils/methodologie/la-methode-feynman-ou-methode-de-la-feuille-blanche
 Type:: #SN/
@@ -56,7 +56,7 @@ Week:: 51
 
 ## Liens 
 
-- [Méthode Feynman](M%C3%A9thode%20Feynman)
+- [Méthode Feynman](M%C3%A9thode%20Feynman.md)
 - [PKM](../seeds/PKM.md)
 - [Création de contenu](Cr%C3%A9ation%20de%20contenu.md)
 - [Apprentissage](Apprentissage.md)

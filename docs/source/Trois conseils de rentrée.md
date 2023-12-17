@@ -10,7 +10,7 @@ Type : podcast
 Date : 2022-11-08-Tue
 Author : [bertrand soulier](bertrand%20soulier.md)
 Source : https://podcastaddict.com/episode/144551547 
-Type : [Note Source](Note%20Source)
+Type : [Note Source](Note%20Source.md)
 MOC :
 Projet : 
 Tags : #podcast #finished 
@@ -22,7 +22,7 @@ Tags : #podcast #finished
 
 ## Notes
 
-[Crée ta vie !] Trois conseils de rentrée #creeTaVie 
+[Crée ta vie !] Trois conseils de rentrée 
 https://podcastaddict.com/episode/144551547 via @PodcastAddict
 
 Se fixer des objectifs qui même non atteint permettent de s'améliorer

@@ -1,6 +1,6 @@
 ---
 raindrop_id: 492477844
-raindrop_last_update: 2022-12-30T13:36:10.645Z
+raindrop_last_update: 2023-02-22T08:45:01.630Z
 share: true
 category: source
 ---
@@ -9,7 +9,7 @@ Rating:: ⭐⭐⭐⭐⭐
 Summary:: non pas que la vidéo soit très bonne ou très inovante mais j'ai enfin repris la création de notes permanente grâce à elle donc merci à l'auteur.
 Author::
 Source:: https://www.youtube.com/watch?v=SZBtX3c9zxE&list=WL&index=35
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 
@@ -34,11 +34,11 @@ Mark Mason : faire un premier pas et commencer simplement
 
 Faire quelque chose de simple pour commencer, découper les tâches
 
-On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es)
+On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es.md)
 
 ### Trouver son flow
 
-![Flow](Flow)
+![Flow](Flow.md)
 
 Éviter les distractions autour de vous
 
@@ -51,17 +51,17 @@ On retrouve l'idée des [Méthode Agile](M%C3%A9thode%20Agile.md) et de l'[Atomi
 
 ### S'imposer une discipline et des objectifs
 
-![Routine contre la procrastination](Routine%20contre%20la%20procrastination)
+![Routine contre la procrastination](Routine%20contre%20la%20procrastination.md)
 
 ### Rester réaliste
 
-Faire progresser ses exigences au fur et à mesure de la tâche en cours. Idées de [Décider vite, rester longtemps](D%C3%A9cider%20vite,%20rester%20longtemps) que l'on retrouve dans [Créez un podcast génial maintenant - Décider vite, rester longtemps](Cr%C3%A9ez%20un%20podcast%20g%C3%A9nial%20maintenant%20-%20D%C3%A9cider%20vite,%20rester%20longtemps)
+Faire progresser ses exigences au fur et à mesure de la tâche en cours. Idées de [Décider vite, rester longtemps](D%C3%A9cider%20vite,%20rester%20longtemps.md) que l'on retrouve dans [Créez un podcast génial maintenant - Décider vite, rester longtemps](./Cr%C3%A9ez%20un%20podcast%20g%C3%A9nial%20maintenant%20-%20D%C3%A9cider%20vite,%20rester%20longtemps.md)
 
-![Se lancer dun coup](Se%20lancer%20dun%20coup)
+![Se lancer dun coup](Se%20lancer%20dun%20coup.md)
 
 ## Liens
 
-![Procrastination](Procrastination)
+![Procrastination](Procrastination.md)
 
 
 

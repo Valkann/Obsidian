@@ -3,17 +3,13 @@ share: true
 category: source
 Alias:
 ---
+%%
 Date:: 2022-12-05
 Week:: 49
-Rating::
-Summary:: 
-Author::
-Source:: 
-Type:: #SN/JDR 
-Status:: #wip 
-MOC::
+Type:: #projet/jdr/CultistesEtCatastrophes 
 Projet:: #CultistesEtCatastrophes 
-Tags:: #Maleville
+Status:: #WiP 
+%%
 
 # Maleville - Tables aléatoires
 
@@ -22,6 +18,6 @@ Tags:: #Maleville
 
 ## Notes
 
-![Maleville - Rencontres](Maleville%20-%20Rencontres)
+![Maleville - Rencontres](./Maleville%20-%20Rencontres.md)
 
-![Maleville - Lieux](Maleville%20-%20Lieux)
+![Maleville - Lieux](./Maleville%20-%20Lieux.md)

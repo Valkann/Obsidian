@@ -35,5 +35,5 @@ La créativité, c'est de prendre ce qui existe pour le réinventer. On prend de
  02:07
  ```
 
-Le but est d'avoir une base d'idée dans son [Second cerveau](Second%20cerveau) pour les assembler et créer quelque chose de nouveau ou d'original.
-D'où l'importance de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es)
+Le but est d'avoir une base d'idée dans son [Second cerveau](./Second%20cerveau.md) pour les assembler et créer quelque chose de nouveau ou d'original.
+D'où l'importance de l'[Atomicité des idées](Atomicit%C3%A9%20des%20id%C3%A9es.md)

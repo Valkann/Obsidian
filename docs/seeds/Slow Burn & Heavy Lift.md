@@ -20,7 +20,7 @@ Pour effectuer une tâche assez conséquente, deux choix s'offrent à nous en g�
 
 ## Références :
 
-- [Jean Rivière](Jean%20Rivi%C3%A8re.md) sur la création de contenu [Intérêts composés pour la création de contenu](Int%C3%A9r%C3%AAts%20compos%C3%A9s%20pour%20la%20cr%C3%A9ation%20de%20contenu)
+- [Jean Rivière](Jean%20Rivi%C3%A8re.md) sur la création de contenu [Intérêts composés pour la création de contenu](./Int%C3%A9r%C3%AAts%20compos%C3%A9s%20pour%20la%20cr%C3%A9ation%20de%20contenu.md)
 - [Tiago Forte](../author/Tiago%20Forte.md) sur la [Construction d'un second cerveau](Construction%20d'un%20second%20cerveau.md)
 
 ## Liens :

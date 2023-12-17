@@ -6,12 +6,12 @@ Alias:
 Date:: 2023-01-08
 Week:: "2023-01"
 Rating:: ⭐⭐⭐⭐
-Review:: Je débute l'écoute et le concept est intéressant mais peut etre de temps en temps un peu trop obscur.
+Review:: Intéressant, mais moins que d'autre concept du même auteur.
 Summary:: 
 Author::
 Source:: 
 Type:: #SN/Podcast 
-Status:: #listening 
+Status:: #finished 
 MOC::
 Projet:: 
 Tags:: 

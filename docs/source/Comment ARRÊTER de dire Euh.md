@@ -7,14 +7,14 @@ Rating : 2
 Summary : mouais j'attendais des conseils plus constructif que de développer un reflexe de pavlov
 Type : youtube
 ---
+%%
 Date : 2022-10-29-Sat
 Author :
 Source : https://www.youtube.com/watch?v=FrcoQhEztVw
-Type : #SN/Vidéo 
-MOC :
-Projet : 
-Tags : #finished  #youtube 
-
+Type:: #SN/YouTube 
+Projet:: 
+Status:: #finished  
+%%
 # Comment ARRÊTER de dire Euh
 
 

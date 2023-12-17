@@ -1,21 +1,18 @@
 ---
 raindrop_id: 486224420
-raindrop_last_update: 2022-12-30T13:36:09.704Z
+raindrop_last_update: 2023-02-22T08:44:59.740Z
 share: true
 category: source
 Week: 51
 ---
-
-Rating:: 4
-Summary:: Des idées intéressantes, voir si cela peut s'appliquer à la #jdrAcademy 
-Author::
-Source:: 
+%%
+Rating:: ⭐⭐⭐⭐
+Summary:: Des idées intéressantes, voir si cela peut s'appliquer à la JDR Academy
 Source:: https://blog.hubspot.com/website/how-to-monetize-wordpress
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: SN/Article, finished
+Projet:: #podcast/jdracademy 
+%%
 
 ---
 # 7 Ways to Monetize Your WordPress Blog

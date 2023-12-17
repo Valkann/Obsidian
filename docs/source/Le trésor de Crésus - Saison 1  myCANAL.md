@@ -1,6 +1,6 @@
 ---
 raindrop_id: 490301194
-raindrop_last_update: 2023-01-03T21:09:02.428Z
+raindrop_last_update: 2023-01-14T08:41:19.210Z
 share: true
 category: source
 ---
@@ -15,7 +15,7 @@ Type:: #SN/Film
 Status:: 
 MOC::
 Projet:: 
-Tags:: #watching
+Tags:: #WiP, #WiP
 Week:: 01
 
 ***
@@ -24,4 +24,8 @@ Week:: 01
 Une nouvelle façon de regarder la télé. Retrouvez tous les meilleurs programmes sur myCANAL ! PC/MAC - Tablette - Smartphone.
 
 ## Highlights
+
+```timestamp-url 
+ [L'odyssée d'un trésor - Le trésor de Crésus - YouTube](https://www.youtube.com/watch?v=s3XgZVcBCss)
+ ```
 

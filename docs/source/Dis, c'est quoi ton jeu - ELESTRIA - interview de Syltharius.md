@@ -6,14 +6,14 @@ Week : 43
 Rating : 4
 Summary : Jeu qui semble sympa sur papier
 ---
+%%
 Date : 2022-10-24-Mon
 Author :
 Source : https://www.youtube.com/watch?v=tGe1-ms4nco
-Type:: #SN/Vidéo 
-MOC :
-Projet : 
-Tags : #watching #youtube 
-
+Type:: #SN/YouTube 
+Projet:: 
+Status:: #WiP 
+%%
 # Dis, c'est quoi ton jeu - ELESTRIA - interview de Syltharius
 
 

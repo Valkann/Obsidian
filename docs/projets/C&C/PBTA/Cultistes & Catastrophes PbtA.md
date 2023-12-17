@@ -1,27 +1,22 @@
 ---
 Created : 2022-01-02-Sun
 Alias :
-Type : [Note Source](Note%20Source.md)
-MOC :  
-- [MOC jdr](MOC%20jeu%20de%20r%C3%B4le.md)
-PROJET: 
-- [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
-Source :
-Author :
-Date :
-Tags : #SN/
+Tags : #SN/JDR 
 share: true 
 category: projets/C&C/PBTA
-Summary: 
-Tags:
-- SN/
-- writing
-Type: projet
 ---
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
+
 # Cultistes & Catstrophes - Hack PbtA
 
 ***
-#CultistesEtCatastrophes 
+#projet/jdr/CultistesEtCatastrophes 
 
 Une bonne source d'inspiration est [Global Corp](Global%20Corp.md) de [Gulix](Gulix.md)
 ## Notes
@@ -80,7 +75,7 @@ Une bonne source d'inspiration est [Global Corp](Global%20Corp.md) de [Gulix](Gu
 
 ### Rumeurs
 
-- À chaque partie un certain nombre de rumeurs sont présentées par la gazette locale, les joueurs vont ensuite voter secrètement pour chaque rumeur afin e définir sa véracité. (->[Vote sur les Rumeurs](Vote%20sur%20les%20Rumeurs))
+- À chaque partie un certain nombre de rumeurs sont présentées par la gazette locale, les joueurs vont ensuite voter secrètement pour chaque rumeur afin e définir sa véracité. (->[Vote sur les Rumeurs](Vote%20sur%20les%20Rumeurs.md))
 
 ***
 
@@ -93,7 +88,7 @@ Un scénario est découpé en trois phases
 3. Résolution.
 
 Au début d'un scénario les cultistes effectue un rituel qui leur donne un aperçu de la mission.
-->[Flash forward et humour](Flash%20forward%20et%20humour)
+->[Flash forward et humour](Flash%20forward%20et%20humour.md)
 
 Cet aperçu indique ce qui doit se passe à la fin de la phase de Mission
 

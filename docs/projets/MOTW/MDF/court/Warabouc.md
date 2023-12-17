@@ -1,24 +1,19 @@
 ---
-Type: projet
 MOC: [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source:
 Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
 share: true
 category: projets/MOTW/MDF/court
 Summary:
-Tags:
-  - JDR/Création
-  - JDR/Scénario
-  - MDF
-  - court
-  - writing
 Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
-
-Tags : #JDR/Création #JDR/Scénario 
-
+%%
+type:: #projet/JDR/MotW/scenario 
+status:: #finished 
+Projet:: #MotW, #MystereDeFrance 
+%%
 ***  
 
 # Le Warabouc

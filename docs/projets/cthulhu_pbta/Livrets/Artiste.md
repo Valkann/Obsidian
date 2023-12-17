@@ -1,9 +1,11 @@
 ---
+quickshare-date: 2023-02-11 10:09:15
+quickshare-url: "https://noteshare.space/note/cldzqkf6n296301pjpjz6k9fo#w2XkndEJG7yKd7uR9HNrC2IAYxI5sUp6mi8aZVpxIZ0"
 share: true 
 category: projets/cthulhu_pbta/Livrets
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---
@@ -36,7 +38,7 @@ Tu es un artiste accompli dans un domaine, une référence même d'après certai
 
 ## Classe Sociale
 
-De manière générale, beaucoup d'artiste des années 20 sont [#Indigent](#Indigent.md) ou [#Pauvre](#Pauvre.md)
+De manière générale, beaucoup d'artiste des années 20 sont [Indigent](Artiste.md#Indigent) ou [Pauvre](Artiste.md#Pauvre)
 
 Si tu bénéficies d'un mécène ou d'une renommée établie alors les autres classe sociale sont envisageables. (Voir la manœuvre Mécène)
 
@@ -103,7 +105,7 @@ Lancez 2d6 + Pouvoir
 
 ### Mécène
 
-Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut augmenter à [#Classe Moyenne](#Classe%20Moyenne.md) ou [#Classe aisée](#Classe%20ais%C3%A9e.md)
+Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut augmenter à [Classe Moyenne](Artiste.md#Classe%20Moyenne) ou [Classe aisée](Artiste.md#Classe%20aisée)
 
 ## Liens
 
@@ -117,7 +119,7 @@ Tu es soutenue par une personne qui apprécie ton art. Ta classe sociale peut au
 
 - **Tout pour mon art**
 Raconte comment tu as sacrifié des choses importantes pour te consacrer à ton art. Était-ce un.e amant.e, de la famille, un enfant ? Une situation ? Un héritage ? Une relation ?
-- **Le Déclic**
+- **Le déclic**
 Raconte ce qui a provoqué le déclic en toi qui t'as poussé sur la voie de l'artiste. Quel évènement de ton passé a pu te marquer ? Un traumatisme infantile ? Une scène macabre ?
 - **La quête**
  Raconte la raison qui t'a poussé à lutter contre les forces des grands anciens ? Cherches tu a vengé quelqu'un ? À te rapprocher de la puissance ? À trouver de nouveaux modèles horribles ?

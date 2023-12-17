@@ -1,6 +1,6 @@
 ---
 raindrop_id: 486284196
-raindrop_last_update: 2022-12-30T13:36:11.017Z
+raindrop_last_update: 2023-02-22T08:45:01.722Z
 share: true
 category: source
 Week: 50
@@ -10,7 +10,7 @@ Rating:: 4
 Summary:: Vidéo intéressante mais j'aurais aimé un truc plus concis sur les conseils et les bonnes pratiques
 Author::
 Source:: https://www.youtube.com/watch?v=psmjLS25-_A&list=WL&index=25
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

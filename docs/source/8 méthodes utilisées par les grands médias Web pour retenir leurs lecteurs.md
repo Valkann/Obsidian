@@ -1,21 +1,17 @@
 ---
 raindrop_id: 486064365
-raindrop_last_update: 2022-12-30T13:36:09.152Z
+raindrop_last_update: 2023-02-22T08:44:59.863Z
 share: true
 category: source
 ---
-
+%%
 Rating:: ⭐⭐⭐⭐
 Summary:: Classique mais efficce toujours bon de se rappeler des méthodes de base.
-Author::
 Source:: http://www.presse-citron.net/8-methodes-utilisees-par-les-grands-medias-web-pour-retenir-leurs-lecteurs
 Type:: #SN/Article 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: 
 Week:: 52
-
+%%
 ***
 # 8 méthodes utilisées par les grands médias Web pour retenir leurs lecteurs
 

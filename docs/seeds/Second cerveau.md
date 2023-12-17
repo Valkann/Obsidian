@@ -28,7 +28,7 @@ Les trois grands piliers sont :
 
 C'est un processus en constante évolution et qui nécessite implication quotidienne. 
 
-Mais [Vous n’avez pas besoin de motivation ni d’inspiration pour avoir de bonnes habitudes](Vous%20n%E2%80%99avez%20pas%20besoin%20de%20motivation%20ni%20d%E2%80%99inspiration%20pour%20avoir%20de%20bonnes%20habitudes)
+Mais [Vous n’avez pas besoin de motivation ni d’inspiration pour avoir de bonnes habitudes](./Vous%20n%E2%80%99avez%20pas%20besoin%20de%20motivation%20ni%20d%E2%80%99inspiration%20pour%20avoir%20de%20bonnes%20habitudes.md)
 
 
 

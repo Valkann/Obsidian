@@ -5,7 +5,12 @@ category: projets/C&C
 Summary: 
 ---
 
-#scénario #CultistesEtCatastrophes 
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
 
 Un jour, les personnages découvrent que leur dieu N'gathla est en fait un grand fan de soupe. Il leur demande donc de lui préparer une soupe parfaite en échange de son aide pour mettre en œuvre leur plan diabolique.
 

@@ -1,21 +1,17 @@
 ---
 raindrop_id: 297263495
-raindrop_last_update: 2022-12-30T13:36:09.878Z
+raindrop_last_update: 2023-02-22T08:44:59.899Z
 share: true
 category: source
 ---
-
-Rating:: 3
+%%
+Rating:: ⭐⭐⭐
 Summary:: Juste un regroupement de ressources.
-Author::
 Source:: http://www.presse-citron.net/5-sites-gratuits-pour-pimper-vos-montages-video
-Type:: #SN/
-Status:: 
-MOC::
-Projet:: 
-Tags:: #SN/Article, #finished
+Type:: #SN/Article 
+Status:: #finished 
 Week:: 51
-
+%%
 ***
 # 5 sites gratuits pour améliorer vos montages vidéo
 

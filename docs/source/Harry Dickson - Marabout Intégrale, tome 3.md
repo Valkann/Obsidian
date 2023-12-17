@@ -7,7 +7,7 @@ Date:: 2022-12-03
 Week:: 48
 Rating:: 5
 Summary:: Troisième tome et toujours sympa 
-Author:: [Jean Ray](Jean%20Ray)
+Author:: [Jean Ray](Jean%20Ray.md)
 Source:: 
 Type:: #SN/Livre 
 Status:: #finished 

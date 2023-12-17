@@ -1,5 +1,4 @@
 ---
-Type: projet
 MOC: [Mystères de France MOC](Myst%C3%A8res%20de%20France%20MOC.md)
 Source:
 Projets: [Mystères de France](Myst%C3%A8res%20de%20France.md)
@@ -10,9 +9,12 @@ Created: 2021-09-08-Wed
 Alias:
 published: true
 ---
+%%
 Week:: 50
-Tags:: #JDR/Création, #JDR/Scénario, #MDF, #court, #writing
-
+Type:: #projet/JDR/MotW/scenario/en 
+status:: #WiP 
+Projet:: #MotW, #MystereDeLOuest , #MystereDeFrance 
+%%
 ***  
 
 # The Youdig

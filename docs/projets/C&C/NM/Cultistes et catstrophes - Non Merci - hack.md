@@ -5,19 +5,19 @@ Week:
 - 45
 - 49
 - 51
-URL:
-Alias:
-Type:
 MOC: [MOC jeu de rôle](MOC%20jeu%20de%20r%C3%B4le.md)
 PROJET: [PROJET Cultistes et Catastrophe](PROJET%20Cultistes%20et%20Catastrophe.md)
-Source:
-Author:
-Date:
 share: true 
 category: projets/C&C/NM
 Summary: 
 ---
-Tags : #writing #projet #CultistesEtCatastrophes #projet/jdr/CultistesEtCatastrophes/NonMerci
+
+%%
+Type:: #projet/jdr/CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+Status:: #WiP 
+%%
+
 
 # Cultistes et catastrophes - Non Merci - hack
 
@@ -98,11 +98,11 @@ Un émissaire de votre culte vous apporte le message qui active votre cellule.
 - Scène : vous devez reprendre l'artefact sacré qui est caché à la vue de tous (Grimoire en bibliothèque, Objet au musée...)
 - Scène : vous devez mener un rituel pour invoquer votre divinité sans que vos voisins s'en aperçoivent
 
-![Incidents Génériques  Garniture](Incidents%20G%C3%A9n%C3%A9riques%20%20Garniture)
+![Incidents Génériques  Garniture](../Incidents%20G%C3%A9n%C3%A9riques%20%20Garniture.md)
 
 ### Idées de scénario
 
-- ![A la poursuite des nains de jardin](A%20la%20poursuite%20des%20nains%20de%20jardin)
-- ![Cultistes et Catastrophes - L'invocation](Cultistes%20et%20Catastrophes%20-%20L'invocation)
-- ![Fête des voisins et sacrifice de minuit](F%C3%AAte%20des%20voisins%20et%20sacrifice%20de%20minuit) 
-- ![La soupe aux choux](La%20soupe%20aux%20choux)
+- ![A la poursuite des nains de jardin](../A%20la%20poursuite%20des%20nains%20de%20jardin.md)
+- ![Cultistes et Catastrophes - L'invocation](../Cultistes%20et%20Catastrophes%20-%20L'invocation.md)
+- ![Fête des voisins et sacrifice de minuit](../F%C3%AAte%20des%20voisins%20et%20sacrifice%20de%20minuit.md) 
+- ![La soupe aux choux](../La%20soupe%20aux%20choux.md)

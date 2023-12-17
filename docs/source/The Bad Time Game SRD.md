@@ -3,17 +3,15 @@ share: true
 category: source
 Alias:
 ---
-Date:: 2022-12-03
+%%
+Date:: [2022-12-03](2022-12-03.md)
 Week:: 48
-Rating:: 4
+Rating:: ⭐⭐⭐⭐
 Summary:: De bonnes idées reste a voir comment les exploiter
-Author::
-Source:: 
 Type:: #SN/JDR #SN/Livre 
 Status:: #finished 
-MOC::
-Projet:: 
-Tags:: #CultistesEtCatastrophes 
+Projet:: #CultistesEtCatastrophes 
+%%
 
 # The Bad Time Game SRD
 

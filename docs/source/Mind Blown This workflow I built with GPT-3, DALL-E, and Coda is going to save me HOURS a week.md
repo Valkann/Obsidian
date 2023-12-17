@@ -10,7 +10,7 @@ Rating:: 5
 Summary:: Une utilisation intéressante des IAs pour la gestion de note.
 Author::
 Source:: [Mind. Blown. This workflow I built with GPT-3, DALL-E, and Coda is going to save me HOURS a week.](https://www.youtube.com/watch?v=b9L0YAMaLf0)
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 - MOC::
 Projet:: 

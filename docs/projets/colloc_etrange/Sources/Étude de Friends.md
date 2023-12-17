@@ -3,7 +3,7 @@ share: true
 category: projets/colloc_etrange/Sources
 Summary: 
 Tags:
-- SN/
+- SN/jdr
 - writing
 Type: projet
 ---
@@ -50,7 +50,7 @@ chaque année le repas de Thanksgiving.*
 
 ## Construction de l'épisode
 
-Plusieurs éléments à[Haut Potentiel Ludique](Potentiels%20ludiques) dans une séance.
+Plusieurs éléments à[ Haut Potentiel Ludique](Potentiels%20ludiques.md) dans une séance.
 
 ### Intrigues
 

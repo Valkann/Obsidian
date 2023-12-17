@@ -7,7 +7,7 @@ Date:: 2022-10-19
 Rating:: 4
 Week:: 41
 Summary:: Toujours sympa un peu de Jean Ray même si ça peut être un peu fatigant à lire.
-Author:: [Jean Ray](Jean%20Ray)
+Author:: [Jean Ray](Jean%20Ray.md)
 Source:: 
 Type:: #SN/Livre 
 Status:: #finished 

@@ -1,6 +1,6 @@
 ---
 raindrop_id: 491226366
-raindrop_last_update: 2022-12-30T13:36:10.669Z
+raindrop_last_update: 2023-02-22T08:45:01.649Z
 share: true
 category: source
 ---
@@ -9,7 +9,7 @@ Rating::⭐⭐⭐
 Summary:: Présentation du livre, autant le lire directement...
 Author::
 Source:: https://youtu.be/8BVKKGrnvP0
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 Status:: #finished 
 MOC::
 Projet:: 

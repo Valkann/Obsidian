@@ -6,6 +6,7 @@ Alias:
 Date:: 2022-12-21
 Week:: 51
 Projet:: [JDR Academy](JDR%20Academy.md)
+Type:: #Projet
 
 
 # JDR ACADEMY - Idées 2023
@@ -23,7 +24,7 @@ Projet:: [JDR Academy](JDR%20Academy.md)
 - Proposer un cadre de campagne #motw
 
 ### Idées.
-- Nouveau format [QMJDR](QMJDR)
+- Nouveau format [QMJDR](QMJDR.md)
 - Améliorer la présence sur Instagram
 - Proposer un format Tik tok
 - Améliorer la présence Facebook

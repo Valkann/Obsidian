@@ -1,18 +1,18 @@
 ---
 raindrop_id: 497239163
-raindrop_last_update: 2023-01-06T10:29:53.742Z
+raindrop_last_update: 2023-02-22T08:45:00.695Z
 share: true
 category: source
 ---
 
-Date:: 2023-01-06
-Rating::
-Review:: 
+Date:: 2023-01-16
+Rating:: ⭐⭐⭐⭐
+Review:: Pas mal, après ça cite des articles et des auteurs déjà lus pour moi et ça ne va pas assez dans le détail, mais bon, c'est parceque  je connais bien le sujet.
 Summary:: 
 Author::
-Source:: https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443
+Source:: [‎Relife : amélioration du quotidien et développement personnel : Choisir un outil de prise de notes et Mastodon sur Apple Podcasts](https://podcasts.apple.com/fr/podcast/relife-am%C3%A9lioration-du-quotidien-et-d%C3%A9veloppement-personnel/id1151622772?i=1000589306443)
 Type:: #SN/Podcast 
-Status:: 
+Status:: #finished 
 MOC::
 Projet:: 
 
@@ -35,4 +35,27 @@ Un dossier sur Mastodon :
   Retrouvez votre communauté : twitodon.com…
 
 ## Highlights
+
+Nas Synology
+
+Service cloud : bien calculé le coût de sortie et des moyens de sortir.
+
+Société : non modernisée, mais l'augmentation du confort global. Ce qui nous laisse dans nos travers, car nous ne faisons plus d'efforts.
+
+Moderne : actuel, contemporain ou récent. La modernité n'est pas le progrès technologique.
+
+## Notes
+
+Idées de Chambre de résonance des contenus
+
+J'aime l'idée de communautés de village pour représenter Mastodon et son réseau social
+
+Réseaux sociaux remplacés par médias sociaux 
+
+Un outil c'est ce qu'on en fait 
+
+Ne faire une organisation Frankenstein avec 50 outils différents 
+
+Le plus simple est le mieux 
+
 

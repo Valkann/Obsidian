@@ -9,10 +9,10 @@ Summary :
 Date : 2022-11-04-Fri
 Author :
 Source : https://www.instagram.com/p/CiINGgLOxXr/?igshid=MDJmNzVkMjY%3D
-Type:: #SN/Vidéo 
+Type:: #SN/YouTube 
 MOC :
 Projet : 
-Tags : #to_discover 
+Tags : #WiP 
 
 # Untitled 2VU meter on mixer track
 
